@@ -1,0 +1,341 @@
+{
+    "skinNotesMap": {
+        "1": {
+            "skinNotesId": 1,
+            "skinName": "TYPE1",
+            "defaultFlg": true,
+            "assetBundleName": "skin00",
+            "seq": 1,
+            "noteSyncEdgeMargin": 0
+        },
+        "2": {
+            "skinNotesId": 2,
+            "skinName": "TYPE2",
+            "defaultFlg": false,
+            "assetBundleName": "skin01",
+            "seq": 2,
+            "noteSyncEdgeMargin": 0
+        },
+        "3": {
+            "skinNotesId": 3,
+            "skinName": "TYPE3",
+            "defaultFlg": false,
+            "assetBundleName": "skin02",
+            "seq": 3,
+            "noteSyncEdgeMargin": 0
+        },
+        "4": {
+            "skinNotesId": 4,
+            "skinName": "TYPE4",
+            "defaultFlg": false,
+            "assetBundleName": "skin03",
+            "seq": 4,
+            "noteSyncEdgeMargin": 0
+        },
+        "5": {
+            "skinNotesId": 5,
+            "skinName": "TYPE5",
+            "defaultFlg": false,
+            "assetBundleName": "skin04",
+            "seq": 5,
+            "noteSyncEdgeMargin": 0
+        },
+        "6": {
+            "skinNotesId": 6,
+            "skinName": "TYPE6",
+            "defaultFlg": false,
+            "assetBundleName": "skin06",
+            "seq": 6,
+            "noteSyncEdgeMargin": 0
+        },
+        "7": {
+            "skinNotesId": 7,
+            "skinName": "TYPE7",
+            "defaultFlg": false,
+            "assetBundleName": "skin05",
+            "seq": 7,
+            "noteSyncEdgeMargin": 1.1
+        }
+    },
+    "skinLaneMap": {
+        "1": {
+            "skinLaneId": 1,
+            "skinName": "レーンスキン00",
+            "skinType": "NORMAL",
+            "defaultFlg": true,
+            "assetBundleName": "skin00",
+            "seq": 1
+        },
+        "10": {
+            "skinLaneId": 10,
+            "skinName": "ハロー、ハッピーワールド！のレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin09",
+            "seq": 105
+        },
+        "11": {
+            "skinLaneId": 11,
+            "skinName": "Morfonicaのレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin10",
+            "seq": 106
+        },
+        "12": {
+            "skinLaneId": 12,
+            "skinName": "RAISE A SUILENのレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin11",
+            "seq": 107
+        },
+        "13": {
+            "skinLaneId": 13,
+            "skinName": "レーンスキン05",
+            "skinType": "NORMAL",
+            "defaultFlg": false,
+            "assetBundleName": "skin12",
+            "seq": 6
+        },
+        "14": {
+            "skinLaneId": 14,
+            "skinName": "レーンスキン06",
+            "skinType": "NORMAL",
+            "defaultFlg": false,
+            "assetBundleName": "skin13",
+            "seq": 7
+        },
+        "15": {
+            "skinLaneId": 15,
+            "skinName": "MyGO!!!!!のレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin14",
+            "seq": 108
+        },
+        "2": {
+            "skinLaneId": 2,
+            "skinName": "レーンスキン01",
+            "skinType": "NORMAL",
+            "defaultFlg": false,
+            "assetBundleName": "skin01",
+            "seq": 2
+        },
+        "3": {
+            "skinLaneId": 3,
+            "skinName": "レーンスキン02",
+            "skinType": "NORMAL",
+            "defaultFlg": false,
+            "assetBundleName": "skin02",
+            "seq": 3
+        },
+        "4": {
+            "skinLaneId": 4,
+            "skinName": "レーンスキン03",
+            "skinType": "NORMAL",
+            "defaultFlg": false,
+            "assetBundleName": "skin03",
+            "seq": 4
+        },
+        "5": {
+            "skinLaneId": 5,
+            "skinName": "レーンスキン04",
+            "skinType": "NORMAL",
+            "defaultFlg": false,
+            "assetBundleName": "skin04",
+            "seq": 5
+        },
+        "6": {
+            "skinLaneId": 6,
+            "skinName": "Poppin'Partyのレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin05",
+            "seq": 101
+        },
+        "7": {
+            "skinLaneId": 7,
+            "skinName": "Afterglowのレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin06",
+            "seq": 102
+        },
+        "8": {
+            "skinLaneId": 8,
+            "skinName": "Pastel＊Palettesのレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin07",
+            "seq": 103
+        },
+        "9": {
+            "skinLaneId": 9,
+            "skinName": "Roseliaのレーン",
+            "skinType": "MISSION",
+            "defaultFlg": false,
+            "assetBundleName": "skin08",
+            "seq": 104
+        }
+    },
+    "skinEffectMap": {
+        "1": {
+            "skinEffectId": 1,
+            "skinName": "エフェクトスキン00",
+            "defaultFlg": true,
+            "assetBundleName": "skin00",
+            "seq": 1
+        },
+        "2": {
+            "skinEffectId": 2,
+            "skinName": "エフェクトスキン01",
+            "defaultFlg": false,
+            "assetBundleName": "skin01",
+            "seq": 2
+        },
+        "3": {
+            "skinEffectId": 3,
+            "skinName": "エフェクトスキン02",
+            "defaultFlg": false,
+            "assetBundleName": "skin02",
+            "seq": 3
+        },
+        "4": {
+            "skinEffectId": 4,
+            "skinName": "エフェクトスキン03",
+            "defaultFlg": false,
+            "assetBundleName": "skin03",
+            "seq": 4
+        },
+        "5": {
+            "skinEffectId": 5,
+            "skinName": "エフェクトスキン04",
+            "defaultFlg": false,
+            "assetBundleName": "skin04",
+            "seq": 5
+        }
+    },
+    "skinBackgroundMap": {
+        "1": {
+            "skinBackgroundId": 1,
+            "skinName": "デフォルト背景",
+            "assetBundleName": "skin00",
+            "seq": 1,
+            "defaultFlg": true
+        },
+        "2": {
+            "skinBackgroundId": 2,
+            "skinName": "ストーリーイベント背景",
+            "eventType": "story",
+            "assetBundleName": "skin01",
+            "seq": 2,
+            "defaultFlg": false
+        },
+        "3": {
+            "skinBackgroundId": 3,
+            "skinName": "チャレンジイベント背景",
+            "eventType": "challenge",
+            "assetBundleName": "skin02",
+            "seq": 3,
+            "defaultFlg": false
+        },
+        "4": {
+            "skinBackgroundId": 4,
+            "skinName": "対バンイベント背景",
+            "eventType": "versus",
+            "assetBundleName": "skin03",
+            "seq": 4,
+            "defaultFlg": false
+        },
+        "5": {
+            "skinBackgroundId": 5,
+            "skinName": "ライブトライイベント背景",
+            "eventType": "live_try",
+            "assetBundleName": "skin04",
+            "seq": 5,
+            "defaultFlg": false
+        },
+        "7": {
+            "skinBackgroundId": 7,
+            "skinName": "フェスイベント・ライブ背景",
+            "eventType": "festival",
+            "assetBundleName": "skin_teamlivefestival",
+            "seq": 7,
+            "defaultFlg": false
+        }
+    },
+    "skinSoundEffectMap": {
+        "1": {
+            "skinSoundEffectId": 1,
+            "skinName": "SEスキン00",
+            "defaultFlg": true,
+            "assetBundleName": "skin00",
+            "seq": 1
+        },
+        "2": {
+            "skinSoundEffectId": 2,
+            "skinName": "SEスキン01",
+            "defaultFlg": false,
+            "assetBundleName": "skin01",
+            "seq": 2
+        },
+        "3": {
+            "skinSoundEffectId": 3,
+            "skinName": "SEスキン02",
+            "defaultFlg": false,
+            "assetBundleName": "skin02",
+            "seq": 3
+        },
+        "4": {
+            "skinSoundEffectId": 4,
+            "skinName": "SEスキン03",
+            "defaultFlg": false,
+            "assetBundleName": "skin03",
+            "seq": 4
+        }
+    },
+    "defaultSkinNotesId": 1,
+    "defaultSkinLaneId": 1,
+    "defaultSkinEffectId": 1,
+    "defaultSkinBackgroundId": 1,
+    "defaultSkinSoundEffectId": 1,
+    "skinDirectionalFlickMap": {
+        "1": {
+            "skinDirectionalFlickId": 1,
+            "seq": 1,
+            "skinName": "TYPE1",
+            "defaultFlg": true,
+            "assetBundleName": "skin00"
+        },
+        "2": {
+            "skinDirectionalFlickId": 2,
+            "seq": 2,
+            "skinName": "TYPE2",
+            "defaultFlg": false,
+            "assetBundleName": "skin01"
+        },
+        "3": {
+            "skinDirectionalFlickId": 3,
+            "seq": 3,
+            "skinName": "TYPE3",
+            "defaultFlg": false,
+            "assetBundleName": "skin02"
+        },
+        "4": {
+            "skinDirectionalFlickId": 4,
+            "seq": 4,
+            "skinName": "TYPE4",
+            "defaultFlg": false,
+            "assetBundleName": "skin03"
+        },
+        "5": {
+            "skinDirectionalFlickId": 5,
+            "seq": 5,
+            "skinName": "TYPE5",
+            "defaultFlg": false,
+            "assetBundleName": "skin04"
+        }
+    },
+    "defaultSkinDirectionalFlickId": 1
+}

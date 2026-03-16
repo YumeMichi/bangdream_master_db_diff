@@ -1,0 +1,581 @@
+{
+    "91": {
+        "eventBoxGachaId": 91,
+        "eventId": 324,
+        "name": "まりなさんのごほうび箱",
+        "publishedAt": 1772863200000,
+        "closedAt": 1774785599000,
+        "rewardItemName": "ごほうび",
+        "rewardBgBundleName": "bg_eventgacha_green",
+        "detailsMap": {
+            "1": {
+                "entries": [
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 1,
+                        "count": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 19,
+                        "resourceQuantity": 2,
+                        "pickupFlag": true
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 2,
+                        "count": 4,
+                        "resourceType": "item",
+                        "resourceId": 12,
+                        "resourceQuantity": 5,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 3,
+                        "count": 14,
+                        "resourceType": "item",
+                        "resourceId": 8,
+                        "resourceQuantity": 30,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 4,
+                        "count": 10,
+                        "resourceType": "item",
+                        "resourceId": 4,
+                        "resourceQuantity": 100,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 5,
+                        "count": 3,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 6,
+                        "count": 5,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 5,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 1,
+                        "seq": 7,
+                        "count": 3,
+                        "resourceType": "live_boost_recovery_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    }
+                ]
+            },
+            "2": {
+                "entries": [
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 1,
+                        "count": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 7,
+                        "resourceQuantity": 2,
+                        "pickupFlag": true
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 2,
+                        "count": 6,
+                        "resourceType": "item",
+                        "resourceId": 12,
+                        "resourceQuantity": 5,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 3,
+                        "count": 21,
+                        "resourceType": "item",
+                        "resourceId": 8,
+                        "resourceQuantity": 30,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 4,
+                        "count": 15,
+                        "resourceType": "item",
+                        "resourceId": 4,
+                        "resourceQuantity": 100,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 5,
+                        "count": 6,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 6,
+                        "count": 5,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 5,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 7,
+                        "count": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 8,
+                        "count": 5,
+                        "resourceType": "coin",
+                        "resourceQuantity": 2000,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 2,
+                        "seq": 9,
+                        "count": 5,
+                        "resourceType": "live_boost_recovery_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    }
+                ]
+            },
+            "3": {
+                "entries": [
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 1,
+                        "count": 1,
+                        "resourceType": "item",
+                        "resourceId": 15,
+                        "resourceQuantity": 2,
+                        "pickupFlag": true
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 2,
+                        "count": 8,
+                        "resourceType": "item",
+                        "resourceId": 12,
+                        "resourceQuantity": 5,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 3,
+                        "count": 28,
+                        "resourceType": "item",
+                        "resourceId": 8,
+                        "resourceQuantity": 30,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 4,
+                        "count": 20,
+                        "resourceType": "item",
+                        "resourceId": 4,
+                        "resourceQuantity": 100,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 5,
+                        "count": 10,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 6,
+                        "count": 2,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 3,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 7,
+                        "count": 5,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 5,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 8,
+                        "count": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 9,
+                        "count": 10,
+                        "resourceType": "coin",
+                        "resourceQuantity": 2000,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 3,
+                        "seq": 10,
+                        "count": 5,
+                        "resourceType": "live_boost_recovery_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    }
+                ]
+            },
+            "4": {
+                "entries": [
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 1,
+                        "count": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 7,
+                        "resourceQuantity": 5,
+                        "pickupFlag": true
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 2,
+                        "count": 12,
+                        "resourceType": "item",
+                        "resourceId": 12,
+                        "resourceQuantity": 5,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 3,
+                        "count": 42,
+                        "resourceType": "item",
+                        "resourceId": 8,
+                        "resourceQuantity": 30,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 4,
+                        "count": 30,
+                        "resourceType": "item",
+                        "resourceId": 4,
+                        "resourceQuantity": 100,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 5,
+                        "count": 20,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 6,
+                        "count": 4,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 3,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 7,
+                        "count": 10,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 5,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 8,
+                        "count": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 9,
+                        "count": 35,
+                        "resourceType": "coin",
+                        "resourceQuantity": 2000,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 4,
+                        "seq": 10,
+                        "count": 5,
+                        "resourceType": "live_boost_recovery_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    }
+                ]
+            },
+            "5": {
+                "entries": [
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 1,
+                        "count": 1,
+                        "resourceType": "costume_3d_making_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 20,
+                        "pickupFlag": true
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 2,
+                        "count": 18,
+                        "resourceType": "item",
+                        "resourceId": 12,
+                        "resourceQuantity": 5,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 3,
+                        "count": 63,
+                        "resourceType": "item",
+                        "resourceId": 8,
+                        "resourceQuantity": 30,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 4,
+                        "count": 45,
+                        "resourceType": "item",
+                        "resourceId": 4,
+                        "resourceQuantity": 100,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 5,
+                        "count": 30,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 6,
+                        "count": 6,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 3,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 7,
+                        "count": 10,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 5,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 8,
+                        "count": 2,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 9,
+                        "count": 40,
+                        "resourceType": "coin",
+                        "resourceQuantity": 5000,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 5,
+                        "seq": 10,
+                        "count": 5,
+                        "resourceType": "live_boost_recovery_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    }
+                ]
+            },
+            "6": {
+                "entries": [
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 1,
+                        "count": 1,
+                        "resourceType": "coin",
+                        "resourceQuantity": 100000,
+                        "pickupFlag": true
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 2,
+                        "count": 20,
+                        "resourceType": "item",
+                        "resourceId": 12,
+                        "resourceQuantity": 5,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 3,
+                        "count": 70,
+                        "resourceType": "item",
+                        "resourceId": 8,
+                        "resourceQuantity": 30,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 4,
+                        "count": 50,
+                        "resourceType": "item",
+                        "resourceId": 4,
+                        "resourceQuantity": 100,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 5,
+                        "count": 30,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 6,
+                        "count": 4,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 3,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 7,
+                        "count": 5,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 5,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 8,
+                        "count": 40,
+                        "resourceType": "coin",
+                        "resourceQuantity": 5000,
+                        "pickupFlag": false
+                    },
+                    {
+                        "eventBoxGachaId": 91,
+                        "round": 6,
+                        "seq": 9,
+                        "count": 10,
+                        "resourceType": "live_boost_recovery_item",
+                        "resourceId": 1,
+                        "resourceQuantity": 1,
+                        "pickupFlag": false
+                    }
+                ]
+            }
+        }
+    }
+}

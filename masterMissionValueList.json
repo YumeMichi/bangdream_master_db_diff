@@ -1,0 +1,629 @@
+{
+    "valueUintMap": {
+        "100001": {
+            "valueUint": 1
+        },
+        "100002": {
+            "valueUint": 2
+        },
+        "100003": {
+            "valueUint": 4
+        },
+        "100004": {
+            "valueUint": 5
+        },
+        "100005": {
+            "valueUint": 3
+        },
+        "100011": {
+            "valueUint": 1
+        },
+        "100012": {
+            "valueUint": 2
+        },
+        "100013": {
+            "valueUint": 4
+        },
+        "100014": {
+            "valueUint": 5
+        },
+        "100015": {
+            "valueUint": 3
+        },
+        "100026": {
+            "valueUint": 21
+        },
+        "100028": {
+            "valueUint": 21
+        },
+        "100029": {
+            "valueUint": 18
+        },
+        "100031": {
+            "valueUint": 18
+        },
+        "100051": {
+            "valueUint": 45
+        },
+        "1001": {
+            "valueUint": 1
+        },
+        "1002": {
+            "valueUint": 2
+        },
+        "1003": {
+            "valueUint": 3
+        },
+        "10033": {
+            "valueUint": 129
+        },
+        "10039": {
+            "valueUint": 135
+        },
+        "1004": {
+            "valueUint": 4
+        },
+        "1005": {
+            "valueUint": 5
+        },
+        "1006": {
+            "valueUint": 6
+        },
+        "1007": {
+            "valueUint": 7
+        },
+        "1008": {
+            "valueUint": 8
+        },
+        "1009": {
+            "valueUint": 9
+        },
+        "1010": {
+            "valueUint": 10
+        },
+        "1011": {
+            "valueUint": 16
+        },
+        "1012": {
+            "valueUint": 17
+        },
+        "1013": {
+            "valueUint": 18
+        },
+        "1014": {
+            "valueUint": 19
+        },
+        "1015": {
+            "valueUint": 20
+        },
+        "1016": {
+            "valueUint": 21
+        },
+        "1017": {
+            "valueUint": 22
+        },
+        "1018": {
+            "valueUint": 23
+        },
+        "1019": {
+            "valueUint": 24
+        },
+        "1020": {
+            "valueUint": 25
+        },
+        "1021": {
+            "valueUint": 11
+        },
+        "1022": {
+            "valueUint": 12
+        },
+        "1023": {
+            "valueUint": 13
+        },
+        "1024": {
+            "valueUint": 14
+        },
+        "1025": {
+            "valueUint": 15
+        },
+        "1026": {
+            "valueUint": 26
+        },
+        "1027": {
+            "valueUint": 27
+        },
+        "1028": {
+            "valueUint": 28
+        },
+        "1029": {
+            "valueUint": 29
+        },
+        "1030": {
+            "valueUint": 30
+        },
+        "1031": {
+            "valueUint": 31
+        },
+        "1032": {
+            "valueUint": 32
+        },
+        "1033": {
+            "valueUint": 33
+        },
+        "1034": {
+            "valueUint": 34
+        },
+        "1035": {
+            "valueUint": 35
+        },
+        "1036": {
+            "valueUint": 36
+        },
+        "1037": {
+            "valueUint": 37
+        },
+        "1038": {
+            "valueUint": 38
+        },
+        "1039": {
+            "valueUint": 39
+        },
+        "1040": {
+            "valueUint": 40
+        },
+        "13": {
+            "valueUint": 1
+        },
+        "14": {
+            "valueUint": 2
+        },
+        "15": {
+            "valueUint": 3
+        },
+        "16": {
+            "valueUint": 4
+        },
+        "200001": {
+            "valueUint": 21
+        },
+        "27": {
+            "valueUint": 5
+        },
+        "28": {
+            "valueUint": 45
+        },
+        "3": {
+            "valueUint": 1
+        },
+        "300000001": {
+            "valueUint": 1
+        },
+        "300000002": {
+            "valueUint": 2
+        },
+        "300000003": {
+            "valueUint": 3
+        },
+        "300000004": {
+            "valueUint": 4
+        },
+        "300000005": {
+            "valueUint": 5
+        },
+        "300000006": {
+            "valueUint": 6
+        },
+        "300000007": {
+            "valueUint": 7
+        },
+        "300000008": {
+            "valueUint": 8
+        },
+        "300000009": {
+            "valueUint": 9
+        },
+        "300000010": {
+            "valueUint": 10
+        },
+        "300000011": {
+            "valueUint": 11
+        },
+        "300000012": {
+            "valueUint": 12
+        },
+        "300000013": {
+            "valueUint": 13
+        },
+        "300000014": {
+            "valueUint": 14
+        },
+        "300000015": {
+            "valueUint": 15
+        },
+        "300000016": {
+            "valueUint": 16
+        },
+        "300000017": {
+            "valueUint": 17
+        },
+        "300000018": {
+            "valueUint": 18
+        },
+        "300000019": {
+            "valueUint": 19
+        },
+        "300000020": {
+            "valueUint": 20
+        },
+        "300000021": {
+            "valueUint": 21
+        },
+        "300000022": {
+            "valueUint": 22
+        },
+        "300000023": {
+            "valueUint": 23
+        },
+        "300000024": {
+            "valueUint": 24
+        },
+        "300000025": {
+            "valueUint": 25
+        },
+        "300000026": {
+            "valueUint": 26
+        },
+        "300000027": {
+            "valueUint": 27
+        },
+        "300000028": {
+            "valueUint": 28
+        },
+        "300000029": {
+            "valueUint": 29
+        },
+        "300000030": {
+            "valueUint": 30
+        },
+        "300000031": {
+            "valueUint": 31
+        },
+        "300000032": {
+            "valueUint": 32
+        },
+        "300000033": {
+            "valueUint": 33
+        },
+        "300000034": {
+            "valueUint": 34
+        },
+        "300000035": {
+            "valueUint": 35
+        },
+        "300000036": {
+            "valueUint": 36
+        },
+        "300000037": {
+            "valueUint": 37
+        },
+        "300000038": {
+            "valueUint": 38
+        },
+        "300000039": {
+            "valueUint": 39
+        },
+        "300000040": {
+            "valueUint": 40
+        },
+        "310000001": {
+            "valueUint": 1
+        },
+        "310000002": {
+            "valueUint": 2
+        },
+        "310000003": {
+            "valueUint": 3
+        },
+        "310000004": {
+            "valueUint": 4
+        },
+        "310000005": {
+            "valueUint": 5
+        },
+        "310000006": {
+            "valueUint": 6
+        },
+        "310000007": {
+            "valueUint": 7
+        },
+        "310000008": {
+            "valueUint": 8
+        },
+        "310000009": {
+            "valueUint": 9
+        },
+        "310000010": {
+            "valueUint": 10
+        },
+        "310000011": {
+            "valueUint": 11
+        },
+        "310000012": {
+            "valueUint": 12
+        },
+        "310000013": {
+            "valueUint": 13
+        },
+        "310000014": {
+            "valueUint": 14
+        },
+        "310000015": {
+            "valueUint": 15
+        },
+        "310000016": {
+            "valueUint": 16
+        },
+        "310000017": {
+            "valueUint": 17
+        },
+        "310000018": {
+            "valueUint": 18
+        },
+        "310000019": {
+            "valueUint": 19
+        },
+        "310000020": {
+            "valueUint": 20
+        },
+        "310000021": {
+            "valueUint": 21
+        },
+        "310000022": {
+            "valueUint": 22
+        },
+        "310000023": {
+            "valueUint": 23
+        },
+        "310000024": {
+            "valueUint": 24
+        },
+        "310000025": {
+            "valueUint": 25
+        },
+        "310000026": {
+            "valueUint": 26
+        },
+        "310000027": {
+            "valueUint": 27
+        },
+        "310000028": {
+            "valueUint": 28
+        },
+        "310000029": {
+            "valueUint": 29
+        },
+        "310000030": {
+            "valueUint": 30
+        },
+        "310000031": {
+            "valueUint": 31
+        },
+        "310000032": {
+            "valueUint": 32
+        },
+        "310000033": {
+            "valueUint": 33
+        },
+        "310000034": {
+            "valueUint": 34
+        },
+        "310000035": {
+            "valueUint": 35
+        },
+        "310000036": {
+            "valueUint": 36
+        },
+        "310000037": {
+            "valueUint": 37
+        },
+        "310000038": {
+            "valueUint": 38
+        },
+        "310000039": {
+            "valueUint": 39
+        },
+        "310000040": {
+            "valueUint": 40
+        },
+        "4": {
+            "valueUint": 2
+        },
+        "5": {
+            "valueUint": 4
+        },
+        "6": {
+            "valueUint": 5
+        },
+        "7": {
+            "valueUint": 3
+        },
+        "8": {
+            "valueUint": 21
+        },
+        "9": {
+            "valueUint": 18
+        }
+    },
+    "valueStringMap": {
+        "1": {
+            "valueString": "https://line.me/R/ti/p/%40fht6793t"
+        },
+        "10": {
+            "valueString": "PERFORMANCE"
+        },
+        "100016": {
+            "valueString": "POWERFUL"
+        },
+        "100017": {
+            "valueString": "COOL"
+        },
+        "100018": {
+            "valueString": "PURE"
+        },
+        "100019": {
+            "valueString": "HAPPY"
+        },
+        "100020": {
+            "valueString": "PERFORMANCE"
+        },
+        "100021": {
+            "valueString": "TECHNIQUE"
+        },
+        "100022": {
+            "valueString": "VISUAL"
+        },
+        "11": {
+            "valueString": "TECHNIQUE"
+        },
+        "12": {
+            "valueString": "VISUAL"
+        },
+        "17": {
+            "valueString": "STANDARD"
+        },
+        "18": {
+            "valueString": "GRAND"
+        },
+        "19": {
+            "valueString": "LEGEND"
+        },
+        "2": {
+            "valueString": "https://twitter.com/intent/follow?screen_name=bang_dream_gbp"
+        },
+        "20": {
+            "valueString": "LEGEND"
+        },
+        "21": {
+            "valueString": "LEGEND"
+        },
+        "22": {
+            "valueString": "LEGEND"
+        },
+        "23": {
+            "valueString": "LEGEND"
+        },
+        "24": {
+            "valueString": "LEGEND"
+        },
+        "25": {
+            "valueString": "LEGEND"
+        },
+        "26": {
+            "valueString": "LEGEND"
+        },
+        "29": {
+            "valueString": "LEGEND"
+        },
+        "999001": {
+            "valueString": "BAND"
+        }
+    },
+    "valueAreaItemMap": {
+        "100006": {
+            "bandId": 1,
+            "categoryIds": [
+                1,
+                6,
+                11,
+                16,
+                21,
+                26,
+                31
+            ]
+        },
+        "100007": {
+            "bandId": 2,
+            "categoryIds": [
+                2,
+                7,
+                12,
+                17,
+                22,
+                27,
+                32
+            ]
+        },
+        "100008": {
+            "bandId": 4,
+            "categoryIds": [
+                3,
+                8,
+                13,
+                18,
+                23,
+                28,
+                33
+            ]
+        },
+        "100009": {
+            "bandId": 5,
+            "categoryIds": [
+                4,
+                9,
+                14,
+                19,
+                24,
+                29,
+                34
+            ]
+        },
+        "100010": {
+            "bandId": 3,
+            "categoryIds": [
+                5,
+                10,
+                15,
+                20,
+                25,
+                30,
+                35
+            ]
+        },
+        "100027": {
+            "bandId": 21,
+            "categoryIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ]
+        },
+        "100030": {
+            "bandId": 18,
+            "categoryIds": [
+                90,
+                91,
+                93,
+                92,
+                94,
+                95,
+                96
+            ]
+        },
+        "100051": {
+            "bandId": 45,
+            "categoryIds": [
+                97,
+                98,
+                99,
+                101,
+                100,
+                102,
+                103
+            ]
+        }
+    }
+}

@@ -1,0 +1,1182 @@
+{
+    "220": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 1,
+                "description": "ステージチャレンジの「メイン」のPoppin'Partyで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "221": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "225": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 1,
+                "description": "ステージチャレンジの「メイン」のPoppin'Partyで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "226": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "230": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 1,
+                "description": "ステージチャレンジの「メイン」のPoppin'Partyで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "231": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "235": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 1,
+                "description": "ステージチャレンジの「メイン」のPoppin'Partyで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "236": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "240": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 1,
+                "description": "ステージチャレンジの「メイン」のPoppin'Partyで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "241": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "245": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 2,
+                "description": "ステージチャレンジの「メイン」のAfterglowで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "246": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "250": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 2,
+                "description": "ステージチャレンジの「メイン」のAfterglowで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "251": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "255": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 2,
+                "description": "ステージチャレンジの「メイン」のAfterglowで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "256": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "260": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 2,
+                "description": "ステージチャレンジの「メイン」のAfterglowで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "261": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "265": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 2,
+                "description": "ステージチャレンジの「メイン」のAfterglowで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "266": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "270": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 5,
+                "description": "ステージチャレンジの「メイン」のハロー、ハッピーワールド！で☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "271": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "275": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 5,
+                "description": "ステージチャレンジの「メイン」のハロー、ハッピーワールド！で☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "276": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "280": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 5,
+                "description": "ステージチャレンジの「メイン」のハロー、ハッピーワールド！で☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "281": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "285": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 5,
+                "description": "ステージチャレンジの「メイン」のハロー、ハッピーワールド！で☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "286": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "290": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 5,
+                "description": "ステージチャレンジの「メイン」のハロー、ハッピーワールド！で☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "291": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "295": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 3,
+                "description": "ステージチャレンジの「メイン」のPastel＊Palettesで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "296": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "300": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 3,
+                "description": "ステージチャレンジの「メイン」のPastel＊Palettesで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "301": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "305": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 3,
+                "description": "ステージチャレンジの「メイン」のPastel＊Palettesで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "306": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "310": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 3,
+                "description": "ステージチャレンジの「メイン」のPastel＊Palettesで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "311": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "315": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 3,
+                "description": "ステージチャレンジの「メイン」のPastel＊Palettesで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "316": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "320": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 4,
+                "description": "ステージチャレンジの「メイン」のRoseliaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "321": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "325": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 4,
+                "description": "ステージチャレンジの「メイン」のRoseliaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "326": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "330": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 4,
+                "description": "ステージチャレンジの「メイン」のRoseliaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "331": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "335": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 4,
+                "description": "ステージチャレンジの「メイン」のRoseliaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "336": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "340": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 4,
+                "description": "ステージチャレンジの「メイン」のRoseliaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "341": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "345": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 6,
+                "description": "ステージチャレンジの「メイン」のMorfonicaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "346": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "350": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 6,
+                "description": "ステージチャレンジの「メイン」のMorfonicaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "351": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "355": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 6,
+                "description": "ステージチャレンジの「メイン」のMorfonicaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "356": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "360": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 6,
+                "description": "ステージチャレンジの「メイン」のMorfonicaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "361": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "365": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 6,
+                "description": "ステージチャレンジの「メイン」のMorfonicaで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "366": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "370": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 7,
+                "description": "ステージチャレンジの「メイン」のRAISE A SUILENで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "371": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "375": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 7,
+                "description": "ステージチャレンジの「メイン」のRAISE A SUILENで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "376": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "380": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 7,
+                "description": "ステージチャレンジの「メイン」のRAISE A SUILENで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "381": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "385": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 7,
+                "description": "ステージチャレンジの「メイン」のRAISE A SUILENで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "386": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "390": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 7,
+                "description": "ステージチャレンジの「メイン」のRAISE A SUILENで☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "391": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "395": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "stage_challenge",
+                "value": 5,
+                "description": "ステージチャレンジの「メイン」のハロー、ハッピーワールド！で☆85個の達成報酬で獲得！"
+            }
+        ]
+    },
+    "396": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "397": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 19,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（氷川 日菜）」を購入！"
+            }
+        ]
+    },
+    "398": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 18,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（氷川 紗夜）」を購入！"
+            }
+        ]
+    },
+    "399": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 20,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（牛込 りみ）」を購入！"
+            }
+        ]
+    },
+    "400": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 21,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（パレオ）」を購入！"
+            }
+        ]
+    },
+    "401": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 22,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（白鷺 千聖）」を購入！"
+            }
+        ]
+    },
+    "402": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 23,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（美竹 蘭）」を購入！"
+            }
+        ]
+    },
+    "403": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 24,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（宇田川 巴）」を購入！"
+            }
+        ]
+    },
+    "404": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 25,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（松原 花音）」を購入！"
+            }
+        ]
+    },
+    "405": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 26,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（マスキング）」を購入！"
+            }
+        ]
+    },
+    "406": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 27,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（山吹 沙綾）」を購入！"
+            }
+        ]
+    },
+    "407": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 28,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（広町 七深）」を購入！"
+            }
+        ]
+    },
+    "408": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 29,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（若宮 イヴ）」を購入！"
+            }
+        ]
+    },
+    "409": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 30,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（宇田川 あこ）」を購入！"
+            }
+        ]
+    },
+    "410": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 31,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（戸山 香澄）」を購入！"
+            }
+        ]
+    },
+    "411": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 32,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（ロック）」を購入！"
+            }
+        ]
+    },
+    "412": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 33,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（北沢 はぐみ）」を購入！"
+            }
+        ]
+    },
+    "413": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 34,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（弦巻 こころ）」を購入！"
+            }
+        ]
+    },
+    "414": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 35,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（今井 リサ）」を購入！"
+            }
+        ]
+    },
+    "415": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 36,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（青葉 モカ）」を購入！"
+            }
+        ]
+    },
+    "416": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 37,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（二葉 つくし）」を購入！"
+            }
+        ]
+    },
+    "417": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 38,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（奥沢 美咲/ミッシェル）」を購入！"
+            }
+        ]
+    },
+    "418": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 39,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（白金 燐子）」を購入！"
+            }
+        ]
+    },
+    "419": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 40,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（上原 ひまり）」を購入！"
+            }
+        ]
+    },
+    "420": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 41,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（湊 友希那）」を購入！"
+            }
+        ]
+    },
+    "421": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 42,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（市ヶ谷 有咲）」を購入！"
+            }
+        ]
+    },
+    "422": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 43,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（大和 麻弥）」を購入！"
+            }
+        ]
+    },
+    "423": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 44,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（八潮 瑠唯）」を購入！"
+            }
+        ]
+    },
+    "424": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 45,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（花園 たえ）」を購入！"
+            }
+        ]
+    },
+    "425": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 46,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（チュチュ）」を購入！"
+            }
+        ]
+    },
+    "426": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 47,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（桐ヶ谷 透子）」を購入！"
+            }
+        ]
+    },
+    "427": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 48,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（丸山 彩）」を購入！"
+            }
+        ]
+    },
+    "428": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 49,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（羽沢 つぐみ）」を購入！"
+            }
+        ]
+    },
+    "429": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 50,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（レイヤ）」を購入！"
+            }
+        ]
+    },
+    "430": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 51,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（倉田 ましろ）」を購入！"
+            }
+        ]
+    },
+    "431": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 52,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（瀬田 薫）」を購入！"
+            }
+        ]
+    },
+    "466": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "471": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "476": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "481": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "486": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "character_rank",
+                "value": 100,
+                "description": "キャラランクを100にしてキャラランク報酬で獲得！"
+            }
+        ]
+    },
+    "487": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 38,
+                "description": "スターショップで「3Dライブ衣装「Special birthday！」（奥沢 美咲/ミッシェル）」を購入！"
+            }
+        ]
+    },
+    "488": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 118,
+                "description": "スターショップで「3Dライブ衣装「Hopeful birthday！」（長崎 そよ）」を購入！"
+            }
+        ]
+    },
+    "489": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 119,
+                "description": "スターショップで「3Dライブ衣装「Hopeful birthday！」（椎名 立希）」を購入！"
+            }
+        ]
+    },
+    "490": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 120,
+                "description": "スターショップで「3Dライブ衣装「Hopeful birthday！」（千早 愛音）」を購入！"
+            }
+        ]
+    },
+    "491": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 125,
+                "description": "スターショップで「3Dライブ衣装「Hopeful birthday！」（高松 燈）」を購入！"
+            }
+        ]
+    },
+    "492": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "purchase_star",
+                "value": 136,
+                "description": "スターショップで「3Dライブ衣装「Hopeful birthday！」（要 楽奈）」を購入！"
+            }
+        ]
+    }
+}

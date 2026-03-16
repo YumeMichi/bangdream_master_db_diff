@@ -1,0 +1,2154 @@
+{
+    "1002": {
+        "entries": [
+            {
+                "costumeId": 1002,
+                "motionId": 52,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1003": {
+        "entries": [
+            {
+                "costumeId": 1003,
+                "motionId": 62,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1004": {
+        "entries": [
+            {
+                "costumeId": 1004,
+                "motionId": 56,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1005": {
+        "entries": [
+            {
+                "costumeId": 1005,
+                "motionId": 66,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1006": {
+        "entries": [
+            {
+                "costumeId": 1006,
+                "motionId": 72,
+                "motion": "m_nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1018": {
+        "entries": [
+            {
+                "costumeId": 1018,
+                "motionId": 82,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1019": {
+        "entries": [
+            {
+                "costumeId": 1019,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1033": {
+        "entries": [
+            {
+                "costumeId": 1033,
+                "motionId": 24,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1034": {
+        "entries": [
+            {
+                "costumeId": 1034,
+                "motionId": 103,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1050": {
+        "entries": [
+            {
+                "costumeId": 1050,
+                "motionId": 11,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1051": {
+        "entries": [
+            {
+                "costumeId": 1051,
+                "motionId": 10,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1082": {
+        "entries": [
+            {
+                "costumeId": 1082,
+                "motionId": 20,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1083": {
+        "entries": [
+            {
+                "costumeId": 1083,
+                "motionId": 91,
+                "motion": "smile04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1091": {
+        "entries": [
+            {
+                "costumeId": 1091,
+                "motionId": 130,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1135": {
+        "entries": [
+            {
+                "costumeId": 1135,
+                "motionId": 27,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1136": {
+        "entries": [
+            {
+                "costumeId": 1136,
+                "motionId": 42,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1146": {
+        "entries": [
+            {
+                "costumeId": 1146,
+                "motionId": 77,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1147": {
+        "entries": [
+            {
+                "costumeId": 1147,
+                "motionId": 86,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1148": {
+        "entries": [
+            {
+                "costumeId": 1148,
+                "motionId": 94,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1149": {
+        "entries": [
+            {
+                "costumeId": 1149,
+                "motionId": 98,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1150": {
+        "entries": [
+            {
+                "costumeId": 1150,
+                "motionId": 82,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1304": {
+        "entries": [
+            {
+                "costumeId": 1304,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1305": {
+        "entries": [
+            {
+                "costumeId": 1305,
+                "motionId": 46,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1368": {
+        "entries": [
+            {
+                "costumeId": 1368,
+                "motionId": 23,
+                "motion": "shame01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1369": {
+        "entries": [
+            {
+                "costumeId": 1369,
+                "motionId": 124,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1370": {
+        "entries": [
+            {
+                "costumeId": 1370,
+                "motionId": 75,
+                "motion": "m_sad",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1378": {
+        "entries": [
+            {
+                "costumeId": 1378,
+                "motionId": 156,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1380": {
+        "entries": [
+            {
+                "costumeId": 1380,
+                "motionId": 136,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1420": {
+        "entries": [
+            {
+                "costumeId": 1420,
+                "motionId": 151,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1421": {
+        "entries": [
+            {
+                "costumeId": 1421,
+                "motionId": 174,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1422": {
+        "entries": [
+            {
+                "costumeId": 1422,
+                "motionId": 157,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1423": {
+        "entries": [
+            {
+                "costumeId": 1423,
+                "motionId": 164,
+                "motion": "nf05",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1424": {
+        "entries": [
+            {
+                "costumeId": 1424,
+                "motionId": 168,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1425": {
+        "entries": [
+            {
+                "costumeId": 1425,
+                "motionId": 77,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1426": {
+        "entries": [
+            {
+                "costumeId": 1426,
+                "motionId": 91,
+                "motion": "smile04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1443": {
+        "entries": [
+            {
+                "costumeId": 1443,
+                "motionId": 27,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1444": {
+        "entries": [
+            {
+                "costumeId": 1444,
+                "motionId": 101,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1464": {
+        "entries": [
+            {
+                "costumeId": 1464,
+                "motionId": 136,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1465": {
+        "entries": [
+            {
+                "costumeId": 1465,
+                "motionId": 128,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1477": {
+        "entries": [
+            {
+                "costumeId": 1477,
+                "motionId": 99,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1478": {
+        "entries": [
+            {
+                "costumeId": 1478,
+                "motionId": 67,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1479": {
+        "entries": [
+            {
+                "costumeId": 1479,
+                "motionId": 56,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1500": {
+        "entries": [
+            {
+                "costumeId": 1500,
+                "motionId": 42,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1501": {
+        "entries": [
+            {
+                "costumeId": 1501,
+                "motionId": 35,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1522": {
+        "entries": [
+            {
+                "costumeId": 1522,
+                "motionId": 128,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1523": {
+        "entries": [
+            {
+                "costumeId": 1523,
+                "motionId": 142,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1524": {
+        "entries": [
+            {
+                "costumeId": 1524,
+                "motionId": 132,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1525": {
+        "entries": [
+            {
+                "costumeId": 1525,
+                "motionId": 136,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1526": {
+        "entries": [
+            {
+                "costumeId": 1526,
+                "motionId": 150,
+                "motion": "nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1540": {
+        "entries": [
+            {
+                "costumeId": 1540,
+                "motionId": 58,
+                "motion": "kime05",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1541": {
+        "entries": [
+            {
+                "costumeId": 1541,
+                "motionId": 88,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1561": {
+        "entries": [
+            {
+                "costumeId": 1561,
+                "motionId": 10,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1562": {
+        "entries": [
+            {
+                "costumeId": 1562,
+                "motionId": 62,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1581": {
+        "entries": [
+            {
+                "costumeId": 1581,
+                "motionId": 150,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1582": {
+        "entries": [
+            {
+                "costumeId": 1582,
+                "motionId": 135,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1724": {
+        "entries": [
+            {
+                "costumeId": 1724,
+                "motionId": 168,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1725": {
+        "entries": [
+            {
+                "costumeId": 1725,
+                "motionId": 82,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1741": {
+        "entries": [
+            {
+                "costumeId": 1741,
+                "motionId": 27,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1742": {
+        "entries": [
+            {
+                "costumeId": 1742,
+                "motionId": 110,
+                "motion": "nf01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1745": {
+        "entries": [
+            {
+                "costumeId": 1745,
+                "motionId": 135,
+                "motion": "nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1757": {
+        "entries": [
+            {
+                "costumeId": 1757,
+                "motionId": 114,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1758": {
+        "entries": [
+            {
+                "costumeId": 1758,
+                "motionId": 121,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1769": {
+        "entries": [
+            {
+                "costumeId": 1769,
+                "motionId": 54,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1770": {
+        "entries": [
+            {
+                "costumeId": 1770,
+                "motionId": 72,
+                "motion": "m_nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1801": {
+        "entries": [
+            {
+                "costumeId": 1801,
+                "motionId": 116,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1802": {
+        "entries": [
+            {
+                "costumeId": 1802,
+                "motionId": 37,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1835": {
+        "entries": [
+            {
+                "costumeId": 1835,
+                "motionId": 142,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1836": {
+        "entries": [
+            {
+                "costumeId": 1836,
+                "motionId": 130,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1857": {
+        "entries": [
+            {
+                "costumeId": 1857,
+                "motionId": 112,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1858": {
+        "entries": [
+            {
+                "costumeId": 1858,
+                "motionId": 35,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1877": {
+        "entries": [
+            {
+                "costumeId": 1877,
+                "motionId": 77,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1878": {
+        "entries": [
+            {
+                "costumeId": 1878,
+                "motionId": 66,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1904": {
+        "entries": [
+            {
+                "costumeId": 1904,
+                "motionId": 6,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1905": {
+        "entries": [
+            {
+                "costumeId": 1905,
+                "motionId": 82,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1906": {
+        "entries": [
+            {
+                "costumeId": 1906,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1907": {
+        "entries": [
+            {
+                "costumeId": 1907,
+                "motionId": 189,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1963": {
+        "entries": [
+            {
+                "costumeId": 1963,
+                "motionId": 98,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1964": {
+        "entries": [
+            {
+                "costumeId": 1964,
+                "motionId": 66,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1980": {
+        "entries": [
+            {
+                "costumeId": 1980,
+                "motionId": 110,
+                "motion": "nf03",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "1981": {
+        "entries": [
+            {
+                "costumeId": 1981,
+                "motionId": 35,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2016": {
+        "entries": [
+            {
+                "costumeId": 2016,
+                "motionId": 142,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2017": {
+        "entries": [
+            {
+                "costumeId": 2017,
+                "motionId": 135,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2023": {
+        "entries": [
+            {
+                "costumeId": 2023,
+                "motionId": 77,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2024": {
+        "entries": [
+            {
+                "costumeId": 2024,
+                "motionId": 56,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2030": {
+        "entries": [
+            {
+                "costumeId": 2030,
+                "motionId": 88,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2031": {
+        "entries": [
+            {
+                "costumeId": 2031,
+                "motionId": 112,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2032": {
+        "entries": [
+            {
+                "costumeId": 2032,
+                "motionId": 168,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2054": {
+        "entries": [
+            {
+                "costumeId": 2054,
+                "motionId": 98,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2055": {
+        "entries": [
+            {
+                "costumeId": 2055,
+                "motionId": 85,
+                "motion": "gattsu01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2071": {
+        "entries": [
+            {
+                "costumeId": 2071,
+                "motionId": 19,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2072": {
+        "entries": [
+            {
+                "costumeId": 2072,
+                "motionId": 124,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2089": {
+        "entries": [
+            {
+                "costumeId": 2089,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2090": {
+        "entries": [
+            {
+                "costumeId": 2090,
+                "motionId": 114,
+                "motion": "nf03",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2101": {
+        "entries": [
+            {
+                "costumeId": 2101,
+                "motionId": 193,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2102": {
+        "entries": [
+            {
+                "costumeId": 2102,
+                "motionId": 181,
+                "motion": "nf03",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2119": {
+        "entries": [
+            {
+                "costumeId": 2119,
+                "motionId": 88,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2120": {
+        "entries": [
+            {
+                "costumeId": 2120,
+                "motionId": 199,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2121": {
+        "entries": [
+            {
+                "costumeId": 2121,
+                "motionId": 136,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2122": {
+        "entries": [
+            {
+                "costumeId": 2122,
+                "motionId": 181,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2145": {
+        "entries": [
+            {
+                "costumeId": 2145,
+                "motionId": 185,
+                "motion": "nf02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2146": {
+        "entries": [
+            {
+                "costumeId": 2146,
+                "motionId": 189,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2147": {
+        "entries": [
+            {
+                "costumeId": 2147,
+                "motionId": 195,
+                "motion": "nf01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2148": {
+        "entries": [
+            {
+                "costumeId": 2148,
+                "motionId": 200,
+                "motion": "thinking02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2149": {
+        "entries": [
+            {
+                "costumeId": 2149,
+                "motionId": 204,
+                "motion": "nf02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2167": {
+        "entries": [
+            {
+                "costumeId": 2167,
+                "motionId": 37,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2168": {
+        "entries": [
+            {
+                "costumeId": 2168,
+                "motionId": 156,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2174": {
+        "entries": [
+            {
+                "costumeId": 2174,
+                "motionId": 181,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2175": {
+        "entries": [
+            {
+                "costumeId": 2175,
+                "motionId": 200,
+                "motion": "thinking02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2176": {
+        "entries": [
+            {
+                "costumeId": 2176,
+                "motionId": 204,
+                "motion": "nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2184": {
+        "entries": [
+            {
+                "costumeId": 2184,
+                "motionId": 27,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2185": {
+        "entries": [
+            {
+                "costumeId": 2185,
+                "motionId": 23,
+                "motion": "shame01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2201": {
+        "entries": [
+            {
+                "costumeId": 2201,
+                "motionId": 72,
+                "motion": "m_nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2202": {
+        "entries": [
+            {
+                "costumeId": 2202,
+                "motionId": 78,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2213": {
+        "entries": [
+            {
+                "costumeId": 2213,
+                "motionId": 152,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2214": {
+        "entries": [
+            {
+                "costumeId": 2214,
+                "motionId": 121,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2230": {
+        "entries": [
+            {
+                "costumeId": 2230,
+                "motionId": 189,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2231": {
+        "entries": [
+            {
+                "costumeId": 2231,
+                "motionId": 192,
+                "motion": "nf03",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2235": {
+        "entries": [
+            {
+                "costumeId": 2235,
+                "motionId": 160,
+                "motion": "nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2236": {
+        "entries": [
+            {
+                "costumeId": 2236,
+                "motionId": 170,
+                "motion": "nf01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2259": {
+        "entries": [
+            {
+                "costumeId": 2259,
+                "motionId": 5,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2260": {
+        "entries": [
+            {
+                "costumeId": 2260,
+                "motionId": 33,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2261": {
+        "entries": [
+            {
+                "costumeId": 2261,
+                "motionId": 54,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2265": {
+        "entries": [
+            {
+                "costumeId": 2265,
+                "motionId": 130,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2266": {
+        "entries": [
+            {
+                "costumeId": 2266,
+                "motionId": 77,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2267": {
+        "entries": [
+            {
+                "costumeId": 2267,
+                "motionId": 189,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2277": {
+        "entries": [
+            {
+                "costumeId": 2277,
+                "motionId": 112,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2278": {
+        "entries": [
+            {
+                "costumeId": 2278,
+                "motionId": 135,
+                "motion": "nf03",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2287": {
+        "entries": [
+            {
+                "costumeId": 2287,
+                "motionId": 67,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2288": {
+        "entries": [
+            {
+                "costumeId": 2288,
+                "motionId": 136,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2305": {
+        "entries": [
+            {
+                "costumeId": 2305,
+                "motionId": 46,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2306": {
+        "entries": [
+            {
+                "costumeId": 2306,
+                "motionId": 35,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2332": {
+        "entries": [
+            {
+                "costumeId": 2332,
+                "motionId": 142,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2333": {
+        "entries": [
+            {
+                "costumeId": 2333,
+                "motionId": 19,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2334": {
+        "entries": [
+            {
+                "costumeId": 2334,
+                "motionId": 44,
+                "motion": "simizimi01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2335": {
+        "entries": [
+            {
+                "costumeId": 2335,
+                "motionId": 94,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "421": {
+        "entries": [
+            {
+                "costumeId": 421,
+                "motionId": 26,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "422": {
+        "entries": [
+            {
+                "costumeId": 422,
+                "motionId": 38,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "426": {
+        "entries": [
+            {
+                "costumeId": 426,
+                "motionId": 23,
+                "motion": "shame01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "427": {
+        "entries": [
+            {
+                "costumeId": 427,
+                "motionId": 100,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "441": {
+        "entries": [
+            {
+                "costumeId": 441,
+                "motionId": 103,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "442": {
+        "entries": [
+            {
+                "costumeId": 442,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "461": {
+        "entries": [
+            {
+                "costumeId": 461,
+                "motionId": 80,
+                "motion": "strange01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "462": {
+        "entries": [
+            {
+                "costumeId": 462,
+                "motionId": 83,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "478": {
+        "entries": [
+            {
+                "costumeId": 478,
+                "motionId": 21,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "479": {
+        "entries": [
+            {
+                "costumeId": 479,
+                "motionId": 113,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "513": {
+        "entries": [
+            {
+                "costumeId": 513,
+                "motionId": 33,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "514": {
+        "entries": [
+            {
+                "costumeId": 514,
+                "motionId": 47,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "528": {
+        "entries": [
+            {
+                "costumeId": 528,
+                "motionId": 3,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "529": {
+        "entries": [
+            {
+                "costumeId": 529,
+                "motionId": 77,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "538": {
+        "entries": [
+            {
+                "costumeId": 538,
+                "motionId": 71,
+                "motion": "m_awate",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "539": {
+        "entries": [
+            {
+                "costumeId": 539,
+                "motionId": 57,
+                "motion": "kime04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "543": {
+        "entries": [
+            {
+                "costumeId": 543,
+                "motionId": 37,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "544": {
+        "entries": [
+            {
+                "costumeId": 544,
+                "motionId": 66,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "560": {
+        "entries": [
+            {
+                "costumeId": 560,
+                "motionId": 10,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "561": {
+        "entries": [
+            {
+                "costumeId": 561,
+                "motionId": 86,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "570": {
+        "entries": [
+            {
+                "costumeId": 570,
+                "motionId": 33,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "571": {
+        "entries": [
+            {
+                "costumeId": 571,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "617": {
+        "entries": [
+            {
+                "costumeId": 617,
+                "motionId": 24,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "618": {
+        "entries": [
+            {
+                "costumeId": 618,
+                "motionId": 124,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "637": {
+        "entries": [
+            {
+                "costumeId": 637,
+                "motionId": 5,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "638": {
+        "entries": [
+            {
+                "costumeId": 638,
+                "motionId": 98,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "684": {
+        "entries": [
+            {
+                "costumeId": 684,
+                "motionId": 78,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "685": {
+        "entries": [
+            {
+                "costumeId": 685,
+                "motionId": 88,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "699": {
+        "entries": [
+            {
+                "costumeId": 699,
+                "motionId": 67,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "700": {
+        "entries": [
+            {
+                "costumeId": 700,
+                "motionId": 54,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "721": {
+        "entries": [
+            {
+                "costumeId": 721,
+                "motionId": 24,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "722": {
+        "entries": [
+            {
+                "costumeId": 722,
+                "motionId": 20,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "753": {
+        "entries": [
+            {
+                "costumeId": 753,
+                "motionId": 101,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            },
+            {
+                "costumeId": 753,
+                "motionId": 103,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "754": {
+        "entries": [
+            {
+                "costumeId": 754,
+                "motionId": 121,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "755": {
+        "entries": [
+            {
+                "costumeId": 755,
+                "motionId": 108,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "756": {
+        "entries": [
+            {
+                "costumeId": 756,
+                "motionId": 114,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "757": {
+        "entries": [
+            {
+                "costumeId": 757,
+                "motionId": 118,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "758": {
+        "entries": [
+            {
+                "costumeId": 758,
+                "motionId": 62,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "759": {
+        "entries": [
+            {
+                "costumeId": 759,
+                "motionId": 72,
+                "motion": "m_nf04",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "775": {
+        "entries": [
+            {
+                "costumeId": 775,
+                "motionId": 27,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "776": {
+        "entries": [
+            {
+                "costumeId": 776,
+                "motionId": 118,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "793": {
+        "entries": [
+            {
+                "costumeId": 793,
+                "motionId": 82,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "794": {
+        "entries": [
+            {
+                "costumeId": 794,
+                "motionId": 94,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "813": {
+        "entries": [
+            {
+                "costumeId": 813,
+                "motionId": 46,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "814": {
+        "entries": [
+            {
+                "costumeId": 814,
+                "motionId": 42,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "863": {
+        "entries": [
+            {
+                "costumeId": 863,
+                "motionId": 11,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "864": {
+        "entries": [
+            {
+                "costumeId": 864,
+                "motionId": 112,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "902": {
+        "entries": [
+            {
+                "costumeId": 902,
+                "motionId": 121,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "903": {
+        "entries": [
+            {
+                "costumeId": 903,
+                "motionId": 112,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "922": {
+        "entries": [
+            {
+                "costumeId": 922,
+                "motionId": 5,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "923": {
+        "entries": [
+            {
+                "costumeId": 923,
+                "motionId": 24,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "924": {
+        "entries": [
+            {
+                "costumeId": 924,
+                "motionId": 11,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "925": {
+        "entries": [
+            {
+                "costumeId": 925,
+                "motionId": 20,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "926": {
+        "entries": [
+            {
+                "costumeId": 926,
+                "motionId": 10,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "938": {
+        "entries": [
+            {
+                "costumeId": 938,
+                "motionId": 35,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "939": {
+        "entries": [
+            {
+                "costumeId": 939,
+                "motionId": 46,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "965": {
+        "entries": [
+            {
+                "costumeId": 965,
+                "motionId": 10,
+                "motion": "kime01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "966": {
+        "entries": [
+            {
+                "costumeId": 966,
+                "motionId": 82,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "985": {
+        "entries": [
+            {
+                "costumeId": 985,
+                "motionId": 160,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "986": {
+        "entries": [
+            {
+                "costumeId": 986,
+                "motionId": 5,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    }
+}

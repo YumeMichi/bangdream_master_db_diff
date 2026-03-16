@@ -1,0 +1,62 @@
+{
+    "21": {
+        "entries": [
+            {
+                "characterId": 21,
+                "couplingCharacterId": 6,
+                "assetBundleName": "other/001"
+            },
+            {
+                "characterId": 21,
+                "couplingCharacterId": 35,
+                "assetBundleName": "other/001"
+            }
+        ]
+    },
+    "27": {
+        "entries": [
+            {
+                "characterId": 27,
+                "couplingCharacterId": 30,
+                "assetBundleName": "other/001"
+            }
+        ]
+    },
+    "30": {
+        "entries": [
+            {
+                "characterId": 30,
+                "couplingCharacterId": 27,
+                "assetBundleName": "other/001"
+            },
+            {
+                "characterId": 30,
+                "couplingCharacterId": 35,
+                "assetBundleName": "other/001"
+            }
+        ]
+    },
+    "35": {
+        "entries": [
+            {
+                "characterId": 35,
+                "couplingCharacterId": 21,
+                "assetBundleName": "other/001"
+            },
+            {
+                "characterId": 35,
+                "couplingCharacterId": 30,
+                "assetBundleName": "other/001"
+            }
+        ]
+    },
+    "6": {
+        "entries": [
+            {
+                "characterId": 6,
+                "couplingCharacterId": 21,
+                "assetBundleName": "other/001"
+            }
+        ]
+    }
+}

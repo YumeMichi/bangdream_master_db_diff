@@ -1,0 +1,296 @@
+{
+    "4": {
+        "entries": {
+            "7": {
+                "entries": [
+                    {
+                        "missionId": 7,
+                        "comebackInviteId": 4,
+                        "comebackType": 0,
+                        "seq": 0,
+                        "title": "1人招待する",
+                        "description": "1人招待する",
+                        "missionType": "code_input_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 1,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "star",
+                                    "quantity": 500
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 7,
+                        "comebackInviteId": 4,
+                        "comebackType": 0,
+                        "seq": 1,
+                        "title": "2人招待する",
+                        "description": "2人招待する",
+                        "missionType": "code_input_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 2,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "star",
+                                    "quantity": 500
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 7,
+                        "comebackInviteId": 4,
+                        "comebackType": 0,
+                        "seq": 2,
+                        "title": "3人招待する",
+                        "description": "3人招待する",
+                        "missionType": "code_input_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 3,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "star",
+                                    "quantity": 500
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 7,
+                        "comebackInviteId": 4,
+                        "comebackType": 0,
+                        "seq": 3,
+                        "title": "4人招待する",
+                        "description": "4人招待する",
+                        "missionType": "code_input_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 4,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "star",
+                                    "quantity": 500
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 7,
+                        "comebackInviteId": 4,
+                        "comebackType": 0,
+                        "seq": 4,
+                        "title": "5人招待する",
+                        "description": "5人招待する",
+                        "missionType": "code_input_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 5,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "star",
+                                    "quantity": 500
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "8": {
+                "entries": [
+                    {
+                        "missionId": 8,
+                        "comebackInviteId": 4,
+                        "comebackType": 1,
+                        "seq": 0,
+                        "title": "期間中に1日ログインする",
+                        "description": "期間中に1日ログインする",
+                        "missionType": "login_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 1,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "live_boost_recovery_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 8,
+                        "comebackInviteId": 4,
+                        "comebackType": 1,
+                        "seq": 1,
+                        "title": "期間中に3日ログインする",
+                        "description": "期間中に3日ログインする",
+                        "missionType": "login_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 3,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "gacha_ticket",
+                                    "resourceId": 1,
+                                    "quantity": 3
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 8,
+                        "comebackInviteId": 4,
+                        "comebackType": 1,
+                        "seq": 2,
+                        "title": "期間中に7日ログインする",
+                        "description": "期間中に7日ログインする",
+                        "missionType": "login_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 7,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "star",
+                                    "quantity": 500
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 8,
+                        "comebackInviteId": 4,
+                        "comebackType": 1,
+                        "seq": 3,
+                        "title": "期間中に14日ログインする",
+                        "description": "期間中に14日ログインする",
+                        "missionType": "login_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 14,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "item",
+                                    "resourceId": 15,
+                                    "quantity": 15
+                                },
+                                {
+                                    "rewardSeq": 2,
+                                    "resourceType": "item",
+                                    "resourceId": 1,
+                                    "quantity": 1000
+                                },
+                                {
+                                    "rewardSeq": 3,
+                                    "resourceType": "item",
+                                    "resourceId": 5,
+                                    "quantity": 800
+                                },
+                                {
+                                    "rewardSeq": 4,
+                                    "resourceType": "item",
+                                    "resourceId": 9,
+                                    "quantity": 50
+                                },
+                                {
+                                    "rewardSeq": 5,
+                                    "resourceType": "item",
+                                    "resourceId": 2,
+                                    "quantity": 1000
+                                },
+                                {
+                                    "rewardSeq": 6,
+                                    "resourceType": "item",
+                                    "resourceId": 6,
+                                    "quantity": 800
+                                },
+                                {
+                                    "rewardSeq": 7,
+                                    "resourceType": "item",
+                                    "resourceId": 10,
+                                    "quantity": 50
+                                },
+                                {
+                                    "rewardSeq": 8,
+                                    "resourceType": "item",
+                                    "resourceId": 3,
+                                    "quantity": 1000
+                                },
+                                {
+                                    "rewardSeq": 9,
+                                    "resourceType": "item",
+                                    "resourceId": 7,
+                                    "quantity": 800
+                                },
+                                {
+                                    "rewardSeq": 10,
+                                    "resourceType": "item",
+                                    "resourceId": 11,
+                                    "quantity": 50
+                                },
+                                {
+                                    "rewardSeq": 11,
+                                    "resourceType": "item",
+                                    "resourceId": 4,
+                                    "quantity": 1000
+                                },
+                                {
+                                    "rewardSeq": 12,
+                                    "resourceType": "item",
+                                    "resourceId": 8,
+                                    "quantity": 800
+                                },
+                                {
+                                    "rewardSeq": 13,
+                                    "resourceType": "item",
+                                    "resourceId": 12,
+                                    "quantity": 50
+                                },
+                                {
+                                    "rewardSeq": 14,
+                                    "resourceType": "item",
+                                    "resourceId": 14,
+                                    "quantity": 20
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "missionId": 8,
+                        "comebackInviteId": 4,
+                        "comebackType": 1,
+                        "seq": 4,
+                        "title": "期間中に30日ログインする",
+                        "description": "期間中に30日ログインする",
+                        "missionType": "login_count",
+                        "transitionMethod": "none",
+                        "clearProgress": 30,
+                        "masterInviteMissionRewardList": {
+                            "entries": [
+                                {
+                                    "rewardSeq": 1,
+                                    "resourceType": "gacha_ticket",
+                                    "resourceId": 1,
+                                    "quantity": 7
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

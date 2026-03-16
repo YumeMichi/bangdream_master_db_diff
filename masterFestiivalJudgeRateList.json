@@ -1,0 +1,92 @@
+[
+    {
+        "stageType": "combo",
+        "judgement": "bad",
+        "scoreRate": 0,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "combo",
+        "judgement": "good",
+        "scoreRate": 0.25,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "combo",
+        "judgement": "great",
+        "scoreRate": 0.4,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "combo",
+        "judgement": "miss",
+        "scoreRate": 0,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "combo",
+        "judgement": "perfect",
+        "scoreRate": 0.55,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "judge",
+        "judgement": "bad",
+        "scoreRate": 0,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "judge",
+        "judgement": "good",
+        "scoreRate": 2,
+        "effectLevel": 1
+    },
+    {
+        "stageType": "judge",
+        "judgement": "great",
+        "scoreRate": 3.2,
+        "effectLevel": 2
+    },
+    {
+        "stageType": "judge",
+        "judgement": "miss",
+        "scoreRate": 0,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "judge",
+        "judgement": "perfect",
+        "scoreRate": 4.4,
+        "effectLevel": 3
+    },
+    {
+        "stageType": "life",
+        "judgement": "bad",
+        "scoreRate": 0,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "life",
+        "judgement": "good",
+        "scoreRate": 0.25,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "life",
+        "judgement": "great",
+        "scoreRate": 0.4,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "life",
+        "judgement": "miss",
+        "scoreRate": 0,
+        "effectLevel": 0
+    },
+    {
+        "stageType": "life",
+        "judgement": "perfect",
+        "scoreRate": 0.55,
+        "effectLevel": 0
+    }
+]

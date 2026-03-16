@@ -1,0 +1,1022 @@
+{
+    "1": {
+        "gachaBonusId": 1,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 1,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1154
+    },
+    "10": {
+        "gachaBonusId": 10,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 10,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1235
+    },
+    "11": {
+        "gachaBonusId": 11,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 11,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1244
+    },
+    "12": {
+        "gachaBonusId": 12,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 12,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1248
+    },
+    "13": {
+        "gachaBonusId": 13,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 13,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1258
+    },
+    "14": {
+        "gachaBonusId": 14,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 14,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1270
+    },
+    "15": {
+        "gachaBonusId": 15,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 15,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1275
+    },
+    "16": {
+        "gachaBonusId": 16,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 16,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1281
+    },
+    "17": {
+        "gachaBonusId": 17,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 17,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1285
+    },
+    "18": {
+        "gachaBonusId": 18,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 18,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1287
+    },
+    "19": {
+        "gachaBonusId": 19,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 19,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1306
+    },
+    "2": {
+        "gachaBonusId": 2,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 2,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1161
+    },
+    "20": {
+        "gachaBonusId": 20,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 20,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1310
+    },
+    "21": {
+        "gachaBonusId": 21,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 21,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1314
+    },
+    "22": {
+        "gachaBonusId": 22,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 22,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1322
+    },
+    "23": {
+        "gachaBonusId": 23,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 23,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1328
+    },
+    "24": {
+        "gachaBonusId": 24,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 24,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1339
+    },
+    "25": {
+        "gachaBonusId": 25,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 25,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1343
+    },
+    "26": {
+        "gachaBonusId": 26,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 26,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1358
+    },
+    "27": {
+        "gachaBonusId": 27,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 27,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1367
+    },
+    "28": {
+        "gachaBonusId": 28,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 28,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1375
+    },
+    "29": {
+        "gachaBonusId": 29,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 29,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1384
+    },
+    "3": {
+        "gachaBonusId": 3,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 3,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1166
+    },
+    "30": {
+        "gachaBonusId": 30,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 30,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1388
+    },
+    "31": {
+        "gachaBonusId": 31,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 31,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1401
+    },
+    "32": {
+        "gachaBonusId": 32,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 32,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1408
+    },
+    "33": {
+        "gachaBonusId": 33,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 33,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1417
+    },
+    "34": {
+        "gachaBonusId": 34,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 34,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1433
+    },
+    "35": {
+        "gachaBonusId": 35,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 35,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1439
+    },
+    "36": {
+        "gachaBonusId": 36,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 36,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1443
+    },
+    "37": {
+        "gachaBonusId": 37,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 37,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1454
+    },
+    "38": {
+        "gachaBonusId": 38,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 38,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1460
+    },
+    "39": {
+        "gachaBonusId": 39,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 39,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1485
+    },
+    "4": {
+        "gachaBonusId": 4,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 4,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1184
+    },
+    "40": {
+        "gachaBonusId": 40,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 40,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1497
+    },
+    "41": {
+        "gachaBonusId": 41,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 41,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1507
+    },
+    "42": {
+        "gachaBonusId": 42,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 42,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1529
+    },
+    "43": {
+        "gachaBonusId": 43,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 43,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1559
+    },
+    "44": {
+        "gachaBonusId": 44,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 44,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1565
+    },
+    "45": {
+        "gachaBonusId": 45,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 45,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1576
+    },
+    "46": {
+        "gachaBonusId": 46,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 46,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1582
+    },
+    "47": {
+        "gachaBonusId": 47,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 47,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1603
+    },
+    "48": {
+        "gachaBonusId": 48,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 48,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1614
+    },
+    "49": {
+        "gachaBonusId": 49,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 49,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1622
+    },
+    "5": {
+        "gachaBonusId": 5,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 5,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1193
+    },
+    "50": {
+        "gachaBonusId": 50,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 50,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1638
+    },
+    "51": {
+        "gachaBonusId": 51,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 51,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1651
+    },
+    "52": {
+        "gachaBonusId": 52,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 52,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1681
+    },
+    "53": {
+        "gachaBonusId": 53,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 53,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1688
+    },
+    "54": {
+        "gachaBonusId": 54,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 54,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1732
+    },
+    "55": {
+        "gachaBonusId": 55,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 55,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1764
+    },
+    "56": {
+        "gachaBonusId": 56,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 56,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1772
+    },
+    "57": {
+        "gachaBonusId": 57,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 57,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1779
+    },
+    "58": {
+        "gachaBonusId": 58,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 58,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1787
+    },
+    "59": {
+        "gachaBonusId": 59,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 59,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1789
+    },
+    "6": {
+        "gachaBonusId": 6,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 6,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1206
+    },
+    "60": {
+        "gachaBonusId": 60,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 60,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1797
+    },
+    "7": {
+        "gachaBonusId": 7,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 7,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1216
+    },
+    "8": {
+        "gachaBonusId": 8,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 8,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1220
+    },
+    "9": {
+        "gachaBonusId": 9,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 9,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1230
+    }
+}

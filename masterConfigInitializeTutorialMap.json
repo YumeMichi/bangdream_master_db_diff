@@ -1,0 +1,44 @@
+{
+    "1": {
+        "configId": 1,
+        "tutorialStatus": "read_story_1",
+        "actionSetId": 99902,
+        "onlyTutorial": true
+    },
+    "2": {
+        "configId": 2,
+        "tutorialStatus": "read_story_1",
+        "actionSetId": 99903,
+        "onlyTutorial": true
+    },
+    "3": {
+        "configId": 3,
+        "tutorialStatus": "area_talk",
+        "actionSetId": 99905,
+        "onlyTutorial": true
+    },
+    "4": {
+        "configId": 4,
+        "tutorialStatus": "area_talk",
+        "actionSetId": 99003,
+        "onlyTutorial": false
+    },
+    "5": {
+        "configId": 5,
+        "tutorialStatus": "area_talk",
+        "actionSetId": 99004,
+        "onlyTutorial": false
+    },
+    "6": {
+        "configId": 6,
+        "tutorialStatus": "area_talk",
+        "actionSetId": 99005,
+        "onlyTutorial": false
+    },
+    "7": {
+        "configId": 7,
+        "tutorialStatus": "area_talk",
+        "actionSetId": 90002,
+        "onlyTutorial": false
+    }
+}

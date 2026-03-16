@@ -1,0 +1,1395 @@
+{
+    "104": {
+        "entries": [
+            {
+                "musicId": 104,
+                "assetBundleName": "music_video_104",
+                "startAt": 1529474400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": 4214,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "104"
+            }
+        ]
+    },
+    "118": {
+        "entries": [
+            {
+                "musicId": 118,
+                "assetBundleName": "music_video_118",
+                "startAt": 1526882400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": 3048,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "118"
+            }
+        ]
+    },
+    "125": {
+        "entries": [
+            {
+                "musicId": 125,
+                "assetBundleName": "music_video_125",
+                "startAt": 1647010800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2394,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "125"
+            }
+        ]
+    },
+    "138": {
+        "entries": [
+            {
+                "musicId": 138,
+                "assetBundleName": "music_video_138",
+                "startAt": 1566799200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1405,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "138"
+            }
+        ]
+    },
+    "139": {
+        "entries": [
+            {
+                "musicId": 139,
+                "assetBundleName": "music_video_139",
+                "startAt": 1566712800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2753,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "139"
+            }
+        ]
+    },
+    "140": {
+        "entries": [
+            {
+                "musicId": 140,
+                "assetBundleName": "music_video_140",
+                "startAt": 1566626400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2601,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "140"
+            }
+        ]
+    },
+    "144": {
+        "entries": [
+            {
+                "musicId": 144,
+                "assetBundleName": "music_video_144",
+                "startAt": 1536559200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": 2365,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "144"
+            }
+        ]
+    },
+    "147": {
+        "entries": [
+            {
+                "musicId": 147,
+                "assetBundleName": "music_video_147",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2479,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "147",
+                "description": "アニメ「BanG Dream! 2nd Season」第８話の「ひとりじゃないんだから」ライブシーン。"
+            }
+        ]
+    },
+    "149": {
+        "entries": [
+            {
+                "musicId": 149,
+                "assetBundleName": "music_video_149",
+                "startAt": 1647151200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -495,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "149"
+            }
+        ]
+    },
+    "150": {
+        "entries": [
+            {
+                "musicId": 150,
+                "assetBundleName": "music_video_150",
+                "startAt": 1539151200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2466,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "150"
+            }
+        ]
+    },
+    "158": {
+        "entries": [
+            {
+                "musicId": 158,
+                "assetBundleName": "music_video_158",
+                "startAt": 1546495200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2215,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "158"
+            }
+        ]
+    },
+    "159": {
+        "entries": [
+            {
+                "musicId": 159,
+                "assetBundleName": "music_video_159",
+                "startAt": 1547100000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1806,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "159"
+            }
+        ]
+    },
+    "180": {
+        "entries": [
+            {
+                "musicId": 180,
+                "assetBundleName": "music_video_180",
+                "startAt": 1582437600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2609,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "180"
+            }
+        ]
+    },
+    "182": {
+        "entries": [
+            {
+                "musicId": 182,
+                "assetBundleName": "music_video_182",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1954,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "182",
+                "description": "アニメ「BanG Dream! 2nd Season」第１３話の「Dreamers Go!」ライブシーン。"
+            }
+        ]
+    },
+    "184": {
+        "entries": [
+            {
+                "musicId": 184,
+                "assetBundleName": "music_video_184",
+                "startAt": 1571810400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2662,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "184",
+                "description": "アニメ「BanG Dream! 2nd Season」第１３話の「ON YOUR MARK」ライブシーン。"
+            }
+        ]
+    },
+    "186": {
+        "entries": [
+            {
+                "musicId": 186,
+                "assetBundleName": "music_video_186",
+                "startAt": 1568786400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2367,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "186",
+                "description": "アニメ「BanG Dream! 2nd Season」第１３話の「きゅ〜まい＊flower」ライブシーン。"
+            }
+        ]
+    },
+    "187": {
+        "entries": [
+            {
+                "musicId": 187,
+                "assetBundleName": "music_video_187",
+                "startAt": 1571810400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -371,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "187",
+                "description": "アニメ「BanG Dream! 2nd Season」第１３話の「FIRE BIRD」ライブシーン。"
+            }
+        ]
+    },
+    "189": {
+        "entries": [
+            {
+                "musicId": 189,
+                "assetBundleName": "music_video_189",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2415,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "189",
+                "description": "アニメ「BanG Dream! 2nd Season」第１３話の「えがお･シング･あ･ソング」ライブシーン。"
+            }
+        ]
+    },
+    "2": {
+        "entries": [
+            {
+                "musicId": 2,
+                "assetBundleName": "music_video_2",
+                "startAt": 1647010800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1481,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "002"
+            }
+        ]
+    },
+    "200": {
+        "entries": [
+            {
+                "musicId": 200,
+                "assetBundleName": "music_video_200",
+                "startAt": 1647237600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3337,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "200",
+                "description": "劇場版「BanG Dream! Episode of Roselia Ⅱ : Song I am.」の「約束」ライブシーン。"
+            }
+        ]
+    },
+    "213": {
+        "entries": [
+            {
+                "musicId": 213,
+                "assetBundleName": "music_video_213",
+                "startAt": 1566540000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -4123,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "213"
+            }
+        ]
+    },
+    "214": {
+        "entries": [
+            {
+                "musicId": 214,
+                "assetBundleName": "music_video_214",
+                "startAt": 1647324000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3588,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "214",
+                "description": "劇場版「BanG Dream! Episode of Roselia Ⅱ : Song I am.」の「\"UNIONS\" Road」ライブシーン。"
+            }
+        ]
+    },
+    "217": {
+        "entries": [
+            {
+                "musicId": 217,
+                "assetBundleName": "music_video_217",
+                "startAt": 1568095200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1434,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "217"
+            }
+        ]
+    },
+    "223": {
+        "entries": [
+            {
+                "musicId": 223,
+                "assetBundleName": "music_video_223",
+                "startAt": 1571983200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2224,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "223"
+            }
+        ]
+    },
+    "229": {
+        "entries": [
+            {
+                "musicId": 229,
+                "assetBundleName": "music_video_229",
+                "startAt": 1574488800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1647,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "229"
+            }
+        ]
+    },
+    "232": {
+        "entries": [
+            {
+                "musicId": 232,
+                "assetBundleName": "music_video_232",
+                "startAt": 1579845600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2180,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "232"
+            }
+        ]
+    },
+    "235": {
+        "entries": [
+            {
+                "musicId": 235,
+                "assetBundleName": "music_video_235",
+                "startAt": 1577167200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1697,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "235"
+            }
+        ]
+    },
+    "239": {
+        "entries": [
+            {
+                "musicId": 239,
+                "assetBundleName": "music_video_239",
+                "startAt": 1581055200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2219,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "239"
+            }
+        ]
+    },
+    "24": {
+        "entries": [
+            {
+                "musicId": 24,
+                "assetBundleName": "music_video_24",
+                "startAt": 1647410400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2026,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "024",
+                "description": "劇場版「BanG Dream! ぽっぴん'どりーむ！」の「ときめきエクスペリエンス！」ライブシーン。"
+            }
+        ]
+    },
+    "243": {
+        "entries": [
+            {
+                "musicId": 243,
+                "assetBundleName": "music_video_243",
+                "startAt": 1579759200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1043,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "243"
+            }
+        ]
+    },
+    "245": {
+        "entries": [
+            {
+                "musicId": 245,
+                "assetBundleName": "music_video_245",
+                "startAt": 1647324000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2431,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "245",
+                "description": "劇場版「BanG Dream! Episode of Roselia Ⅱ : Song I am.」の「Song I am.」ライブシーン。"
+            }
+        ]
+    },
+    "247": {
+        "entries": [
+            {
+                "musicId": 247,
+                "assetBundleName": "music_video_247",
+                "startAt": 1591768800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2026,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "247"
+            }
+        ]
+    },
+    "249": {
+        "entries": [
+            {
+                "musicId": 249,
+                "assetBundleName": "music_video_249",
+                "startAt": 1582437600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2568,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "249"
+            }
+        ]
+    },
+    "255": {
+        "entries": [
+            {
+                "musicId": 255,
+                "assetBundleName": "music_video_255",
+                "startAt": 1584259200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -835,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "255"
+            }
+        ]
+    },
+    "256": {
+        "entries": [
+            {
+                "musicId": 256,
+                "assetBundleName": "music_video_256",
+                "startAt": 1647496800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2634,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "256",
+                "description": "劇場版「BanG Dream! ぽっぴん'どりーむ！」の「金色へのプレリュード」ライブシーン。"
+            }
+        ]
+    },
+    "262": {
+        "entries": [
+            {
+                "musicId": 262,
+                "assetBundleName": "music_video_262",
+                "startAt": 1647010800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2543,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "262"
+            }
+        ]
+    },
+    "265": {
+        "entries": [
+            {
+                "musicId": 265,
+                "assetBundleName": "music_video_265",
+                "startAt": 1587708000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1857,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "265",
+                "description": "アニメ「BanG Dream! 3rd Season」第１３話の「ミライトレイン」ライブシーン。"
+            }
+        ]
+    },
+    "266": {
+        "entries": [
+            {
+                "musicId": 266,
+                "assetBundleName": "music_video_266",
+                "startAt": 1587708000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3776,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "266",
+                "description": "アニメ「BanG Dream! 3rd Season」第１３話の「Avant-garde HISTORY」ライブシーン。"
+            }
+        ]
+    },
+    "278": {
+        "entries": [
+            {
+                "musicId": 278,
+                "assetBundleName": "music_video_278",
+                "startAt": 1647410400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1767,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "278",
+                "description": "劇場版「BanG Dream! ぽっぴん'どりーむ！」の「Breakthrough!」ライブシーン。"
+            }
+        ]
+    },
+    "28": {
+        "entries": [
+            {
+                "musicId": 28,
+                "assetBundleName": "music_video_28",
+                "startAt": 1571983200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1973,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "028"
+            }
+        ]
+    },
+    "281": {
+        "entries": [
+            {
+                "musicId": 281,
+                "assetBundleName": "music_video_281",
+                "startAt": 1595916000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3192,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "281"
+            }
+        ]
+    },
+    "282": {
+        "entries": [
+            {
+                "musicId": 282,
+                "assetBundleName": "music_video_282",
+                "startAt": 1596002400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -11,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "282"
+            }
+        ]
+    },
+    "283": {
+        "entries": [
+            {
+                "musicId": 283,
+                "assetBundleName": "music_video_283",
+                "startAt": 1596088800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2634,
+                "seq": 1,
+                "title": "ミクコラボMV",
+                "thumbAssetBundleName": "283"
+            }
+        ]
+    },
+    "288": {
+        "entries": [
+            {
+                "musicId": 288,
+                "assetBundleName": "music_video_288",
+                "startAt": 1598853600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2461,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "288",
+                "description": "アニメ「BanG Dream! 3rd Season」第１３話の「Beautiful Birthday」ライブシーン。"
+            }
+        ]
+    },
+    "289": {
+        "entries": [
+            {
+                "musicId": 289,
+                "assetBundleName": "music_video_289",
+                "startAt": 1598853600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2432,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "289"
+            }
+        ]
+    },
+    "29": {
+        "entries": [
+            {
+                "musicId": 29,
+                "assetBundleName": "music_video_29",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2385,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "029",
+                "description": "アニメ「BanG Dream! 2nd Season」第２話の「BLACK SHOUT」ライブシーン。"
+            },
+            {
+                "musicId": 29,
+                "assetBundleName": "music_video_29(2)",
+                "startAt": 1579759200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1791,
+                "seq": 2,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "029(2)"
+            }
+        ]
+    },
+    "293": {
+        "entries": [
+            {
+                "musicId": 293,
+                "assetBundleName": "music_video_293",
+                "startAt": 1602309600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2011,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "293"
+            }
+        ]
+    },
+    "303": {
+        "entries": [
+            {
+                "musicId": 303,
+                "assetBundleName": "music_video_303",
+                "startAt": 1607839200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2525,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "303"
+            }
+        ]
+    },
+    "31": {
+        "entries": [
+            {
+                "musicId": 31,
+                "assetBundleName": "music_video_31",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2204,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "031",
+                "description": "アニメ「BanG Dream! 2nd Season」第１話の「LOUDER」ライブシーン。"
+            }
+        ]
+    },
+    "313": {
+        "entries": [
+            {
+                "musicId": 313,
+                "assetBundleName": "music_video_313",
+                "startAt": 1612936800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -219,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "313"
+            }
+        ]
+    },
+    "32": {
+        "entries": [
+            {
+                "musicId": 32,
+                "assetBundleName": "music_video_32",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1458,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "032",
+                "description": "アニメ「BanG Dream! 2nd Season」第１話の「しゅわりん☆どり～みん」ライブシーン。"
+            },
+            {
+                "musicId": 32,
+                "assetBundleName": "music_video_32(2)",
+                "startAt": 1576821600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2177,
+                "seq": 2,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "032(2)"
+            }
+        ]
+    },
+    "326": {
+        "entries": [
+            {
+                "musicId": 326,
+                "assetBundleName": "music_video_326",
+                "startAt": 1617948000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1901,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "326"
+            }
+        ]
+    },
+    "328": {
+        "entries": [
+            {
+                "musicId": 328,
+                "assetBundleName": "music_video_328",
+                "startAt": 1647237600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3461,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "328",
+                "description": "劇場版「BanG Dream! Episode of Roselia Ⅰ : 約束」OP。"
+            }
+        ]
+    },
+    "346": {
+        "entries": [
+            {
+                "musicId": 346,
+                "assetBundleName": "music_video_346",
+                "startAt": 1625983200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1346,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "346"
+            }
+        ]
+    },
+    "35": {
+        "entries": [
+            {
+                "musicId": 35,
+                "assetBundleName": "music_video_35",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2342,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "035",
+                "description": "アニメ「BanG Dream! 2nd Season」第１話の「えがおのオーケストラっ！」ライブシーン。"
+            }
+        ]
+    },
+    "365": {
+        "entries": [
+            {
+                "musicId": 365,
+                "assetBundleName": "music_video_365",
+                "startAt": 1633845600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2232,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "365"
+            }
+        ]
+    },
+    "367": {
+        "entries": [
+            {
+                "musicId": 367,
+                "assetBundleName": "music_video_367",
+                "startAt": 1634882400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2412,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "367"
+            }
+        ]
+    },
+    "368": {
+        "entries": [
+            {
+                "musicId": 368,
+                "assetBundleName": "music_video_368",
+                "startAt": 1635055200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1386,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "368"
+            }
+        ]
+    },
+    "369": {
+        "entries": [
+            {
+                "musicId": 369,
+                "assetBundleName": "music_video_369",
+                "startAt": 1634968800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2219,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "369"
+            }
+        ]
+    },
+    "37": {
+        "entries": [
+            {
+                "musicId": 37,
+                "assetBundleName": "music_video_37",
+                "startAt": 1568786400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1585,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "037",
+                "description": "アニメ「BanG Dream! 2nd Season」第４話の「ゴーカ！ごーかい！？ファントムシーフ！」ライブシーン。"
+            }
+        ]
+    },
+    "381": {
+        "entries": [
+            {
+                "musicId": 381,
+                "assetBundleName": "music_video_381",
+                "startAt": 1638252000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1507,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "381"
+            }
+        ]
+    },
+    "383": {
+        "entries": [
+            {
+                "musicId": 383,
+                "assetBundleName": "music_video_383",
+                "startAt": 1640066400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2486,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "383"
+            }
+        ]
+    },
+    "396": {
+        "entries": [
+            {
+                "musicId": 396,
+                "assetBundleName": "music_video_396",
+                "startAt": 1647583200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1468,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "396"
+            }
+        ]
+    },
+    "399": {
+        "entries": [
+            {
+                "musicId": 399,
+                "assetBundleName": "music_video_399",
+                "startAt": 1644818400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1148,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "399"
+            }
+        ]
+    },
+    "40": {
+        "entries": [
+            {
+                "musicId": 40,
+                "assetBundleName": "music_video_40",
+                "startAt": 1566367200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3023,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "040",
+                "description": "アニメ「BanG Dream! 2nd Season」第１話の「Happy Happy Party!」ライブシーン。"
+            }
+        ]
+    },
+    "410": {
+        "entries": [
+            {
+                "musicId": 410,
+                "assetBundleName": "music_video_410",
+                "startAt": 1646985600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1946,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "410"
+            }
+        ]
+    },
+    "412": {
+        "entries": [
+            {
+                "musicId": 412,
+                "assetBundleName": "music_video_412",
+                "startAt": 1647583200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3633,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "412",
+                "description": "「バンドリ！ ガールズバンドパーティ！ 5th Anniversary Animation -CiRCLE THANKS PARTY！-」#2の「CiRCLE THANKS MUSiC♪」ライブシーン。"
+            }
+        ]
+    },
+    "413": {
+        "entries": [
+            {
+                "musicId": 413,
+                "assetBundleName": "music_video_413",
+                "startAt": 1647496800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2218,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "413",
+                "description": "劇場版「BanG Dream! ぽっぴん'どりーむ！」の「DRIVE US CRAZY」ライブシーン。"
+            }
+        ]
+    },
+    "428": {
+        "entries": [
+            {
+                "musicId": 428,
+                "assetBundleName": "music_video_428",
+                "startAt": 1656568800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1411,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "428"
+            }
+        ]
+    },
+    "435": {
+        "entries": [
+            {
+                "musicId": 435,
+                "assetBundleName": "music_video_435",
+                "startAt": 1659106800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1352,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "435",
+                "description": "アニメ「BanG Dream! Morfonication」の「寄る辺のSunny, Sunny」ライブシーン。"
+            }
+        ]
+    },
+    "441": {
+        "entries": [
+            {
+                "musicId": 441,
+                "assetBundleName": "music_video_441",
+                "startAt": 1663938000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1416,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "441"
+            }
+        ]
+    },
+    "442": {
+        "entries": [
+            {
+                "musicId": 442,
+                "assetBundleName": "music_video_442",
+                "startAt": 1662962400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1494,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "442"
+            }
+        ]
+    },
+    "493": {
+        "entries": [
+            {
+                "musicId": 493,
+                "assetBundleName": "music_video_493",
+                "startAt": 1682748000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1357,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "493"
+            }
+        ]
+    },
+    "512": {
+        "entries": [
+            {
+                "musicId": 512,
+                "assetBundleName": "music_video_512",
+                "startAt": 1687876200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1192,
+                "seq": 1,
+                "title": "楽曲MV",
+                "thumbAssetBundleName": "512"
+            }
+        ]
+    },
+    "515": {
+        "entries": [
+            {
+                "musicId": 515,
+                "assetBundleName": "music_video_515",
+                "startAt": 1690468200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1557,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "515",
+                "description": "アニメ「BanG Dream! It's MyGO!!!!!」第７話の「碧天伴走」ライブシーン。"
+            }
+        ]
+    },
+    "522": {
+        "entries": [
+            {
+                "musicId": 522,
+                "assetBundleName": "music_video_522",
+                "startAt": 1692282600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2201,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "522",
+                "description": "アニメ「BanG Dream! It's MyGO!!!!!」第１０話の「詩超絆」ライブシーン。"
+            }
+        ]
+    },
+    "525": {
+        "entries": [
+            {
+                "musicId": 525,
+                "assetBundleName": "music_video_525",
+                "startAt": 1693492200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1176,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "525",
+                "description": "アニメ「BanG Dream! It's MyGO!!!!!」第１２話の「迷路日々」ライブシーン。"
+            }
+        ]
+    },
+    "526": {
+        "entries": [
+            {
+                "musicId": 526,
+                "assetBundleName": "music_video_526",
+                "startAt": 1693461600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1466,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "526"
+            }
+        ]
+    },
+    "560": {
+        "entries": [
+            {
+                "musicId": 560,
+                "assetBundleName": "music_video_560",
+                "startAt": 1703311200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1247,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "560"
+            }
+        ]
+    },
+    "561": {
+        "entries": [
+            {
+                "musicId": 561,
+                "assetBundleName": "music_video_561",
+                "startAt": 1703311200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1503,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "561"
+            }
+        ]
+    },
+    "573": {
+        "entries": [
+            {
+                "musicId": 573,
+                "assetBundleName": "music_video_573",
+                "startAt": 1705125600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3265,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "573"
+            }
+        ]
+    },
+    "574": {
+        "entries": [
+            {
+                "musicId": 574,
+                "assetBundleName": "music_video_574",
+                "startAt": 1705125600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -69,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "574"
+            }
+        ]
+    },
+    "575": {
+        "entries": [
+            {
+                "musicId": 575,
+                "assetBundleName": "music_video_575",
+                "startAt": 1705125600000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1527,
+                "seq": 1,
+                "title": "ホロライブコラボMV",
+                "thumbAssetBundleName": "575"
+            }
+        ]
+    },
+    "60": {
+        "entries": [
+            {
+                "musicId": 60,
+                "assetBundleName": "music_video_60",
+                "startAt": 1571810400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2252,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "060",
+                "description": "アニメ「BanG Dream! 2nd Season」第５話の「ゆら・ゆらRing-Dong-Dance」ライブシーン。"
+            }
+        ]
+    },
+    "65": {
+        "entries": [
+            {
+                "musicId": 65,
+                "assetBundleName": "music_video_65",
+                "startAt": 1647151200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2505,
+                "seq": 1,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "065"
+            }
+        ]
+    },
+    "69": {
+        "entries": [
+            {
+                "musicId": 69,
+                "assetBundleName": "music_video_69",
+                "startAt": 1568786400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3901,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "069",
+                "description": "アニメ「BanG Dream! 2nd Season」第４話の「せかいのっびのびトレジャー！」ライブシーン。"
+            },
+            {
+                "musicId": 69,
+                "assetBundleName": "music_video_69(2)",
+                "startAt": 1577167200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3212,
+                "seq": 2,
+                "title": "フィルムライブMV",
+                "thumbAssetBundleName": "069(2)"
+            }
+        ]
+    },
+    "728": {
+        "entries": [
+            {
+                "musicId": 728,
+                "assetBundleName": "music_video_728",
+                "startAt": 1757570400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1638,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "728"
+            }
+        ]
+    },
+    "73": {
+        "entries": [
+            {
+                "musicId": 73,
+                "assetBundleName": "music_video_73",
+                "startAt": 1647410400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2140,
+                "seq": 1,
+                "title": "劇場版アニメMV",
+                "thumbAssetBundleName": "073",
+                "description": "劇場版「BanG Dream! ぽっぴん'どりーむ！」の「Time Lapse」ライブシーン。"
+            }
+        ]
+    },
+    "735": {
+        "entries": [
+            {
+                "musicId": 735,
+                "assetBundleName": "music_video_735",
+                "startAt": 1758088800000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1296,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "735"
+            }
+        ]
+    },
+    "744": {
+        "entries": [
+            {
+                "musicId": 744,
+                "assetBundleName": "music_video_744",
+                "startAt": 1763359200000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2491,
+                "seq": 1,
+                "title": "サンリオキャラクターズコラボMV",
+                "thumbAssetBundleName": "744"
+            }
+        ]
+    },
+    "745": {
+        "entries": [
+            {
+                "musicId": 745,
+                "assetBundleName": "music_video_745",
+                "startAt": 1763618400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2254,
+                "seq": 1,
+                "title": "サンリオキャラクターズコラボMV",
+                "thumbAssetBundleName": "745"
+            }
+        ]
+    },
+    "750": {
+        "entries": [
+            {
+                "musicId": 750,
+                "assetBundleName": "music_video_750",
+                "startAt": 1766642400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -1857,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "750"
+            }
+        ]
+    },
+    "755": {
+        "entries": [
+            {
+                "musicId": 755,
+                "assetBundleName": "music_video_755",
+                "startAt": 1766988000000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -913,
+                "seq": 1,
+                "title": "アニメーションMV",
+                "thumbAssetBundleName": "755"
+            }
+        ]
+    },
+    "76": {
+        "entries": [
+            {
+                "musicId": 76,
+                "assetBundleName": "music_video_76",
+                "startAt": 1568786400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -2261,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "076",
+                "description": "アニメ「BanG Dream! 2nd Season」第９話の「Determination Symphony」ライブシーン。"
+            }
+        ]
+    },
+    "93": {
+        "entries": [
+            {
+                "musicId": 93,
+                "assetBundleName": "music_video_93",
+                "startAt": 1571810400000,
+                "endAt": 4102412399000,
+                "musicStartDelayMilliseconds": -3344,
+                "seq": 1,
+                "title": "アニメMV",
+                "thumbAssetBundleName": "093",
+                "description": "アニメ「BanG Dream! 2nd Season」第６話の「Y.O.L.O！！！！！」ライブシーン。"
+            }
+        ]
+    }
+}
