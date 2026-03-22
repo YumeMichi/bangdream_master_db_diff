@@ -25763,6 +25763,18 @@
         "homeBannerType": "normal"
     },
     {
+        "homeBannerId": 2897,
+        "seq": 435,
+        "assetBundleName": "banner_gacha1827",
+        "publishedAt": 1774418400000,
+        "closedAt": 1774936799000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1827
+    },
+    {
         "homeBannerId": 2882,
         "seq": 440,
         "assetBundleName": "banner_gacha1812",

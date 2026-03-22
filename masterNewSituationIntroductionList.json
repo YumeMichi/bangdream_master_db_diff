@@ -79,5 +79,59 @@
             }
         ],
         "newIconFlag": true
+    },
+    {
+        "newSituationIntroductionId": 493,
+        "gachaId": 1827,
+        "logoPosition": "center",
+        "startAt": 1774418400000,
+        "endAt": 1774936799000,
+        "details": [
+            {
+                "newSituationIntroductionId": 493,
+                "situationId": 2176,
+                "seq": 1,
+                "motion": "gacha01",
+                "situationPositionX": 0,
+                "isExistLive2dSpecialVoice": true
+            },
+            {
+                "newSituationIntroductionId": 493,
+                "situationId": 2177,
+                "seq": 2,
+                "motion": "gacha01",
+                "situationPositionX": -0.03,
+                "isExistLive2dSpecialVoice": true
+            }
+        ],
+        "textureImageName": "comebackmember",
+        "newIconFlag": false
+    },
+    {
+        "newSituationIntroductionId": 494,
+        "gachaId": 1827,
+        "logoPosition": "center",
+        "startAt": 1774418400000,
+        "endAt": 1774936799000,
+        "details": [
+            {
+                "newSituationIntroductionId": 494,
+                "situationId": 2178,
+                "seq": 1,
+                "motion": "gacha01",
+                "situationPositionX": 0.44,
+                "isExistLive2dSpecialVoice": true
+            },
+            {
+                "newSituationIntroductionId": 494,
+                "situationId": 2179,
+                "seq": 2,
+                "motion": "gacha01",
+                "situationPositionX": -0.37,
+                "isExistLive2dSpecialVoice": true
+            }
+        ],
+        "textureImageName": "comebackmember",
+        "newIconFlag": false
     }
 ]

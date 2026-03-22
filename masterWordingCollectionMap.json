@@ -11885,7 +11885,7 @@
     },
     "word_superHighLevelSpecialPage_annotation": {
         "name": "word_superHighLevelSpecialPage_annotation",
-        "wording": "※SPECIAL以外は通常楽曲と同じ譜面です\n※ライブブーストは消費されません\n※ライブプレイに関わる各種報酬は獲得できません\n※ミッションの各種クリア条件からは除外されます"
+        "wording": "※ライブブーストは消費されません\n※ライブプレイに関わる各種報酬は獲得できません\n※ミッションの各種クリア条件からは除外されます"
     },
     "word_tab_chara_mission": {
         "name": "word_tab_chara_mission",

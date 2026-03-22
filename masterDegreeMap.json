@@ -88643,6 +88643,76 @@
         "iconImageName": "event_point_icon",
         "description": "「Trick or Escape!」イベントで30000位以内に入賞"
     },
+    "9453": {
+        "degreeId": 9453,
+        "seq": 61,
+        "baseImageName": "degree_qualify_2025_1",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 個人戦 優勝者",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」個人戦で優勝"
+    },
+    "9454": {
+        "degreeId": 9454,
+        "seq": 62,
+        "baseImageName": "degree_qualify_2025_2",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 個人戦 準優勝者",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」個人戦で準優勝"
+    },
+    "9455": {
+        "degreeId": 9455,
+        "seq": 63,
+        "baseImageName": "degree_qualify_2025_3",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 個人戦 決勝出場者",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」個人戦で決勝出場"
+    },
+    "9456": {
+        "degreeId": 9456,
+        "seq": 64,
+        "baseImageName": "degree_qualify_2025_4",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 個人戦 準決勝出場者",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」個人戦で準決勝出場"
+    },
+    "9457": {
+        "degreeId": 9457,
+        "seq": 65,
+        "baseImageName": "degree_qualify_2025_5",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 個人戦 2次予選出場者",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」個人戦で2次予選出場"
+    },
+    "9458": {
+        "degreeId": 9458,
+        "seq": 66,
+        "baseImageName": "degree_qualify_2025_team_1",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 チーム戦 優勝チーム",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」チーム戦で優勝"
+    },
+    "9459": {
+        "degreeId": 9459,
+        "seq": 67,
+        "baseImageName": "degree_qualify_2025_team_2",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 チーム戦 準優勝チーム",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」チーム戦で準優勝"
+    },
     "946": {
         "degreeId": 946,
         "seq": 1046,
@@ -88652,6 +88722,36 @@
         "degreeType": "event_point",
         "iconImageName": "event_point_icon",
         "description": "「Trick or Escape!」イベントで50000位以内に入賞"
+    },
+    "9460": {
+        "degreeId": 9460,
+        "seq": 68,
+        "baseImageName": "degree_qualify_2025_team_3",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 チーム戦 決勝出場チーム",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」チーム戦で決勝出場"
+    },
+    "9461": {
+        "degreeId": 9461,
+        "seq": 69,
+        "baseImageName": "degree_qualify_2025_team_4",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 チーム戦 準決勝出場チーム",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」チーム戦で準決勝出場"
+    },
+    "9462": {
+        "degreeId": 9462,
+        "seq": 70,
+        "baseImageName": "degree_qualify_2025_team_5",
+        "rank": "none",
+        "degreeName": "第7回ガルパ杯 チーム戦 2次予選出場チーム",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「第7回ガルパ杯」チーム戦で2次予選出場"
     },
     "947": {
         "degreeId": 947,
