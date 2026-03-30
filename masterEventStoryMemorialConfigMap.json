@@ -4094,6 +4094,23 @@
         "seasonType": "season_3",
         "eventPublicEndAt": 1774936799000
     },
+    "326": {
+        "eventId": 326,
+        "bandId": 21,
+        "imageFileName": "banner_memorial_event326",
+        "publishedAt": 1775800800000,
+        "eventStoryMemorialReleaseConditionId": 8,
+        "characterIdList": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ],
+        "musicId": 785,
+        "seasonType": "season_3",
+        "eventPublicEndAt": 1775800799000
+    },
     "33": {
         "eventId": 33,
         "imageFileName": "banner_memorial_event033",

@@ -251,6 +251,13 @@
         "isPublishPremiumMission": true,
         "seasonRewardMaxLivePoint": 2500
     },
+    "42": {
+        "missionSeasonId": 42,
+        "startAt": 1774969200000,
+        "endAt": 1777561199000,
+        "isPublishPremiumMission": true,
+        "seasonRewardMaxLivePoint": 2500
+    },
     "5": {
         "missionSeasonId": 5,
         "startAt": 1677596400000,

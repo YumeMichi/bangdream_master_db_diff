@@ -286,5 +286,25 @@
                 }
             ]
         }
+    },
+    {
+        "specialStoryPageId": 7,
+        "publishedAt": 1775401200000,
+        "closedAt": 1775487599000,
+        "assetBundleName": "story_playback",
+        "bgmAssetBundleName": "sound/scenario/bgm/20_livelobby",
+        "bgmFileName": "20_LiveLobby",
+        "details": {
+            "entries": [
+                {
+                    "specialStoryPageId": 7,
+                    "seq": 5,
+                    "transitionMethod": "birthday_story",
+                    "transitionId": 275,
+                    "publishedAt": 1775401200000,
+                    "closedAt": 1775487599000
+                }
+            ]
+        }
     }
 ]

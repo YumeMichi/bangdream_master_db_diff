@@ -417,6 +417,17 @@
         "sideMarginflg": false,
         "notDeleteFlg": false
     },
+    "133": {
+        "genericAnimationId": 133,
+        "seq": 1,
+        "assetBundleName": "dream_festival_2603",
+        "priorityFlg": false,
+        "startAt": 1774936800000,
+        "endAt": 1775282399000,
+        "genericAnimationType": "animation",
+        "sideMarginflg": false,
+        "notDeleteFlg": false
+    },
     "14": {
         "genericAnimationId": 14,
         "seq": 1,

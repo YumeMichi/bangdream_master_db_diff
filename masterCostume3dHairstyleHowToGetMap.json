@@ -14327,6 +14327,106 @@
             }
         ]
     },
+    "1883": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[勇気をきみに]桐ヶ谷 透子を獲得！"
+            }
+        ]
+    },
+    "1884": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[勇気をきみに]桐ヶ谷 透子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[勇気をきみに]桐ヶ谷 透子のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1885": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[勇気をきみに]桐ヶ谷 透子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[勇気をきみに]桐ヶ谷 透子のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1886": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[勇気をきみに]桐ヶ谷 透子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[勇気をきみに]桐ヶ谷 透子のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1887": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[勇気をきみに]桐ヶ谷 透子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[勇気をきみに]桐ヶ谷 透子のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1888": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[私を導く色彩]広町 七深を獲得！"
+            }
+        ]
+    },
+    "1889": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[私を導く色彩]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[私を導く色彩]広町 七深のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
     "189": {
         "entries": [
             {
@@ -14340,6 +14440,154 @@
                 "conditionType": "limit_break",
                 "value": 3,
                 "description": "[エンジョイ☆大学生]丸山 彩のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1890": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[私を導く色彩]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[私を導く色彩]広町 七深のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1891": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[私を導く色彩]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[私を導く色彩]広町 七深のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1892": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1824,
+                "description": "ガチャでメンバー[私を導く色彩]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[私を導く色彩]広町 七深のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1893": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[薄紅の差す窓際で]白金 燐子を獲得！"
+            }
+        ]
+    },
+    "1894": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[薄紅の差す窓際で]白金 燐子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[薄紅の差す窓際で]白金 燐子のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1895": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[薄紅の差す窓際で]白金 燐子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[薄紅の差す窓際で]白金 燐子のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1896": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[薄紅の差す窓際で]白金 燐子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[薄紅の差す窓際で]白金 燐子のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1897": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[薄紅の差す窓際で]白金 燐子を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[薄紅の差す窓際で]白金 燐子のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1898": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[視界を埋める桜色]レイヤを獲得！"
+            }
+        ]
+    },
+    "1899": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[視界を埋める桜色]レイヤを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[視界を埋める桜色]レイヤのマスターランクを1にして衣装を獲得！"
             }
         ]
     },
@@ -14366,6 +14614,54 @@
                 "conditionType": "limit_break",
                 "value": 4,
                 "description": "[エンジョイ☆大学生]丸山 彩のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1900": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[視界を埋める桜色]レイヤを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[視界を埋める桜色]レイヤのマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1901": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[視界を埋める桜色]レイヤを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[視界を埋める桜色]レイヤのマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1902": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1823,
+                "description": "ガチャでメンバー[視界を埋める桜色]レイヤを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[視界を埋める桜色]レイヤのマスターランクを4にして衣装を獲得！"
             }
         ]
     },

@@ -9087,6 +9087,53 @@
         ],
         "assetMap": {}
     },
+    "1386": {
+        "loginBonusId": 1386,
+        "loginBonusType": "birthday",
+        "caption": "千聖誕生日記念",
+        "assetBundleName": "chisato_2026",
+        "publishedAt": 1775401200000,
+        "closedAt": 1775487599000,
+        "details": [
+            {
+                "loginBonusId": 1386,
+                "days": 1,
+                "resourceType": "star",
+                "quantity": 50,
+                "seq": 1,
+                "grantType": "present"
+            },
+            {
+                "loginBonusId": 1386,
+                "days": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 26,
+                "quantity": 1,
+                "seq": 2,
+                "grantType": "present"
+            }
+        ],
+        "assetMap": {}
+    },
+    "1387": {
+        "loginBonusId": 1387,
+        "loginBonusType": "event",
+        "caption": "「元祖！バンドリちゃん」最新話配信記念",
+        "assetBundleName": "bandori_chan_anime",
+        "publishedAt": 1775109600000,
+        "closedAt": 1775195999000,
+        "details": [
+            {
+                "loginBonusId": 1387,
+                "days": 1,
+                "resourceType": "star",
+                "quantity": 50,
+                "seq": 1,
+                "grantType": "present"
+            }
+        ],
+        "assetMap": {}
+    },
     "140": {
         "loginBonusId": 140,
         "loginBonusType": "birthday",

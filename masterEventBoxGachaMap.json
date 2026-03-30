@@ -1,47 +1,47 @@
 {
-    "91": {
-        "eventBoxGachaId": 91,
-        "eventId": 324,
+    "92": {
+        "eventBoxGachaId": 92,
+        "eventId": 326,
         "name": "まりなさんのごほうび箱",
-        "publishedAt": 1772863200000,
-        "closedAt": 1774785599000,
+        "publishedAt": 1774936800000,
+        "closedAt": 1776513599000,
         "rewardItemName": "ごほうび",
         "rewardBgBundleName": "bg_eventgacha_green",
         "detailsMap": {
             "1": {
                 "entries": [
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 1,
                         "count": 1,
                         "resourceType": "practice_ticket",
-                        "resourceId": 19,
+                        "resourceId": 37,
                         "resourceQuantity": 2,
                         "pickupFlag": true
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 2,
-                        "count": 4,
+                        "count": 2,
                         "resourceType": "item",
                         "resourceId": 12,
-                        "resourceQuantity": 5,
+                        "resourceQuantity": 10,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 3,
-                        "count": 14,
+                        "count": 6,
                         "resourceType": "item",
                         "resourceId": 8,
-                        "resourceQuantity": 30,
+                        "resourceQuantity": 70,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 4,
                         "count": 10,
@@ -51,7 +51,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 5,
                         "count": 3,
@@ -61,7 +61,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 6,
                         "count": 5,
@@ -71,7 +71,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 1,
                         "seq": 7,
                         "count": 3,
@@ -85,7 +85,7 @@
             "2": {
                 "entries": [
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 1,
                         "count": 1,
@@ -95,27 +95,27 @@
                         "pickupFlag": true
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 2,
-                        "count": 6,
+                        "count": 3,
                         "resourceType": "item",
                         "resourceId": 12,
-                        "resourceQuantity": 5,
+                        "resourceQuantity": 10,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 3,
-                        "count": 21,
+                        "count": 9,
                         "resourceType": "item",
                         "resourceId": 8,
-                        "resourceQuantity": 30,
+                        "resourceQuantity": 70,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 4,
                         "count": 15,
@@ -125,7 +125,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 5,
                         "count": 6,
@@ -135,7 +135,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 6,
                         "count": 5,
@@ -145,7 +145,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 7,
                         "count": 1,
@@ -155,16 +155,16 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 8,
                         "count": 5,
                         "resourceType": "coin",
-                        "resourceQuantity": 2000,
+                        "resourceQuantity": 5000,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 2,
                         "seq": 9,
                         "count": 5,
@@ -178,7 +178,7 @@
             "3": {
                 "entries": [
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 1,
                         "count": 1,
@@ -188,27 +188,27 @@
                         "pickupFlag": true
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 2,
-                        "count": 8,
+                        "count": 4,
                         "resourceType": "item",
                         "resourceId": 12,
-                        "resourceQuantity": 5,
+                        "resourceQuantity": 10,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 3,
-                        "count": 28,
+                        "count": 12,
                         "resourceType": "item",
                         "resourceId": 8,
-                        "resourceQuantity": 30,
+                        "resourceQuantity": 70,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 4,
                         "count": 20,
@@ -218,7 +218,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 5,
                         "count": 10,
@@ -228,7 +228,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 6,
                         "count": 2,
@@ -238,7 +238,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 7,
                         "count": 5,
@@ -248,7 +248,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 8,
                         "count": 1,
@@ -258,19 +258,19 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 9,
-                        "count": 10,
+                        "count": 5,
                         "resourceType": "coin",
-                        "resourceQuantity": 2000,
+                        "resourceQuantity": 5000,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 3,
                         "seq": 10,
-                        "count": 5,
+                        "count": 10,
                         "resourceType": "live_boost_recovery_item",
                         "resourceId": 1,
                         "resourceQuantity": 1,
@@ -281,7 +281,7 @@
             "4": {
                 "entries": [
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 1,
                         "count": 1,
@@ -291,27 +291,27 @@
                         "pickupFlag": true
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 2,
-                        "count": 12,
+                        "count": 6,
                         "resourceType": "item",
                         "resourceId": 12,
-                        "resourceQuantity": 5,
+                        "resourceQuantity": 10,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 3,
-                        "count": 42,
+                        "count": 18,
                         "resourceType": "item",
                         "resourceId": 8,
-                        "resourceQuantity": 30,
+                        "resourceQuantity": 70,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 4,
                         "count": 30,
@@ -321,7 +321,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 5,
                         "count": 20,
@@ -331,7 +331,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 6,
                         "count": 4,
@@ -341,7 +341,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 7,
                         "count": 10,
@@ -351,7 +351,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 8,
                         "count": 1,
@@ -361,19 +361,19 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 9,
-                        "count": 35,
+                        "count": 20,
                         "resourceType": "coin",
-                        "resourceQuantity": 2000,
+                        "resourceQuantity": 5000,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 4,
                         "seq": 10,
-                        "count": 5,
+                        "count": 10,
                         "resourceType": "live_boost_recovery_item",
                         "resourceId": 1,
                         "resourceQuantity": 1,
@@ -384,7 +384,7 @@
             "5": {
                 "entries": [
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 1,
                         "count": 1,
@@ -394,27 +394,27 @@
                         "pickupFlag": true
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 2,
-                        "count": 18,
+                        "count": 9,
                         "resourceType": "item",
                         "resourceId": 12,
-                        "resourceQuantity": 5,
+                        "resourceQuantity": 10,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 3,
-                        "count": 63,
+                        "count": 27,
                         "resourceType": "item",
                         "resourceId": 8,
-                        "resourceQuantity": 30,
+                        "resourceQuantity": 70,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 4,
                         "count": 45,
@@ -424,7 +424,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 5,
                         "count": 30,
@@ -434,7 +434,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 6,
                         "count": 6,
@@ -444,7 +444,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 7,
                         "count": 10,
@@ -454,7 +454,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 8,
                         "count": 2,
@@ -464,19 +464,19 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 9,
-                        "count": 40,
+                        "count": 30,
                         "resourceType": "coin",
                         "resourceQuantity": 5000,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 5,
                         "seq": 10,
-                        "count": 5,
+                        "count": 10,
                         "resourceType": "live_boost_recovery_item",
                         "resourceId": 1,
                         "resourceQuantity": 1,
@@ -487,7 +487,7 @@
             "6": {
                 "entries": [
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 1,
                         "count": 1,
@@ -496,27 +496,27 @@
                         "pickupFlag": true
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 2,
-                        "count": 20,
+                        "count": 10,
                         "resourceType": "item",
                         "resourceId": 12,
-                        "resourceQuantity": 5,
+                        "resourceQuantity": 10,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 3,
-                        "count": 70,
+                        "count": 30,
                         "resourceType": "item",
                         "resourceId": 8,
-                        "resourceQuantity": 30,
+                        "resourceQuantity": 70,
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 4,
                         "count": 50,
@@ -526,7 +526,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 5,
                         "count": 30,
@@ -536,7 +536,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 6,
                         "count": 4,
@@ -546,7 +546,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 7,
                         "count": 5,
@@ -556,7 +556,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 8,
                         "count": 40,
@@ -565,7 +565,7 @@
                         "pickupFlag": false
                     },
                     {
-                        "eventBoxGachaId": 91,
+                        "eventBoxGachaId": 92,
                         "round": 6,
                         "seq": 9,
                         "count": 10,

@@ -2844,5 +2844,21 @@
         "transitionMethod": "purchase_shop",
         "slideAssetBundleName": "birthday_pareo2026",
         "transitionId": 7
+    },
+    {
+        "graphicalInformationId": 430,
+        "viewStartAt": 1775401200000,
+        "viewEndAt": 1775487599000,
+        "transitionMethod": "purchase_shop",
+        "slideAssetBundleName": "birthday_chisato2026",
+        "transitionId": 7
+    },
+    {
+        "graphicalInformationId": 432,
+        "viewStartAt": 1774969200000,
+        "viewEndAt": 1777561199000,
+        "transitionMethod": "purchase_shop",
+        "slideAssetBundleName": "monthly_mission_2604",
+        "transitionId": 5
     }
 ]

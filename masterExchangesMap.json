@@ -13314,7 +13314,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "[きみが泣かないから]上原ひまり",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1785": {
@@ -13330,7 +13330,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "[スチームガール]美竹蘭",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1786": {
@@ -13346,7 +13346,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "[思い出がいっぱい]牛込りみ",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1787": {
@@ -13362,7 +13362,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "[メモリアル・ブルー]花園たえ",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1788": {
@@ -13378,7 +13378,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "[素晴らしい瞬間を一枚]山吹沙綾",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1789": {
@@ -13394,7 +13394,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "[ウェディングに感動を]丸山彩",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "179": {
@@ -13427,7 +13427,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "レアスタンプ",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1791": {
@@ -13443,7 +13443,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "レアスタンプ",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1792": {
@@ -13459,7 +13459,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "レアスタンプ",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1793": {
@@ -13475,7 +13475,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "紗夜の部屋（昼）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1794": {
@@ -13491,7 +13491,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "日菜の部屋（夜）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1795": {
@@ -13507,7 +13507,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "りみの部屋（昼）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1796": {
@@ -13523,7 +13523,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "パレオの部屋（昼）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1797": {
@@ -13539,7 +13539,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "商店街ライブステージ",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1798": {
@@ -13555,7 +13555,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "市ヶ谷家 蔵（クライブ）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1799": {
@@ -13571,7 +13571,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "CiRCLE カフェテリア（イベント）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "180": {
@@ -13604,7 +13604,7 @@
         "badge": "none",
         "publishedAt": 1772290800000,
         "caption": "チュチュのマンション リビング（パーティ）",
-        "recommendFlg": true,
+        "recommendFlg": false,
         "allowDuplicationFlg": false
     },
     "1801": {
@@ -13828,6 +13828,120 @@
         "recommendFlg": true,
         "allowDuplicationFlg": false
     },
+    "1813": {
+        "exchangesId": 1813,
+        "exchangesCategory": "common",
+        "seq": 10230,
+        "resourceType": "deco_pins",
+        "resourceId": 880,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1775401200000,
+        "closedAt": 1775660399000,
+        "caption": "白鷺千聖(誕生日)",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1814": {
+        "exchangesId": 1814,
+        "exchangesCategory": "common",
+        "seq": 6710,
+        "resourceType": "stamp",
+        "resourceId": 328,
+        "quantity": 1,
+        "amount": 50,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1775401200000,
+        "closedAt": 1775660399000,
+        "caption": "レアスタンプ(誕生日)",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1815": {
+        "exchangesId": 1815,
+        "exchangesCategory": "common",
+        "seq": 31350,
+        "resourceType": "situation",
+        "resourceId": 2234,
+        "quantity": 1,
+        "amount": 200,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "[繋ぐアンカー]千早愛音",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1816": {
+        "exchangesId": 1816,
+        "exchangesCategory": "common",
+        "seq": 31360,
+        "resourceType": "situation",
+        "resourceId": 2235,
+        "quantity": 1,
+        "amount": 200,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "[猫は今日とて]要楽奈",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1817": {
+        "exchangesId": 1817,
+        "exchangesCategory": "common",
+        "seq": 31370,
+        "resourceType": "situation",
+        "resourceId": 2238,
+        "quantity": 1,
+        "amount": 200,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "[涼やかな沢で]ロック",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1818": {
+        "exchangesId": 1818,
+        "exchangesCategory": "common",
+        "seq": 15010,
+        "resourceType": "situation",
+        "resourceId": 2239,
+        "quantity": 1,
+        "amount": 20,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "[不敵なリトルデビル]マスキング",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1819": {
+        "exchangesId": 1819,
+        "exchangesCategory": "common",
+        "seq": 31380,
+        "resourceType": "situation",
+        "resourceId": 2243,
+        "quantity": 1,
+        "amount": 200,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "[負けられない戦い]戸山香澄",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
     "182": {
         "exchangesId": 182,
         "exchangesCategory": "common",
@@ -13845,6 +13959,166 @@
         "recommendFlg": false,
         "allowDuplicationFlg": true
     },
+    "1820": {
+        "exchangesId": 1820,
+        "exchangesCategory": "common",
+        "seq": 15020,
+        "resourceType": "situation",
+        "resourceId": 2244,
+        "quantity": 1,
+        "amount": 20,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "[ときにはおしとやかに]北沢はぐみ",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1821": {
+        "exchangesId": 1821,
+        "exchangesCategory": "common",
+        "seq": 6680,
+        "resourceType": "stamp",
+        "resourceId": 494,
+        "quantity": 1,
+        "amount": 50,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "レアスタンプ",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1822": {
+        "exchangesId": 1822,
+        "exchangesCategory": "common",
+        "seq": 6690,
+        "resourceType": "stamp",
+        "resourceId": 500,
+        "quantity": 1,
+        "amount": 50,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "レアスタンプ",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1823": {
+        "exchangesId": 1823,
+        "exchangesCategory": "common",
+        "seq": 6700,
+        "resourceType": "stamp",
+        "resourceId": 501,
+        "quantity": 1,
+        "amount": 50,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "レアスタンプ",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1824": {
+        "exchangesId": 1824,
+        "exchangesCategory": "common",
+        "seq": 19970,
+        "resourceType": "photo_back",
+        "resourceId": 180,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "蘭の部屋（夜）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1825": {
+        "exchangesId": 1825,
+        "exchangesCategory": "common",
+        "seq": 19980,
+        "resourceType": "photo_back",
+        "resourceId": 181,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "巴の部屋（夜）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1826": {
+        "exchangesId": 1826,
+        "exchangesCategory": "common",
+        "seq": 19990,
+        "resourceType": "photo_back",
+        "resourceId": 182,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "千聖の部屋（夜）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1827": {
+        "exchangesId": 1827,
+        "exchangesCategory": "common",
+        "seq": 20000,
+        "resourceType": "photo_back",
+        "resourceId": 183,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "大きな公園（春）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1828": {
+        "exchangesId": 1828,
+        "exchangesCategory": "common",
+        "seq": 20010,
+        "resourceType": "photo_back",
+        "resourceId": 184,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "森林公園 丘の上（春）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1829": {
+        "exchangesId": 1829,
+        "exchangesCategory": "common",
+        "seq": 20020,
+        "resourceType": "photo_back",
+        "resourceId": 185,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "住宅地（朝）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
     "183": {
         "exchangesId": 183,
         "exchangesCategory": "common",
@@ -13861,6 +14135,38 @@
         "caption": "ハッピーのかけら(小)",
         "recommendFlg": false,
         "allowDuplicationFlg": true
+    },
+    "1830": {
+        "exchangesId": 1830,
+        "exchangesCategory": "common",
+        "seq": 20030,
+        "resourceType": "photo_back",
+        "resourceId": 186,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "大きな公園（昼）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
+    },
+    "1831": {
+        "exchangesId": 1831,
+        "exchangesCategory": "common",
+        "seq": 20040,
+        "resourceType": "photo_back",
+        "resourceId": 187,
+        "quantity": 1,
+        "amount": 80,
+        "exchangeLimit": 1,
+        "reset": "none",
+        "badge": "none",
+        "publishedAt": 1774969200000,
+        "caption": "図書館（昼）",
+        "recommendFlg": true,
+        "allowDuplicationFlg": false
     },
     "184": {
         "exchangesId": 184,

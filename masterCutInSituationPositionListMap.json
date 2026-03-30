@@ -24493,6 +24493,125 @@
             }
         ]
     },
+    "2423": {
+        "entries": [
+            {
+                "situationId": 2423,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": -20,
+                "scale": 1
+            },
+            {
+                "situationId": 2423,
+                "situationStatus": "normal",
+                "positionX": -25,
+                "positionY": 102,
+                "scale": 0.98
+            }
+        ]
+    },
+    "2424": {
+        "entries": [
+            {
+                "situationId": 2424,
+                "situationStatus": "after_training",
+                "positionX": -5,
+                "positionY": 70,
+                "scale": 0.98
+            },
+            {
+                "situationId": 2424,
+                "situationStatus": "normal",
+                "positionX": 0,
+                "positionY": 0,
+                "scale": 1
+            }
+        ]
+    },
+    "2425": {
+        "entries": [
+            {
+                "situationId": 2425,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": 0,
+                "scale": 1
+            },
+            {
+                "situationId": 2425,
+                "situationStatus": "normal",
+                "positionX": -5,
+                "positionY": 154,
+                "scale": 0.98
+            }
+        ]
+    },
+    "2426": {
+        "entries": [
+            {
+                "situationId": 2426,
+                "situationStatus": "normal",
+                "positionX": 0,
+                "positionY": 18,
+                "scale": 1
+            }
+        ]
+    },
+    "2427": {
+        "entries": [
+            {
+                "situationId": 2427,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": -10,
+                "scale": 1
+            },
+            {
+                "situationId": 2427,
+                "situationStatus": "normal",
+                "positionX": -5,
+                "positionY": 60,
+                "scale": 0.98
+            }
+        ]
+    },
+    "2428": {
+        "entries": [
+            {
+                "situationId": 2428,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": -20,
+                "scale": 1
+            },
+            {
+                "situationId": 2428,
+                "situationStatus": "normal",
+                "positionX": 0,
+                "positionY": 0,
+                "scale": 1
+            }
+        ]
+    },
+    "2429": {
+        "entries": [
+            {
+                "situationId": 2429,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": 0,
+                "scale": 1
+            },
+            {
+                "situationId": 2429,
+                "situationStatus": "normal",
+                "positionX": -18,
+                "positionY": 153,
+                "scale": 0.98
+            }
+        ]
+    },
     "243": {
         "entries": [
             {

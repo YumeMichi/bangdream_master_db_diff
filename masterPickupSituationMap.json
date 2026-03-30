@@ -5868,6 +5868,30 @@
                 }
             ]
         },
+        "326": {
+            "entries": [
+                {
+                    "pickupType": "event",
+                    "pickupId": 326,
+                    "seq": 402425,
+                    "situationId": 2425,
+                    "performance": 8944,
+                    "technique": 11432,
+                    "visual": 9234,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "event",
+                    "pickupId": 326,
+                    "seq": 502426,
+                    "situationId": 2426,
+                    "performance": 4729,
+                    "technique": 5236,
+                    "visual": 6122,
+                    "hiddenFlg": false
+                }
+            ]
+        },
         "33": {
             "entries": [
                 {
@@ -38498,6 +38522,152 @@
                     "performance": 10839,
                     "technique": 10178,
                     "visual": 12353,
+                    "hiddenFlg": false
+                }
+            ]
+        },
+        "1823": {
+            "entries": [
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1823,
+                    "seq": 1,
+                    "situationId": 2428,
+                    "performance": 12544,
+                    "technique": 10618,
+                    "visual": 9958,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1823,
+                    "seq": 2,
+                    "situationId": 2429,
+                    "performance": 10521,
+                    "technique": 9958,
+                    "visual": 12639,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1823,
+                    "seq": 3,
+                    "situationId": 2423,
+                    "performance": 12036,
+                    "technique": 9517,
+                    "visual": 11503,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1823,
+                    "seq": 4,
+                    "situationId": 2424,
+                    "performance": 12512,
+                    "technique": 9418,
+                    "visual": 11437,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1823,
+                    "seq": 5,
+                    "situationId": 2427,
+                    "performance": 10765,
+                    "technique": 11755,
+                    "visual": 9021,
+                    "hiddenFlg": false
+                }
+            ]
+        },
+        "1824": {
+            "entries": [
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1824,
+                    "seq": 1,
+                    "situationId": 2423,
+                    "performance": 12036,
+                    "technique": 9517,
+                    "visual": 11503,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1824,
+                    "seq": 2,
+                    "situationId": 2424,
+                    "performance": 12512,
+                    "technique": 9418,
+                    "visual": 11437,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1824,
+                    "seq": 3,
+                    "situationId": 2427,
+                    "performance": 10765,
+                    "technique": 11755,
+                    "visual": 9021,
+                    "hiddenFlg": false
+                }
+            ]
+        },
+        "1825": {
+            "entries": [
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1825,
+                    "seq": 1,
+                    "situationId": 2423,
+                    "performance": 12036,
+                    "technique": 9517,
+                    "visual": 11503,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1825,
+                    "seq": 2,
+                    "situationId": 2424,
+                    "performance": 12512,
+                    "technique": 9418,
+                    "visual": 11437,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1825,
+                    "seq": 3,
+                    "situationId": 2427,
+                    "performance": 10765,
+                    "technique": 11755,
+                    "visual": 9021,
+                    "hiddenFlg": false
+                }
+            ]
+        },
+        "1826": {
+            "entries": [
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1826,
+                    "seq": 1,
+                    "situationId": 1486,
+                    "performance": 10481,
+                    "technique": 10523,
+                    "visual": 10384,
+                    "hiddenFlg": false
+                },
+                {
+                    "pickupType": "gacha",
+                    "pickupId": 1826,
+                    "seq": 2,
+                    "situationId": 1161,
+                    "performance": 10406,
+                    "technique": 10462,
+                    "visual": 10521,
                     "hiddenFlg": false
                 }
             ]

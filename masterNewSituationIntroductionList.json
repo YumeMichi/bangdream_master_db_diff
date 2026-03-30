@@ -1,86 +1,5 @@
 [
     {
-        "newSituationIntroductionId": 488,
-        "gachaId": 1799,
-        "logoPosition": "center",
-        "startAt": 1773414000000,
-        "endAt": 1774418399000,
-        "details": [
-            {
-                "newSituationIntroductionId": 488,
-                "situationId": 2421,
-                "seq": 1,
-                "motion": "gacha01",
-                "situationPositionX": 0.15,
-                "live2dPresetVoice": "smile",
-                "isExistLive2dSpecialVoice": false
-            },
-            {
-                "newSituationIntroductionId": 488,
-                "situationId": 2422,
-                "seq": 2,
-                "motion": "gacha01",
-                "situationPositionX": -0.2,
-                "live2dPresetVoice": "smile",
-                "isExistLive2dSpecialVoice": false
-            }
-        ],
-        "textureImageName": "newmember_dreamfes",
-        "newIconFlag": true
-    },
-    {
-        "newSituationIntroductionId": 489,
-        "gachaId": 1799,
-        "logoPosition": "center",
-        "startAt": 1773414000000,
-        "endAt": 1774418399000,
-        "details": [
-            {
-                "newSituationIntroductionId": 489,
-                "situationId": 2413,
-                "seq": 1,
-                "motion": "gacha01",
-                "situationPositionX": 0.06,
-                "isExistLive2dSpecialVoice": true
-            },
-            {
-                "newSituationIntroductionId": 489,
-                "situationId": 2414,
-                "seq": 2,
-                "motion": "gacha01",
-                "situationPositionX": -0.48,
-                "isExistLive2dSpecialVoice": true
-            }
-        ],
-        "newIconFlag": true
-    },
-    {
-        "newSituationIntroductionId": 490,
-        "gachaId": 1799,
-        "logoPosition": "center",
-        "startAt": 1773414000000,
-        "endAt": 1774418399000,
-        "details": [
-            {
-                "newSituationIntroductionId": 490,
-                "situationId": 2415,
-                "seq": 1,
-                "motion": "gacha01",
-                "situationPositionX": 0.4,
-                "isExistLive2dSpecialVoice": true
-            },
-            {
-                "newSituationIntroductionId": 490,
-                "situationId": 2416,
-                "seq": 2,
-                "motion": "gacha01",
-                "situationPositionX": -0.17,
-                "isExistLive2dSpecialVoice": true
-            }
-        ],
-        "newIconFlag": true
-    },
-    {
         "newSituationIntroductionId": 493,
         "gachaId": 1827,
         "logoPosition": "center",
@@ -133,5 +52,62 @@
         ],
         "textureImageName": "comebackmember",
         "newIconFlag": false
+    },
+    {
+        "newSituationIntroductionId": 495,
+        "gachaId": 1823,
+        "logoPosition": "center",
+        "startAt": 1774936800000,
+        "endAt": 1775282399000,
+        "details": [
+            {
+                "newSituationIntroductionId": 495,
+                "situationId": 2428,
+                "seq": 1,
+                "motion": "gacha01",
+                "situationPositionX": 0.46,
+                "live2dPresetVoice": "smile",
+                "isExistLive2dSpecialVoice": false
+            },
+            {
+                "newSituationIntroductionId": 495,
+                "situationId": 2429,
+                "seq": 2,
+                "motion": "gacha01",
+                "situationPositionX": -0.42,
+                "live2dPresetVoice": "smile",
+                "isExistLive2dSpecialVoice": false
+            }
+        ],
+        "textureImageName": "newmember_dreamfes",
+        "newIconFlag": true
+    },
+    {
+        "newSituationIntroductionId": 496,
+        "gachaId": 1823,
+        "logoPosition": "center",
+        "startAt": 1774936800000,
+        "endAt": 1775282399000,
+        "details": [
+            {
+                "newSituationIntroductionId": 496,
+                "situationId": 2423,
+                "seq": 1,
+                "motion": "gacha01",
+                "situationPositionX": 0.38,
+                "live2dPresetVoice": "smile",
+                "isExistLive2dSpecialVoice": false
+            },
+            {
+                "newSituationIntroductionId": 496,
+                "situationId": 2424,
+                "seq": 2,
+                "motion": "gacha01",
+                "situationPositionX": -0.33,
+                "live2dPresetVoice": "smile",
+                "isExistLive2dSpecialVoice": false
+            }
+        ],
+        "newIconFlag": true
     }
 ]

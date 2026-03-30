@@ -2986,6 +2986,15 @@
         "endAt": 1774450799000,
         "rewards": {}
     },
+    "275": {
+        "birthdayStoryId": 275,
+        "seq": 275,
+        "caption": "白鷺千聖",
+        "scenarioId": "275",
+        "startAt": 1775401200000,
+        "endAt": 1775487599000,
+        "rewards": {}
+    },
     "28": {
         "birthdayStoryId": 28,
         "seq": 28,
