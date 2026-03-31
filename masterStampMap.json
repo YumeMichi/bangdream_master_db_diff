@@ -4254,6 +4254,46 @@
         "withVoice": true,
         "voiceName": "stamp_030010"
     },
+    "568": {
+        "stampId": 568,
+        "seq": 568,
+        "imageName": "stamp_201003",
+        "stampType": "rare",
+        "publishedAt": 1774969200000,
+        "withVoice": false
+    },
+    "569": {
+        "stampId": 569,
+        "seq": 569,
+        "imageName": "stamp_028012",
+        "stampType": "rare",
+        "publishedAt": 1775109600000,
+        "withVoice": false
+    },
+    "570": {
+        "stampId": 570,
+        "seq": 570,
+        "imageName": "stamp_037005",
+        "stampType": "rare",
+        "publishedAt": 1775109600000,
+        "withVoice": false
+    },
+    "571": {
+        "stampId": 571,
+        "seq": 571,
+        "imageName": "stamp_001021",
+        "stampType": "rare",
+        "publishedAt": 1775109600000,
+        "withVoice": false
+    },
+    "572": {
+        "stampId": 572,
+        "seq": 572,
+        "imageName": "stamp_022013",
+        "stampType": "rare",
+        "publishedAt": 1775109600000,
+        "withVoice": false
+    },
     "575": {
         "stampId": 575,
         "seq": 575,

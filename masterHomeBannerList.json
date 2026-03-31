@@ -14887,6 +14887,18 @@
         "homeBannerType": "normal"
     },
     {
+        "homeBannerId": 2905,
+        "seq": 150,
+        "assetBundleName": "banner_music_april2026_super",
+        "publishedAt": 1774969200000,
+        "closedAt": 1775541599000,
+        "transitionMethod": "collabo_original_music_page",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 13,
+        "homeBannerType": "normal"
+    },
+    {
         "homeBannerId": 2560,
         "seq": 160,
         "assetBundleName": "banner_exchange_limited76",
@@ -14896,6 +14908,18 @@
         "releaseRankFrom": 1,
         "releaseRankTo": 999,
         "transitionId": 76,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2906,
+        "seq": 160,
+        "assetBundleName": "banner_exchange_limited123",
+        "publishedAt": 1774969200000,
+        "closedAt": 1775800799000,
+        "transitionMethod": "limited_exchange",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 123,
         "homeBannerType": "normal"
     },
     {
@@ -25937,6 +25961,30 @@
         "releaseRankFrom": 1,
         "releaseRankTo": 999,
         "transitionId": 7,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2907,
+        "seq": 500,
+        "assetBundleName": "banner_story_playback",
+        "publishedAt": 1774969200000,
+        "closedAt": 1775055599000,
+        "transitionMethod": "special_story_page",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 43,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2908,
+        "seq": 500,
+        "assetBundleName": "banner_story_playback",
+        "publishedAt": 1775055600000,
+        "closedAt": 1775141999000,
+        "transitionMethod": "special_story_page",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 44,
         "homeBannerType": "normal"
     },
     {

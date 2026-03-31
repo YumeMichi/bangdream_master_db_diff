@@ -440,6 +440,15 @@
         "seq": 53,
         "liveBoostRecoveryItemType": "special"
     },
+    "54": {
+        "liveBoostRecoveryItemId": 54,
+        "liveBoostRecoveryItemName": "ブーストドリンク（ローポリ）",
+        "resourceId": 54,
+        "value": 10,
+        "description": "ライブブーストを10回復する。",
+        "seq": 54,
+        "liveBoostRecoveryItemType": "special"
+    },
     "6": {
         "liveBoostRecoveryItemId": 6,
         "liveBoostRecoveryItemName": "もふもふラテアート",

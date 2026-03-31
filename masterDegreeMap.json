@@ -88533,6 +88533,16 @@
         "iconImageName": "none",
         "description": "「\"moment / memory\"」ステージチャレンジで★を33個獲得"
     },
+    "9343": {
+        "degreeId": 9343,
+        "seq": 1036,
+        "baseImageName": "degree_aprilfool_2026",
+        "rank": "none",
+        "degreeName": "キミもそう思うよね？",
+        "degreeType": "normal",
+        "iconImageName": "none",
+        "description": "2026エイプリルフール！スペシャルプレゼント！を受け取る"
+    },
     "9344": {
         "degreeId": 9344,
         "seq": 9444,

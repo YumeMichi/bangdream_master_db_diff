@@ -777,6 +777,46 @@
         "priorityFlg": true,
         "genericStoryType": "login_story"
     },
+    "76": {
+        "genericStoryId": 76,
+        "seq": 1,
+        "caption": "AF前編",
+        "title": "髪切った？？",
+        "synopsis": "2026エイプリルフール前編",
+        "scenarioId": "loginstory76",
+        "coverImage": "1",
+        "backgroundImage": "1",
+        "releasePlayerRank": 1,
+        "releaseConditions": "最初から解放",
+        "startAt": 1774969200000,
+        "endAt": 1775055599000,
+        "rewards": [
+            {
+                "resourceId": 54,
+                "resourceType": "live_boost_recovery_item",
+                "quantity": 1,
+                "lbBonus": 1
+            }
+        ],
+        "priorityFlg": false,
+        "genericStoryType": "login_story"
+    },
+    "77": {
+        "genericStoryId": 77,
+        "seq": 1,
+        "caption": "AF後編",
+        "title": "私たちのまりなさん",
+        "synopsis": "2026エイプリルフール後編",
+        "scenarioId": "loginstory77",
+        "coverImage": "1",
+        "backgroundImage": "1",
+        "releasePlayerRank": 1,
+        "releaseConditions": "最初から解放",
+        "startAt": 1775055600000,
+        "endAt": 1775141999000,
+        "priorityFlg": true,
+        "genericStoryType": "login_story"
+    },
     "8": {
         "genericStoryId": 8,
         "seq": 1,

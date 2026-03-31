@@ -306,5 +306,45 @@
                 }
             ]
         }
+    },
+    {
+        "specialStoryPageId": 43,
+        "publishedAt": 1774969200000,
+        "closedAt": 1775055599000,
+        "assetBundleName": "story_playback",
+        "bgmAssetBundleName": "sound/scenario/bgm/20_livelobby",
+        "bgmFileName": "20_LiveLobby",
+        "details": {
+            "entries": [
+                {
+                    "specialStoryPageId": 43,
+                    "seq": 43,
+                    "transitionMethod": "generic_story",
+                    "transitionId": 76,
+                    "publishedAt": 1774969200000,
+                    "closedAt": 1775055599000
+                }
+            ]
+        }
+    },
+    {
+        "specialStoryPageId": 44,
+        "publishedAt": 1775055600000,
+        "closedAt": 1775141999000,
+        "assetBundleName": "story_playback",
+        "bgmAssetBundleName": "sound/scenario/bgm/20_livelobby",
+        "bgmFileName": "20_LiveLobby",
+        "details": {
+            "entries": [
+                {
+                    "specialStoryPageId": 44,
+                    "seq": 44,
+                    "transitionMethod": "generic_story",
+                    "transitionId": 77,
+                    "publishedAt": 1775055600000,
+                    "closedAt": 1775141999000
+                }
+            ]
+        }
     }
 ]

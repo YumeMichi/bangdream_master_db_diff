@@ -6023,6 +6023,14 @@
         "scoreB": 1687950,
         "scoreC": 317625
     },
+    "786": {
+        "musicId": 786,
+        "scoreSS": 5310000,
+        "scoreS": 4500000,
+        "scoreA": 3330000,
+        "scoreB": 1674000,
+        "scoreC": 315000
+    },
     "79": {
         "musicId": 79,
         "scoreSS": 5221500,
@@ -6030,6 +6038,14 @@
         "scoreA": 3274500,
         "scoreB": 1646100,
         "scoreC": 309750
+    },
+    "790": {
+        "musicId": 790,
+        "scoreSS": 5310000,
+        "scoreS": 4500000,
+        "scoreA": 3330000,
+        "scoreB": 1674000,
+        "scoreC": 315000
     },
     "8": {
         "musicId": 8,

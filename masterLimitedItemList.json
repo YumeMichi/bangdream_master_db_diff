@@ -894,5 +894,13 @@
         "description": "説明",
         "unitName": "個",
         "resourceName": "gacha_piece_1369"
+    },
+    {
+        "limitedItemId": 115,
+        "seq": 1,
+        "limitedItemName": "エイプリルフール！ピック",
+        "description": "説明",
+        "unitName": "個",
+        "resourceName": "2026_april"
     }
 ]

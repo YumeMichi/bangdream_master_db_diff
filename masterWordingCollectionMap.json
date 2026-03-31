@@ -7663,6 +7663,10 @@
         "name": "graphicalInfo_title_limitedMusic_april2025",
         "wording": "ガルパ運営からの挑戦状！"
     },
+    "graphicalInfo_title_limitedMusic_april2026": {
+        "name": "graphicalInfo_title_limitedMusic_april2026",
+        "wording": "ガルパ運営からの挑戦状！"
+    },
     "graphicalInfo_title_limitedMusic_collabo_2026_w": {
         "name": "graphicalInfo_title_limitedMusic_collabo_2026_w",
         "wording": "「Mystic Light Quest」が期間限定で登場！"
@@ -8209,6 +8213,10 @@
     },
     "info_april2025_super_slide": {
         "name": "info_april2025_super_slide",
+        "wording": "ガルパ運営からの挑戦状！"
+    },
+    "info_april2026_super_slide": {
+        "name": "info_april2026_super_slide",
         "wording": "ガルパ運営からの挑戦状！"
     },
     "info_friendbuddy_end_button": {

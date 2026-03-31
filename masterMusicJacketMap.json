@@ -8667,6 +8667,17 @@
             }
         ]
     },
+    "786": {
+        "entries": [
+            {
+                "musicJacketId": 842,
+                "musicId": 786,
+                "seq": 10,
+                "jacketImage": "786_miracle_april",
+                "startAt": 1774969200000
+            }
+        ]
+    },
     "79": {
         "entries": [
             {
@@ -8675,6 +8686,17 @@
                 "seq": 5,
                 "jacketImage": "079_sekaochi",
                 "startAt": 1509429600000
+            }
+        ]
+    },
+    "790": {
+        "entries": [
+            {
+                "musicJacketId": 846,
+                "musicId": 790,
+                "seq": 10,
+                "jacketImage": "790_miracle_marina",
+                "startAt": 1774969200000
             }
         ]
     },

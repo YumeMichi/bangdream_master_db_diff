@@ -11,5 +11,13 @@
         "startAt": 1774936800000,
         "endAt": 1775195999000,
         "bandNameList": {}
+    },
+    "688": {
+        "newMusicIntroductionId": 688,
+        "musicId": 790,
+        "assetBundleName": "common_music_introduction",
+        "startAt": 1774969200000,
+        "endAt": 1775228399000,
+        "bandNameList": {}
     }
 }
