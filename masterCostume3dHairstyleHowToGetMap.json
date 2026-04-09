@@ -14665,6 +14665,106 @@
             }
         ]
     },
+    "1903": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[一度きりの革命]瀬田 薫を獲得！"
+            }
+        ]
+    },
+    "1904": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[一度きりの革命]瀬田 薫を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[一度きりの革命]瀬田 薫のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1905": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[一度きりの革命]瀬田 薫を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[一度きりの革命]瀬田 薫のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1906": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[一度きりの革命]瀬田 薫を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[一度きりの革命]瀬田 薫のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1907": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[一度きりの革命]瀬田 薫を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[一度きりの革命]瀬田 薫のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1908": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[落としたもの]白鷺 千聖を獲得！"
+            }
+        ]
+    },
+    "1909": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[落としたもの]白鷺 千聖を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[落としたもの]白鷺 千聖のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
     "191": {
         "entries": [
             {
@@ -14672,6 +14772,54 @@
                 "conditionType": "gacha",
                 "value": 1108,
                 "description": "ガチャでメンバー[私の輝きが照らした道]倉田 ましろを獲得！"
+            }
+        ]
+    },
+    "1910": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[落としたもの]白鷺 千聖を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[落としたもの]白鷺 千聖のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1911": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[落としたもの]白鷺 千聖を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[落としたもの]白鷺 千聖のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1912": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[落としたもの]白鷺 千聖を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[落としたもの]白鷺 千聖のマスターランクを4にして衣装を獲得！"
             }
         ]
     },

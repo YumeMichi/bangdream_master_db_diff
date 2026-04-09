@@ -5201,6 +5201,24 @@
             ]
         }
     },
+    "359": {
+        "musicShopId": 359,
+        "shopId": 7,
+        "shopCategory": "common",
+        "seq": 359,
+        "musicId": 787,
+        "amount": 0,
+        "costs": {
+            "entries": [
+                {
+                    "resourceId": 13,
+                    "resourceType": "item",
+                    "quantity": 10,
+                    "lbBonus": 1
+                }
+            ]
+        }
+    },
     "36": {
         "musicShopId": 36,
         "shopId": 7,

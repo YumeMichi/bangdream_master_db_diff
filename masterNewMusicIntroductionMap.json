@@ -1,23 +1,15 @@
 {
-    "686": {
-        "newMusicIntroductionId": 686,
-        "musicId": 785,
+    "687": {
+        "newMusicIntroductionId": 687,
+        "musicId": 787,
         "assetBundleName": "common_music_introduction",
-        "costumeId1": 1637,
-        "costumeId2": 1635,
-        "costumeId3": 1633,
-        "costumeId4": 1636,
-        "costumeId5": 1634,
-        "startAt": 1774936800000,
-        "endAt": 1775195999000,
-        "bandNameList": {}
-    },
-    "688": {
-        "newMusicIntroductionId": 688,
-        "musicId": 790,
-        "assetBundleName": "common_music_introduction",
-        "startAt": 1774969200000,
-        "endAt": 1775228399000,
+        "costumeId1": 1625,
+        "costumeId2": 1627,
+        "costumeId3": 1623,
+        "costumeId4": 1626,
+        "costumeId5": 1624,
+        "startAt": 1775800800000,
+        "endAt": 1776059999000,
         "bandNameList": {}
     }
 }

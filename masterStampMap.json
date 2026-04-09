@@ -4254,6 +4254,15 @@
         "withVoice": true,
         "voiceName": "stamp_030010"
     },
+    "567": {
+        "stampId": 567,
+        "seq": 573,
+        "imageName": "stamp_019016",
+        "stampType": "rare",
+        "publishedAt": 1775800800000,
+        "withVoice": true,
+        "voiceName": "stamp_019016"
+    },
     "568": {
         "stampId": 568,
         "seq": 568,
@@ -4293,15 +4302,6 @@
         "stampType": "rare",
         "publishedAt": 1775109600000,
         "withVoice": false
-    },
-    "575": {
-        "stampId": 575,
-        "seq": 575,
-        "imageName": "stamp_024016",
-        "stampType": "rare",
-        "publishedAt": 1777442400000,
-        "withVoice": true,
-        "voiceName": "stamp_024016"
     },
     "6": {
         "stampId": 6,

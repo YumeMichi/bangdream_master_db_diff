@@ -1,55 +1,26 @@
 [
     {
-        "newSituationIntroductionId": 495,
-        "gachaId": 1823,
+        "newSituationIntroductionId": 497,
+        "gachaId": 1828,
         "logoPosition": "center",
-        "startAt": 1774936800000,
-        "endAt": 1775282399000,
+        "startAt": 1775800800000,
+        "endAt": 1776664799000,
         "details": [
             {
-                "newSituationIntroductionId": 495,
-                "situationId": 2428,
+                "newSituationIntroductionId": 497,
+                "situationId": 2430,
                 "seq": 1,
                 "motion": "gacha01",
-                "situationPositionX": 0.46,
+                "situationPositionX": 0.43,
                 "live2dPresetVoice": "smile",
                 "isExistLive2dSpecialVoice": false
             },
             {
-                "newSituationIntroductionId": 495,
-                "situationId": 2429,
+                "newSituationIntroductionId": 497,
+                "situationId": 2431,
                 "seq": 2,
                 "motion": "gacha01",
-                "situationPositionX": -0.42,
-                "live2dPresetVoice": "smile",
-                "isExistLive2dSpecialVoice": false
-            }
-        ],
-        "textureImageName": "newmember_dreamfes",
-        "newIconFlag": true
-    },
-    {
-        "newSituationIntroductionId": 496,
-        "gachaId": 1823,
-        "logoPosition": "center",
-        "startAt": 1774936800000,
-        "endAt": 1775282399000,
-        "details": [
-            {
-                "newSituationIntroductionId": 496,
-                "situationId": 2423,
-                "seq": 1,
-                "motion": "gacha01",
-                "situationPositionX": 0.38,
-                "live2dPresetVoice": "smile",
-                "isExistLive2dSpecialVoice": false
-            },
-            {
-                "newSituationIntroductionId": 496,
-                "situationId": 2424,
-                "seq": 2,
-                "motion": "gacha01",
-                "situationPositionX": -0.33,
+                "situationPositionX": -0.14,
                 "live2dPresetVoice": "smile",
                 "isExistLive2dSpecialVoice": false
             }

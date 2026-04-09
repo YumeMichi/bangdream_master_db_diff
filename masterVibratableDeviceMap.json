@@ -143,6 +143,10 @@
         "id": 45,
         "deviceName": "iPhone18,4"
     },
+    "iPhone18,5": {
+        "id": 46,
+        "deviceName": "iPhone18,5"
+    },
     "iPhone9,1": {
         "id": 3,
         "deviceName": "iPhone9,1"

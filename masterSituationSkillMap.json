@@ -7609,6 +7609,31 @@
         "skillName": "ふたりでお揃いの衣装！",
         "skillId": 11
     },
+    "2430": {
+        "situationSkillId": 2430,
+        "skillName": "儚くも熱き焔",
+        "skillId": 67
+    },
+    "2431": {
+        "situationSkillId": 2431,
+        "skillName": "夢の証明",
+        "skillId": 71
+    },
+    "2432": {
+        "situationSkillId": 2432,
+        "skillName": "最前列の信頼",
+        "skillId": 9
+    },
+    "2433": {
+        "situationSkillId": 2433,
+        "skillName": "私たちの光",
+        "skillId": 23
+    },
+    "2434": {
+        "situationSkillId": 2434,
+        "skillName": "あたたかなそよ風",
+        "skillId": 26
+    },
     "244": {
         "situationSkillId": 244,
         "skillName": "あこが選んだ猫耳",

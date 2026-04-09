@@ -13649,6 +13649,16 @@
             }
         ]
     },
+    "2349": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[一度きりの革命]瀬田薫を獲得！"
+            }
+        ]
+    },
     "235": {
         "entries": [
             {
@@ -13656,6 +13666,46 @@
                 "conditionType": "exchange",
                 "value": 714,
                 "description": "ミッシェルシール交換所で衣装[わんだふるイヤー]今井 リサを獲得！"
+            }
+        ]
+    },
+    "2350": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[落としたもの]白鷺千聖を獲得！"
+            }
+        ]
+    },
+    "2351": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 327,
+                "description": "イベントでメンバー[まなざす体温]大和麻弥を獲得！"
+            }
+        ]
+    },
+    "2352": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 327,
+                "description": "イベントでメンバー[革命前夜の光たち]上原ひまりを獲得！"
+            }
+        ]
+    },
+    "2353": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1828,
+                "description": "ガチャでメンバー[ほほえむ体温]松原花音を獲得！"
             }
         ]
     },

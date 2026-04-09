@@ -24630,6 +24630,89 @@
             }
         ]
     },
+    "2430": {
+        "entries": [
+            {
+                "situationId": 2430,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": 20,
+                "scale": 1
+            },
+            {
+                "situationId": 2430,
+                "situationStatus": "normal",
+                "positionX": -18,
+                "positionY": 123,
+                "scale": 0.96
+            }
+        ]
+    },
+    "2431": {
+        "entries": [
+            {
+                "situationId": 2431,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": 0,
+                "scale": 1
+            },
+            {
+                "situationId": 2431,
+                "situationStatus": "normal",
+                "positionX": -5,
+                "positionY": 140,
+                "scale": 0.98
+            }
+        ]
+    },
+    "2432": {
+        "entries": [
+            {
+                "situationId": 2432,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": -20,
+                "scale": 1
+            },
+            {
+                "situationId": 2432,
+                "situationStatus": "normal",
+                "positionX": -5,
+                "positionY": 50,
+                "scale": 0.98
+            }
+        ]
+    },
+    "2433": {
+        "entries": [
+            {
+                "situationId": 2433,
+                "situationStatus": "normal",
+                "positionX": 0,
+                "positionY": 24,
+                "scale": 1
+            }
+        ]
+    },
+    "2434": {
+        "entries": [
+            {
+                "situationId": 2434,
+                "situationStatus": "after_training",
+                "positionX": 0,
+                "positionY": 10,
+                "scale": 1
+            },
+            {
+                "situationId": 2434,
+                "situationStatus": "normal",
+                "positionX": 0,
+                "positionY": 40,
+                "scale": 1
+            }
+        ]
+    },
     "244": {
         "entries": [
             {
