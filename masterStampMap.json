@@ -4303,6 +4303,15 @@
         "publishedAt": 1775109600000,
         "withVoice": false
     },
+    "573": {
+        "stampId": 573,
+        "seq": 574,
+        "imageName": "stamp_008014",
+        "stampType": "rare",
+        "publishedAt": 1776664800000,
+        "withVoice": true,
+        "voiceName": "stamp_008014"
+    },
     "6": {
         "stampId": 6,
         "seq": 6,

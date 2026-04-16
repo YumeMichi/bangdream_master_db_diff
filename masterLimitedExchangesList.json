@@ -956,5 +956,21 @@
         "publishedAt": 1776178800000,
         "closedAt": 1777042799000,
         "limitedExchangesCategory": "common"
+    },
+    {
+        "limitedExchangesId": 126,
+        "seq": 21,
+        "name": "ライブ打ち上げPoppin'Partyピース交換所",
+        "publishedAt": 1775998800000,
+        "closedAt": 1776751199000,
+        "limitedExchangesCategory": "common"
+    },
+    {
+        "limitedExchangesId": 127,
+        "seq": 20,
+        "name": "ライブ打ち上げRoseliaピース交換所",
+        "publishedAt": 1775998800000,
+        "closedAt": 1776751199000,
+        "limitedExchangesCategory": "common"
     }
 ]

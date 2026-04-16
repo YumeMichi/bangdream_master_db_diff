@@ -21794,6 +21794,18 @@
         "homeBannerType": "normal"
     },
     {
+        "homeBannerId": 2917,
+        "seq": 325,
+        "assetBundleName": "banner_gacha1832",
+        "publishedAt": 1775998800000,
+        "closedAt": 1776146399000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1832
+    },
+    {
         "homeBannerId": 2002,
         "seq": 326,
         "assetBundleName": "banner_birthday_hina_2023",
@@ -22033,6 +22045,18 @@
         "gachaId": 1811
     },
     {
+        "homeBannerId": 2918,
+        "seq": 330,
+        "assetBundleName": "banner_gacha1833",
+        "publishedAt": 1775998800000,
+        "closedAt": 1776146399000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1833
+    },
+    {
         "homeBannerId": 1979,
         "seq": 335,
         "assetBundleName": "banner_gacha1118",
@@ -22079,6 +22103,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1796
+    },
+    {
+        "homeBannerId": 2919,
+        "seq": 335,
+        "assetBundleName": "banner_gacha1834",
+        "publishedAt": 1775998800000,
+        "closedAt": 1776146399000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1834
     },
     {
         "homeBannerId": 2094,
@@ -22543,6 +22579,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1809
+    },
+    {
+        "homeBannerId": 2920,
+        "seq": 340,
+        "assetBundleName": "banner_gacha1835",
+        "publishedAt": 1775998800000,
+        "closedAt": 1776146399000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1835
     },
     {
         "homeBannerId": 2257,
