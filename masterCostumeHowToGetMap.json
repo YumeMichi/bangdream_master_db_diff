@@ -13709,6 +13709,56 @@
             }
         ]
     },
+    "2354": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[小指を交わして]美竹 蘭を獲得！"
+            }
+        ]
+    },
+    "2355": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[夕暮れ時の約束]上原 ひまりを獲得！"
+            }
+        ]
+    },
+    "2356": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 328,
+                "description": "イベントでメンバー[鮮やかな手さばき]宇田川 巴を獲得！"
+            }
+        ]
+    },
+    "2357": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 328,
+                "description": "イベントでメンバー[爽風マリンスタイル]羽沢 つぐみを獲得！"
+            }
+        ]
+    },
+    "2358": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[真剣なダメ出し？]青葉 モカを獲得！"
+            }
+        ]
+    },
     "236": {
         "entries": [
             {

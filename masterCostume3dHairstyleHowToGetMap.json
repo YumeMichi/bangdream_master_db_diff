@@ -14823,6 +14823,106 @@
             }
         ]
     },
+    "1913": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[小指を交わして]美竹 蘭を獲得！"
+            }
+        ]
+    },
+    "1914": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[小指を交わして]美竹 蘭を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[小指を交わして]美竹 蘭のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1915": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[小指を交わして]美竹 蘭を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[小指を交わして]美竹 蘭のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1916": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[小指を交わして]美竹 蘭を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[小指を交わして]美竹 蘭のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1917": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[小指を交わして]美竹 蘭を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[小指を交わして]美竹 蘭のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1918": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[夕暮れ時の約束]上原 ひまりを獲得！"
+            }
+        ]
+    },
+    "1919": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[夕暮れ時の約束]上原 ひまりを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[夕暮れ時の約束]上原 ひまりのマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
     "192": {
         "entries": [
             {
@@ -14836,6 +14936,54 @@
                 "conditionType": "limit_break",
                 "value": 1,
                 "description": "[私の輝きが照らした道]倉田 ましろのマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1920": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[夕暮れ時の約束]上原 ひまりを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[夕暮れ時の約束]上原 ひまりのマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1921": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[夕暮れ時の約束]上原 ひまりを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[夕暮れ時の約束]上原 ひまりのマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1922": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1837,
+                "description": "ガチャでメンバー[夕暮れ時の約束]上原 ひまりを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[夕暮れ時の約束]上原 ひまりのマスターランクを4にして衣装を獲得！"
             }
         ]
     },

@@ -89243,6 +89243,26 @@
         "iconImageName": "event_point_icon",
         "description": "「黎明のスタン・バイ」イベントで100000位以内に入賞"
     },
+    "9408": {
+        "degreeId": 9408,
+        "seq": 9508,
+        "baseImageName": "degree_event328_point",
+        "rank": "1",
+        "degreeName": "称号 1位",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで1位に入賞"
+    },
+    "9409": {
+        "degreeId": 9409,
+        "seq": 9509,
+        "baseImageName": "degree_event328_point",
+        "rank": "2",
+        "degreeName": "称号 2位",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで2位に入賞"
+    },
     "941": {
         "degreeId": 941,
         "seq": 1041,
@@ -89252,6 +89272,106 @@
         "degreeType": "event_point",
         "iconImageName": "event_point_icon",
         "description": "「Trick or Escape!」イベントで2000位以内に入賞"
+    },
+    "9410": {
+        "degreeId": 9410,
+        "seq": 9510,
+        "baseImageName": "degree_event328_point",
+        "rank": "3",
+        "degreeName": "称号 3位",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで3位に入賞"
+    },
+    "9411": {
+        "degreeId": 9411,
+        "seq": 9511,
+        "baseImageName": "degree_event328_point",
+        "rank": "10",
+        "degreeName": "称号 TOP10",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで10位以内に入賞"
+    },
+    "9412": {
+        "degreeId": 9412,
+        "seq": 9512,
+        "baseImageName": "degree_event328_point",
+        "rank": "20",
+        "degreeName": "称号 TOP20",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで20位以内に入賞"
+    },
+    "9413": {
+        "degreeId": 9413,
+        "seq": 9513,
+        "baseImageName": "degree_event328_point",
+        "rank": "30",
+        "degreeName": "称号 TOP30",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで30位以内に入賞"
+    },
+    "9414": {
+        "degreeId": 9414,
+        "seq": 9514,
+        "baseImageName": "degree_event328_point",
+        "rank": "40",
+        "degreeName": "称号 TOP40",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで40位以内に入賞"
+    },
+    "9415": {
+        "degreeId": 9415,
+        "seq": 9515,
+        "baseImageName": "degree_event328_point",
+        "rank": "50",
+        "degreeName": "称号 TOP50",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで50位以内に入賞"
+    },
+    "9416": {
+        "degreeId": 9416,
+        "seq": 9516,
+        "baseImageName": "degree_event328_point",
+        "rank": "100",
+        "degreeName": "称号 TOP100",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで100位以内に入賞"
+    },
+    "9417": {
+        "degreeId": 9417,
+        "seq": 9517,
+        "baseImageName": "degree_event328_point",
+        "rank": "200",
+        "degreeName": "称号 TOP200",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで200位以内に入賞"
+    },
+    "9418": {
+        "degreeId": 9418,
+        "seq": 9518,
+        "baseImageName": "degree_event328_point",
+        "rank": "300",
+        "degreeName": "称号 TOP300",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで300位以内に入賞"
+    },
+    "9419": {
+        "degreeId": 9419,
+        "seq": 9519,
+        "baseImageName": "degree_event328_point",
+        "rank": "400",
+        "degreeName": "称号 TOP400",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで400位以内に入賞"
     },
     "942": {
         "degreeId": 942,
@@ -89263,6 +89383,106 @@
         "iconImageName": "event_point_icon",
         "description": "「Trick or Escape!」イベントで5000位以内に入賞"
     },
+    "9420": {
+        "degreeId": 9420,
+        "seq": 9520,
+        "baseImageName": "degree_event328_point",
+        "rank": "500",
+        "degreeName": "称号 TOP500",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで500位以内に入賞"
+    },
+    "9421": {
+        "degreeId": 9421,
+        "seq": 9521,
+        "baseImageName": "degree_event328_point",
+        "rank": "1000",
+        "degreeName": "称号 TOP1000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで1000位以内に入賞"
+    },
+    "9422": {
+        "degreeId": 9422,
+        "seq": 9522,
+        "baseImageName": "degree_event328_point",
+        "rank": "2000",
+        "degreeName": "称号 TOP2000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで2000位以内に入賞"
+    },
+    "9423": {
+        "degreeId": 9423,
+        "seq": 9523,
+        "baseImageName": "degree_event328_point",
+        "rank": "3000",
+        "degreeName": "称号 TOP3000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで3000位以内に入賞"
+    },
+    "9424": {
+        "degreeId": 9424,
+        "seq": 9524,
+        "baseImageName": "degree_event328_point",
+        "rank": "4000",
+        "degreeName": "称号 TOP4000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで4000位以内に入賞"
+    },
+    "9425": {
+        "degreeId": 9425,
+        "seq": 9525,
+        "baseImageName": "degree_event328_point",
+        "rank": "5000",
+        "degreeName": "称号 TOP5000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで5000位以内に入賞"
+    },
+    "9426": {
+        "degreeId": 9426,
+        "seq": 9526,
+        "baseImageName": "degree_event328_point",
+        "rank": "10000",
+        "degreeName": "称号 TOP10000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで10000位以内に入賞"
+    },
+    "9427": {
+        "degreeId": 9427,
+        "seq": 9527,
+        "baseImageName": "degree_event328_point",
+        "rank": "20000",
+        "degreeName": "称号 TOP20000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで20000位以内に入賞"
+    },
+    "9428": {
+        "degreeId": 9428,
+        "seq": 9528,
+        "baseImageName": "degree_event328_point",
+        "rank": "30000",
+        "degreeName": "称号 TOP30000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで30000位以内に入賞"
+    },
+    "9429": {
+        "degreeId": 9429,
+        "seq": 9529,
+        "baseImageName": "degree_event328_point",
+        "rank": "40000",
+        "degreeName": "称号 TOP40000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで40000位以内に入賞"
+    },
     "943": {
         "degreeId": 943,
         "seq": 1043,
@@ -89272,6 +89492,56 @@
         "degreeType": "event_point",
         "iconImageName": "event_point_icon",
         "description": "「Trick or Escape!」イベントで10000位以内に入賞"
+    },
+    "9430": {
+        "degreeId": 9430,
+        "seq": 9530,
+        "baseImageName": "degree_event328_point",
+        "rank": "50000",
+        "degreeName": "称号 TOP50000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで50000位以内に入賞"
+    },
+    "9431": {
+        "degreeId": 9431,
+        "seq": 9531,
+        "baseImageName": "degree_event328_point",
+        "rank": "70000",
+        "degreeName": "称号 TOP70000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで70000位以内に入賞"
+    },
+    "9432": {
+        "degreeId": 9432,
+        "seq": 9532,
+        "baseImageName": "degree_event328_point",
+        "rank": "100000",
+        "degreeName": "称号 TOP100000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「芽生えた想い、夕陽に交わして」イベントで100000位以内に入賞"
+    },
+    "9433": {
+        "degreeId": 9433,
+        "seq": 9533,
+        "baseImageName": "degree_event328_try",
+        "rank": "normal",
+        "degreeName": "称号 トライマスター",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「芽生えた想い、夕陽に交わして」イベントですべてのトライレベル10をクリア"
+    },
+    "9434": {
+        "degreeId": 9434,
+        "seq": 9534,
+        "baseImageName": "degree_event328_try",
+        "rank": "extra",
+        "degreeName": "称号 EXトライマスター",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「芽生えた想い、夕陽に交わして」イベントですべてのEXトライレベル5をクリア"
     },
     "9435": {
         "degreeId": 9435,

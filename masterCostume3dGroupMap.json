@@ -6725,6 +6725,17 @@
         "situationId": 2431,
         "assetBundleName": "018_cos_live_event_327_ur"
     },
+    "649": {
+        "costume3dGroupId": 649,
+        "costumeName": "小指を交わして（美竹 蘭）",
+        "seq": 6490,
+        "costumeTargetType": "character",
+        "ownerCharacterId": 6,
+        "bandId": 0,
+        "publishedAt": 1776664800000,
+        "situationId": 2435,
+        "assetBundleName": "006_cos_live_event_328_ur"
+    },
     "65": {
         "costume3dGroupId": 65,
         "costumeName": "イノセントフラップ（二葉 つくし）",
@@ -6735,6 +6746,17 @@
         "publishedAt": 1677639600000,
         "situationId": 0,
         "assetBundleName": "029_cos_live_default"
+    },
+    "650": {
+        "costume3dGroupId": 650,
+        "costumeName": "夕暮れ時の約束（上原 ひまり）",
+        "seq": 6500,
+        "costumeTargetType": "character",
+        "ownerCharacterId": 8,
+        "bandId": 0,
+        "publishedAt": 1776664800000,
+        "situationId": 2436,
+        "assetBundleName": "008_cos_live_event_328_ur"
     },
     "66": {
         "costume3dGroupId": 66,

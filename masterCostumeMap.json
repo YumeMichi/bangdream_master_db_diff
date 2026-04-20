@@ -14899,6 +14899,56 @@
         "publishedAt": 1775800800000,
         "situationId": 2434
     },
+    "2354": {
+        "costumeId": 2354,
+        "characterId": 6,
+        "assetBundleName": "006_live_event_328_ur",
+        "description": "小指を交わして",
+        "seq": 23540,
+        "sdResourceName": "sd006090",
+        "publishedAt": 1776664800000,
+        "situationId": 2435
+    },
+    "2355": {
+        "costumeId": 2355,
+        "characterId": 8,
+        "assetBundleName": "008_live_event_328_ur",
+        "description": "夕暮れ時の約束",
+        "seq": 23550,
+        "sdResourceName": "sd008083",
+        "publishedAt": 1776664800000,
+        "situationId": 2436
+    },
+    "2356": {
+        "costumeId": 2356,
+        "characterId": 9,
+        "assetBundleName": "009_live_event_328_sr",
+        "description": "鮮やかな手さばき",
+        "seq": 23560,
+        "sdResourceName": "sd009081",
+        "publishedAt": 1776664800000,
+        "situationId": 2437
+    },
+    "2357": {
+        "costumeId": 2357,
+        "characterId": 10,
+        "assetBundleName": "010_live_event_328_r",
+        "description": "爽風マリンスタイル",
+        "seq": 23570,
+        "sdResourceName": "sd010084",
+        "publishedAt": 1776664800000,
+        "situationId": 2438
+    },
+    "2358": {
+        "costumeId": 2358,
+        "characterId": 7,
+        "assetBundleName": "007_live_event_328_ssr",
+        "description": "真剣なダメ出し？",
+        "seq": 23580,
+        "sdResourceName": "sd007081",
+        "publishedAt": 1776664800000,
+        "situationId": 2439
+    },
     "236": {
         "costumeId": 236,
         "characterId": 24,

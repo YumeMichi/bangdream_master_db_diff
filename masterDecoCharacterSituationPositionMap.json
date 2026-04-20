@@ -24461,6 +24461,89 @@
             }
         ]
     },
+    "2435": {
+        "entries": [
+            {
+                "situationId": 2435,
+                "situationStatus": "after_training",
+                "positionX": 76,
+                "positionY": -6,
+                "scale": 0.35
+            },
+            {
+                "situationId": 2435,
+                "situationStatus": "normal",
+                "positionX": -14,
+                "positionY": -100,
+                "scale": 0.84
+            }
+        ]
+    },
+    "2436": {
+        "entries": [
+            {
+                "situationId": 2436,
+                "situationStatus": "after_training",
+                "positionX": -85,
+                "positionY": -23,
+                "scale": 0.39
+            },
+            {
+                "situationId": 2436,
+                "situationStatus": "normal",
+                "positionX": -20,
+                "positionY": 4,
+                "scale": 0.35
+            }
+        ]
+    },
+    "2437": {
+        "entries": [
+            {
+                "situationId": 2437,
+                "situationStatus": "after_training",
+                "positionX": 12,
+                "positionY": -79,
+                "scale": 0.61
+            },
+            {
+                "situationId": 2437,
+                "situationStatus": "normal",
+                "positionX": 62,
+                "positionY": -19,
+                "scale": 0.39
+            }
+        ]
+    },
+    "2438": {
+        "entries": [
+            {
+                "situationId": 2438,
+                "situationStatus": "normal",
+                "positionX": -3,
+                "positionY": -55,
+                "scale": 0.62
+            }
+        ]
+    },
+    "2439": {
+        "entries": [
+            {
+                "situationId": 2439,
+                "situationStatus": "after_training",
+                "positionX": 24,
+                "positionY": -68,
+                "scale": 0.54
+            },
+            {
+                "situationId": 2439,
+                "situationStatus": "normal",
+                "positionX": -30,
+                "positionY": -5,
+                "scale": 0.38
+            }
+        ]
+    },
     "244": {
         "entries": [
             {

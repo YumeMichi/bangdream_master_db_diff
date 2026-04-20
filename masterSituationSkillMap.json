@@ -7634,6 +7634,31 @@
         "skillName": "あたたかなそよ風",
         "skillId": 26
     },
+    "2435": {
+        "situationSkillId": 2435,
+        "skillName": "温かな小指",
+        "skillId": 71
+    },
+    "2436": {
+        "situationSkillId": 2436,
+        "skillName": "頼れるリーダー",
+        "skillId": 67
+    },
+    "2437": {
+        "situationSkillId": 2437,
+        "skillName": "必殺！天地返し",
+        "skillId": 9
+    },
+    "2438": {
+        "situationSkillId": 2438,
+        "skillName": "みんなでヨーソロー",
+        "skillId": 5
+    },
+    "2439": {
+        "situationSkillId": 2439,
+        "skillName": "一肌脱ぎますか～",
+        "skillId": 18
+    },
     "244": {
         "situationSkillId": 244,
         "skillName": "あこが選んだ猫耳",

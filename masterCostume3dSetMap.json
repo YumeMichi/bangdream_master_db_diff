@@ -58193,6 +58193,296 @@
             "lbBonus": 1
         }
     },
+    "1983": {
+        "costume3dSetId": 1983,
+        "setName": "小指を交わして（美竹 蘭）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 74760,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1913,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 74760,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1984": {
+        "costume3dSetId": 1984,
+        "setName": "小指を交わして（美竹 蘭）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 74800,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1914,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 74800,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1985": {
+        "costume3dSetId": 1985,
+        "setName": "小指を交わして（美竹 蘭）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 74840,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1915,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 74840,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1986": {
+        "costume3dSetId": 1986,
+        "setName": "小指を交わして（美竹 蘭）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 74880,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1916,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 74880,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1987": {
+        "costume3dSetId": 1987,
+        "setName": "小指を交わして（美竹 蘭）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 74920,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1917,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 74920,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1988": {
+        "costume3dSetId": 1988,
+        "setName": "夕暮れ時の約束（上原 ひまり）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 74962,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1918,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 74962,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1989": {
+        "costume3dSetId": 1989,
+        "setName": "夕暮れ時の約束（上原 ひまり）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 75002,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1919,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 75002,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1990": {
+        "costume3dSetId": 1990,
+        "setName": "夕暮れ時の約束（上原 ひまり）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 75042,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1920,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 75042,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1991": {
+        "costume3dSetId": 1991,
+        "setName": "夕暮れ時の約束（上原 ひまり）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 75082,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1921,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 75082,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "1992": {
+        "costume3dSetId": 1992,
+        "setName": "夕暮れ時の約束（上原 ひまり）",
+        "publishedAt": 1776664800000,
+        "attentionMessage": "ミッシェルを除いた他のキャラクターも\\n衣装解放をすることで着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 75122,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1922,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 75122,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
     "2": {
         "costume3dSetId": 2,
         "setName": "ステージ（花園 たえ）",

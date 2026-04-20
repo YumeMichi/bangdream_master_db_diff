@@ -10149,6 +10149,76 @@
         "shortAttentionMessage": "3Dヘア・アクセ（白鷺 千聖）",
         "costume3dColorId": 2372
     },
+    "1913": {
+        "costume3dHairstyleId": 1913,
+        "characterId": 6,
+        "costume3dGroupId": 649,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "美竹 蘭専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（美竹 蘭）",
+        "costume3dColorId": 2373
+    },
+    "1914": {
+        "costume3dHairstyleId": 1914,
+        "characterId": 6,
+        "costume3dGroupId": 649,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "美竹 蘭専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（美竹 蘭）",
+        "costume3dColorId": 2374
+    },
+    "1915": {
+        "costume3dHairstyleId": 1915,
+        "characterId": 6,
+        "costume3dGroupId": 649,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "美竹 蘭専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（美竹 蘭）",
+        "costume3dColorId": 2375
+    },
+    "1916": {
+        "costume3dHairstyleId": 1916,
+        "characterId": 6,
+        "costume3dGroupId": 649,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "美竹 蘭専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（美竹 蘭）",
+        "costume3dColorId": 2376
+    },
+    "1917": {
+        "costume3dHairstyleId": 1917,
+        "characterId": 6,
+        "costume3dGroupId": 649,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "美竹 蘭専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（美竹 蘭）",
+        "costume3dColorId": 2377
+    },
+    "1918": {
+        "costume3dHairstyleId": 1918,
+        "characterId": 8,
+        "costume3dGroupId": 650,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "上原 ひまり専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（上原 ひまり）",
+        "costume3dColorId": 2378
+    },
+    "1919": {
+        "costume3dHairstyleId": 1919,
+        "characterId": 8,
+        "costume3dGroupId": 650,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "上原 ひまり専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（上原 ひまり）",
+        "costume3dColorId": 2379
+    },
     "192": {
         "costume3dHairstyleId": 192,
         "characterId": 26,
@@ -10158,6 +10228,36 @@
         "attentionMessage": "倉田 ましろ専用の3Dヘア・アクセです。",
         "shortAttentionMessage": "3Dヘア・アクセ（倉田 ましろ）",
         "costume3dColorId": 202
+    },
+    "1920": {
+        "costume3dHairstyleId": 1920,
+        "characterId": 8,
+        "costume3dGroupId": 650,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "上原 ひまり専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（上原 ひまり）",
+        "costume3dColorId": 2380
+    },
+    "1921": {
+        "costume3dHairstyleId": 1921,
+        "characterId": 8,
+        "costume3dGroupId": 650,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "上原 ひまり専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（上原 ひまり）",
+        "costume3dColorId": 2381
+    },
+    "1922": {
+        "costume3dHairstyleId": 1922,
+        "characterId": 8,
+        "costume3dGroupId": 650,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "上原 ひまり専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（上原 ひまり）",
+        "costume3dColorId": 2382
     },
     "193": {
         "costume3dHairstyleId": 193,

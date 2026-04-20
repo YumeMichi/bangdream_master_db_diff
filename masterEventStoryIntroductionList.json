@@ -2478,5 +2478,13 @@
         "resourceFileName": "card_normal",
         "logoResourceSetName": "event/kaochisa_reimei/images",
         "logoResourceFileName": "logo"
+    },
+    {
+        "eventId": 328,
+        "introduction": "フェスへの参加を目指して活動中のAfterglow。そんなある日、ひまりはフェスのフライヤーを見比べながら、難しい顔をしているようで――",
+        "resourceSetName": "characters/resourceset/res006090",
+        "resourceFileName": "card_normal",
+        "logoResourceSetName": "event/mebaeta_omoi/images",
+        "logoResourceFileName": "logo"
     }
 ]

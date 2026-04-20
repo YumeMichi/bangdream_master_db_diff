@@ -26,5 +26,33 @@
             }
         ],
         "newIconFlag": true
+    },
+    {
+        "newSituationIntroductionId": 498,
+        "gachaId": 1837,
+        "logoPosition": "center",
+        "startAt": 1776664800000,
+        "endAt": 1777442399000,
+        "details": [
+            {
+                "newSituationIntroductionId": 498,
+                "situationId": 2435,
+                "seq": 1,
+                "motion": "gacha01",
+                "situationPositionX": 0,
+                "live2dPresetVoice": "smile",
+                "isExistLive2dSpecialVoice": false
+            },
+            {
+                "newSituationIntroductionId": 498,
+                "situationId": 2436,
+                "seq": 2,
+                "motion": "gacha01",
+                "situationPositionX": -0.05,
+                "live2dPresetVoice": "smile",
+                "isExistLive2dSpecialVoice": false
+            }
+        ],
+        "newIconFlag": true
     }
 ]

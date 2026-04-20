@@ -22991,6 +22991,18 @@
         "homeBannerType": "normal"
     },
     {
+        "homeBannerId": 2921,
+        "seq": 350,
+        "assetBundleName": "banner_event328",
+        "publishedAt": 1776664800000,
+        "closedAt": 1777442399000,
+        "transitionMethod": "event",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 328,
+        "homeBannerType": "normal"
+    },
+    {
         "homeBannerId": 2841,
         "seq": 360,
         "assetBundleName": "banner_gacha1770",
@@ -23061,6 +23073,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1828
+    },
+    {
+        "homeBannerId": 2922,
+        "seq": 360,
+        "assetBundleName": "banner_gacha1837",
+        "publishedAt": 1776664800000,
+        "closedAt": 1777442399000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1837
     },
     {
         "homeBannerId": 2086,
@@ -27605,6 +27629,18 @@
         "closedAt": 1761976799000,
         "transitionMethod": "questionnaire",
         "url": "https://questant.jp/q/WHHMYZRG?id=",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2923,
+        "seq": 540,
+        "assetBundleName": "banner_survey",
+        "publishedAt": 1777096800000,
+        "closedAt": 1778047199000,
+        "transitionMethod": "questionnaire",
+        "url": "https://questant.jp/q/3IBP44J3?id=",
         "releaseRankFrom": 1,
         "releaseRankTo": 999,
         "homeBannerType": "normal"
