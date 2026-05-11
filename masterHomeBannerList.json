@@ -17714,6 +17714,18 @@
         "gachaId": 1819
     },
     {
+        "homeBannerId": 2924,
+        "seq": 300,
+        "assetBundleName": "banner_gacha1845",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778425199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1845
+    },
+    {
         "homeBannerId": 1296,
         "seq": 310,
         "assetBundleName": "banner_event183",
@@ -19404,6 +19416,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1807
+    },
+    {
+        "homeBannerId": 2925,
+        "seq": 310,
+        "assetBundleName": "banner_gacha1841",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1841
     },
     {
         "homeBannerId": 1295,
@@ -21590,6 +21614,18 @@
         "gachaId": 1808
     },
     {
+        "homeBannerId": 2926,
+        "seq": 320,
+        "assetBundleName": "banner_gacha1840",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1840
+    },
+    {
         "homeBannerId": 1357,
         "seq": 321,
         "assetBundleName": "banner_gacha1009",
@@ -22055,6 +22091,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1833
+    },
+    {
+        "homeBannerId": 2928,
+        "seq": 330,
+        "assetBundleName": "banner_gacha1844",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1844
     },
     {
         "homeBannerId": 1979,
@@ -22593,6 +22641,18 @@
         "gachaId": 1835
     },
     {
+        "homeBannerId": 2927,
+        "seq": 340,
+        "assetBundleName": "banner_gacha1839",
+        "publishedAt": 1777442400000,
+        "closedAt": 1777787999000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1839
+    },
+    {
         "homeBannerId": 2257,
         "seq": 341,
         "assetBundleName": "banner_miracle_star240316",
@@ -22799,6 +22859,42 @@
         "homeBannerType": "normal"
     },
     {
+        "homeBannerId": 2935,
+        "seq": 346,
+        "assetBundleName": "banner_gacha1832",
+        "publishedAt": 1777809600000,
+        "closedAt": 1777993199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1855
+    },
+    {
+        "homeBannerId": 2936,
+        "seq": 347,
+        "assetBundleName": "banner_gacha1833",
+        "publishedAt": 1777809600000,
+        "closedAt": 1777993199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1856
+    },
+    {
+        "homeBannerId": 2937,
+        "seq": 348,
+        "assetBundleName": "banner_gacha1834",
+        "publishedAt": 1777809600000,
+        "closedAt": 1777993199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1857
+    },
+    {
         "homeBannerId": 2419,
         "seq": 349,
         "assetBundleName": "banner_gacha1474",
@@ -22809,6 +22905,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1474
+    },
+    {
+        "homeBannerId": 2938,
+        "seq": 349,
+        "assetBundleName": "banner_gacha1835",
+        "publishedAt": 1777809600000,
+        "closedAt": 1777993199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1858
     },
     {
         "homeBannerId": 1995,
@@ -23003,6 +23111,30 @@
         "homeBannerType": "normal"
     },
     {
+        "homeBannerId": 2929,
+        "seq": 350,
+        "assetBundleName": "banner_event329",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "event",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 329,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2939,
+        "seq": 350,
+        "assetBundleName": "banner_event330",
+        "publishedAt": 1778392800000,
+        "closedAt": 1779343199000,
+        "transitionMethod": "event",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 330,
+        "homeBannerType": "normal"
+    },
+    {
         "homeBannerId": 2841,
         "seq": 360,
         "assetBundleName": "banner_gacha1770",
@@ -23085,6 +23217,30 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1837
+    },
+    {
+        "homeBannerId": 2930,
+        "seq": 360,
+        "assetBundleName": "banner_gacha1842",
+        "publishedAt": 1777788000000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1842
+    },
+    {
+        "homeBannerId": 2940,
+        "seq": 360,
+        "assetBundleName": "banner_gacha1848",
+        "publishedAt": 1778392800000,
+        "closedAt": 1779343199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1848
     },
     {
         "homeBannerId": 2086,
@@ -23272,6 +23428,54 @@
         "assetBundleName": "banner_birthday_tomoe_2023",
         "publishedAt": 1776178800000,
         "closedAt": 1776437999000,
+        "transitionMethod": "purchase_shop",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 7,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2931,
+        "seq": 400,
+        "assetBundleName": "banner_itemset_2026gw",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "item_set",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 1301,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2941,
+        "seq": 400,
+        "assetBundleName": "banner_birthday_kanon_2023",
+        "publishedAt": 1778425200000,
+        "closedAt": 1778684399000,
+        "transitionMethod": "purchase_shop",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 7,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2944,
+        "seq": 400,
+        "assetBundleName": "banner_birthday_masking_2023",
+        "publishedAt": 1778511600000,
+        "closedAt": 1778770799000,
+        "transitionMethod": "purchase_shop",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 7,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2947,
+        "seq": 400,
+        "assetBundleName": "banner_birthday_saya_2023",
+        "publishedAt": 1779116400000,
+        "closedAt": 1779375599000,
         "transitionMethod": "purchase_shop",
         "releaseRankFrom": 1,
         "releaseRankTo": 999,
@@ -24453,6 +24657,18 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1800
+    },
+    {
+        "homeBannerId": 2932,
+        "seq": 410,
+        "assetBundleName": "banner_miracle_star260429",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778392799000,
+        "transitionMethod": "purchase_shop",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 2,
+        "homeBannerType": "normal"
     },
     {
         "homeBannerId": 2859,
@@ -26129,6 +26345,54 @@
         "releaseRankFrom": 1,
         "releaseRankTo": 999,
         "transitionId": 9,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2933,
+        "seq": 500,
+        "assetBundleName": "banner_exchange_limited128",
+        "publishedAt": 1777442400000,
+        "closedAt": 1778997599000,
+        "transitionMethod": "limited_exchange",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 128,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2943,
+        "seq": 500,
+        "assetBundleName": "banner_story_playback",
+        "publishedAt": 1778425200000,
+        "closedAt": 1778511599000,
+        "transitionMethod": "special_story_page",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 10,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2946,
+        "seq": 500,
+        "assetBundleName": "banner_story_playback",
+        "publishedAt": 1778511600000,
+        "closedAt": 1778597999000,
+        "transitionMethod": "special_story_page",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 11,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2949,
+        "seq": 500,
+        "assetBundleName": "banner_story_playback",
+        "publishedAt": 1779116400000,
+        "closedAt": 1779202799000,
+        "transitionMethod": "special_story_page",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 12,
         "homeBannerType": "normal"
     },
     {
@@ -27886,7 +28150,7 @@
         "seq": 605,
         "assetBundleName": "banner_user_history_page",
         "publishedAt": 1773491400000,
-        "closedAt": 4133948399000,
+        "closedAt": 1777355999000,
         "transitionMethod": "user_history_page",
         "url": "https://bang-dream.bushimo.jp/circle-newsletter/",
         "releaseRankFrom": 1,
@@ -28240,6 +28504,18 @@
         "releaseRankFrom": 1,
         "releaseRankTo": 999,
         "transitionId": 19,
+        "homeBannerType": "normal"
+    },
+    {
+        "homeBannerId": 2934,
+        "seq": 800,
+        "assetBundleName": "banner_monthly_ranking",
+        "publishedAt": 1777615200000,
+        "closedAt": 1780293599000,
+        "transitionMethod": "monthly_ranking",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "transitionId": 20,
         "homeBannerType": "normal"
     },
     {
@@ -28804,6 +29080,42 @@
         "releaseRankTo": 999,
         "homeBannerType": "gacha",
         "gachaId": 1836
+    },
+    {
+        "homeBannerId": 2942,
+        "seq": 999,
+        "assetBundleName": "banner_gacha1140",
+        "publishedAt": 1652194800000,
+        "closedAt": 1652367599000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1852
+    },
+    {
+        "homeBannerId": 2945,
+        "seq": 999,
+        "assetBundleName": "banner_gacha1141",
+        "publishedAt": 1652281200000,
+        "closedAt": 1652540399000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1853
+    },
+    {
+        "homeBannerId": 2948,
+        "seq": 999,
+        "assetBundleName": "banner_gacha1143",
+        "publishedAt": 1652886000000,
+        "closedAt": 1653145199000,
+        "transitionMethod": "gacha",
+        "releaseRankFrom": 1,
+        "releaseRankTo": 999,
+        "homeBannerType": "gacha",
+        "gachaId": 1854
     },
     {
         "homeBannerId": 995,

@@ -4312,6 +4312,72 @@
         "withVoice": true,
         "voiceName": "stamp_008014"
     },
+    "574": {
+        "stampId": 574,
+        "seq": 575,
+        "imageName": "stamp_031010",
+        "stampType": "rare",
+        "publishedAt": 1777442400000,
+        "withVoice": true,
+        "voiceName": "stamp_031010"
+    },
+    "575": {
+        "stampId": 575,
+        "seq": 576,
+        "imageName": "stamp_024016",
+        "stampType": "rare",
+        "publishedAt": 1777442400000,
+        "withVoice": false
+    },
+    "576": {
+        "stampId": 576,
+        "seq": 582,
+        "imageName": "stamp_020016",
+        "stampType": "rare",
+        "publishedAt": 1778392800000,
+        "withVoice": true,
+        "voiceName": "stamp_020016"
+    },
+    "578": {
+        "stampId": 578,
+        "seq": 577,
+        "imageName": "stamp_014015",
+        "stampType": "rare",
+        "publishedAt": 1778133600000,
+        "withVoice": false
+    },
+    "579": {
+        "stampId": 579,
+        "seq": 578,
+        "imageName": "stamp_021018",
+        "stampType": "rare",
+        "publishedAt": 1778133600000,
+        "withVoice": false
+    },
+    "580": {
+        "stampId": 580,
+        "seq": 579,
+        "imageName": "stamp_013016",
+        "stampType": "rare",
+        "publishedAt": 1778133600000,
+        "withVoice": false
+    },
+    "581": {
+        "stampId": 581,
+        "seq": 580,
+        "imageName": "stamp_005017",
+        "stampType": "rare",
+        "publishedAt": 1778133600000,
+        "withVoice": false
+    },
+    "582": {
+        "stampId": 582,
+        "seq": 581,
+        "imageName": "stamp_033010",
+        "stampType": "rare",
+        "publishedAt": 1778133600000,
+        "withVoice": false
+    },
     "6": {
         "stampId": 6,
         "seq": 6,

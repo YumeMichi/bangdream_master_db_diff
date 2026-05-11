@@ -1529,11 +1529,23 @@
         "startAt": 1776664800000,
         "endAt": 1777291199000
     },
+    "329": {
+        "eventId": 329,
+        "eventName": "Beyond my Imagination",
+        "startAt": 1777442400000,
+        "endAt": 1778241599000
+    },
     "33": {
         "eventId": 33,
         "eventName": "はじめての！？ウィンタースポーツ",
         "startAt": 1518242400000,
         "endAt": 1518868799000
+    },
+    "330": {
+        "eventId": 330,
+        "eventName": "君と一緒に！パスパレ全国ツアー！",
+        "startAt": 1778392800000,
+        "endAt": 1779191999000
     },
     "34": {
         "eventId": 34,

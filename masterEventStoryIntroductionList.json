@@ -2486,5 +2486,21 @@
         "resourceFileName": "card_normal",
         "logoResourceSetName": "event/mebaeta_omoi/images",
         "logoResourceFileName": "logo"
+    },
+    {
+        "eventId": 329,
+        "introduction": "輝くは想像を超えた星。もしかしたら、RASの音楽にも変革が必要なのではないか？　強い光を受け、チュチュの胸に揺らぎが生じる――",
+        "resourceSetName": "characters/resourceset/res035046",
+        "resourceFileName": "card_normal",
+        "logoResourceSetName": "event/ras_beyond/images",
+        "logoResourceFileName": "logo"
+    },
+    {
+        "eventId": 330,
+        "introduction": "活動の幅が広がり、全国各地からの応援も増えているパスパレ。メンバーたちは、そんな普段ライブに足を運ぶ機会がないファンに何かできることがないかと話し合うが――",
+        "resourceSetName": "characters/resourceset/res019084",
+        "resourceFileName": "card_normal",
+        "logoResourceSetName": "event/paspale_tour/images",
+        "logoResourceFileName": "logo"
     }
 ]

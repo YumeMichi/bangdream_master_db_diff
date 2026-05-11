@@ -4915,6 +4915,14 @@
         "name": "dialog_newYearSpecialPageMovieConfirm_message",
         "wording": "データダウンロード後、\\nアニメーションを再生します。\\nWi-Fi環境でのダウンロードをおすすめします。"
     },
+    "dialog_nfoGameClose_message": {
+        "name": "dialog_nfoGameClose_message",
+        "wording": "ゲームは現在終了しています。"
+    },
+    "dialog_nfoGameClose_title": {
+        "name": "dialog_nfoGameClose_title",
+        "wording": "通知"
+    },
     "dialog_noNeedRecovery_message": {
         "name": "dialog_noNeedRecovery_message",
         "wording": "復元が必要な購入処理は見つかりませんでした。\\n\\n※すでに購入処理が完了している可能性があります。\\n\\nアイテムの所持数を確認してください。"
@@ -5853,7 +5861,7 @@
     },
     "dialog_selfpickup_gacha_select_description_1": {
         "name": "dialog_selfpickup_gacha_select_description_1",
-        "wording": "以下のメンバーがガチャの出現率UP、\nおよびガチャシール交換の対象となります。"
+        "wording": "以下のメンバーがピックアップ対象となります。"
     },
     "dialog_selfpickup_gacha_select_description_2": {
         "name": "dialog_selfpickup_gacha_select_description_2",
@@ -6709,7 +6717,7 @@
     },
     "dialog_userHistoryPageConfirm_message": {
         "name": "dialog_userHistoryPageConfirm_message",
-        "wording": "この先、\\nバンドリ！ ガールズバンドパーティ！9周年特設Webページに移動します。\\n移動に伴い、以下の情報を株式会社ブシロードのサーバーへ送信します。"
+        "wording": "この先、\\nバンドリ！ ガールズバンドパーティ！特設Webページに移動します。\\n移動に伴い、以下の情報を株式会社ブシロードのサーバーへ送信します。"
     },
     "dialog_userHistoryPageConfirm_title": {
         "name": "dialog_userHistoryPageConfirm_title",
@@ -9418,6 +9426,38 @@
     "newYearHolidaysPage_tutorialSlide_title": {
         "name": "newYearHolidaysPage_tutorialSlide_title",
         "wording": "ゆく年くる年キャンペーンの楽しみ方"
+    },
+    "nfo_cancel_text": {
+        "name": "nfo_cancel_text",
+        "wording": "キャンセル"
+    },
+    "nfo_data_reset_annotation": {
+        "name": "nfo_data_reset_annotation",
+        "wording": "※ミッションの達成状況はリセットされません。"
+    },
+    "nfo_data_retire_annotation": {
+        "name": "nfo_data_retire_annotation",
+        "wording": "※リタイアした場合、獲得したコインや図鑑の\n　登録状況は保存されません。"
+    },
+    "nfo_retry_text": {
+        "name": "nfo_retry_text",
+        "wording": "リトライ"
+    },
+    "nfo_return_title_text": {
+        "name": "nfo_return_title_text",
+        "wording": "タイトルへ"
+    },
+    "nfo_second_retry_text": {
+        "name": "nfo_second_retry_text",
+        "wording": "プレイしたデータは\n保存されません。\nタイトルへ戻りますか？"
+    },
+    "nfo_tutorial_title": {
+        "name": "nfo_tutorial_title",
+        "wording": "遊び方"
+    },
+    "nof_mission_reward_receive": {
+        "name": "nof_mission_reward_receive",
+        "wording": "報酬を獲得しました！\n受け取った報酬は\nプレゼントでご確認ください。"
     },
     "option_skin_annotation": {
         "name": "option_skin_annotation",

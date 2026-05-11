@@ -7664,10 +7664,70 @@
         "skillName": "あこが選んだ猫耳",
         "skillId": 8
     },
+    "2440": {
+        "situationSkillId": 2440,
+        "skillName": "手にしたときから",
+        "skillId": 66
+    },
+    "2441": {
+        "situationSkillId": 2441,
+        "skillName": "限界はなく",
+        "skillId": 68
+    },
+    "2442": {
+        "situationSkillId": 2442,
+        "skillName": "根性あるよね",
+        "skillId": 6
+    },
+    "2443": {
+        "situationSkillId": 2443,
+        "skillName": "グレイスフルパーカッション",
+        "skillId": 23
+    },
+    "2444": {
+        "situationSkillId": 2444,
+        "skillName": "準備万全です♪",
+        "skillId": 61
+    },
+    "2445": {
+        "situationSkillId": 2445,
+        "skillName": "ストリートファッションショー",
+        "skillId": 78
+    },
+    "2446": {
+        "situationSkillId": 2446,
+        "skillName": "素早いフットワーク",
+        "skillId": 79
+    },
+    "2447": {
+        "situationSkillId": 2447,
+        "skillName": "止まらないお城トーク",
+        "skillId": 68
+    },
+    "2448": {
+        "situationSkillId": 2448,
+        "skillName": "ファンレターの言葉",
+        "skillId": 66
+    },
+    "2449": {
+        "situationSkillId": 2449,
+        "skillName": "サスペンスドラマのお約束",
+        "skillId": 9
+    },
     "245": {
         "situationSkillId": 245,
         "skillName": "素敵な助っ人",
         "skillId": 5
+    },
+    "2450": {
+        "situationSkillId": 2450,
+        "skillName": "ラフに楽しもう♪",
+        "skillId": 23
+    },
+    "2451": {
+        "situationSkillId": 2451,
+        "skillName": "郷土愛に触れて",
+        "skillId": 61
     },
     "25": {
         "situationSkillId": 25,

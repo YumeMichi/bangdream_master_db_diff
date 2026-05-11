@@ -24555,6 +24555,179 @@
             }
         ]
     },
+    "2440": {
+        "entries": [
+            {
+                "situationId": 2440,
+                "situationStatus": "after_training",
+                "positionX": 12,
+                "positionY": -25,
+                "scale": 0.39
+            },
+            {
+                "situationId": 2440,
+                "situationStatus": "normal",
+                "positionX": 25,
+                "positionY": -44,
+                "scale": 0.46
+            }
+        ]
+    },
+    "2441": {
+        "entries": [
+            {
+                "situationId": 2441,
+                "situationStatus": "after_training",
+                "positionX": 5,
+                "positionY": -64,
+                "scale": 0.52
+            },
+            {
+                "situationId": 2441,
+                "situationStatus": "normal",
+                "positionX": -54,
+                "positionY": -3,
+                "scale": 0.38
+            }
+        ]
+    },
+    "2442": {
+        "entries": [
+            {
+                "situationId": 2442,
+                "situationStatus": "after_training",
+                "positionX": 39,
+                "positionY": -72,
+                "scale": 0.56
+            },
+            {
+                "situationId": 2442,
+                "situationStatus": "normal",
+                "positionX": -80,
+                "positionY": -5,
+                "scale": 0.36
+            }
+        ]
+    },
+    "2443": {
+        "entries": [
+            {
+                "situationId": 2443,
+                "situationStatus": "normal",
+                "positionX": 20,
+                "positionY": -74,
+                "scale": 0.59
+            }
+        ]
+    },
+    "2444": {
+        "entries": [
+            {
+                "situationId": 2444,
+                "situationStatus": "after_training",
+                "positionX": -71,
+                "positionY": -47,
+                "scale": 0.48
+            },
+            {
+                "situationId": 2444,
+                "situationStatus": "normal",
+                "positionX": -11,
+                "positionY": -3,
+                "scale": 0.37
+            }
+        ]
+    },
+    "2445": {
+        "entries": [
+            {
+                "situationId": 2445,
+                "situationStatus": "after_training",
+                "positionX": -56,
+                "positionY": -46,
+                "scale": 0.52
+            },
+            {
+                "situationId": 2445,
+                "situationStatus": "normal",
+                "positionX": 251,
+                "positionY": -167,
+                "scale": 1.17
+            }
+        ]
+    },
+    "2446": {
+        "entries": [
+            {
+                "situationId": 2446,
+                "situationStatus": "after_training",
+                "positionX": 40,
+                "positionY": 3,
+                "scale": 0.37
+            },
+            {
+                "situationId": 2446,
+                "situationStatus": "normal",
+                "positionX": -32,
+                "positionY": -70,
+                "scale": 0.55
+            }
+        ]
+    },
+    "2447": {
+        "entries": [
+            {
+                "situationId": 2447,
+                "situationStatus": "after_training",
+                "positionX": 88,
+                "positionY": -18,
+                "scale": 0.38
+            },
+            {
+                "situationId": 2447,
+                "situationStatus": "normal",
+                "positionX": 137,
+                "positionY": -71,
+                "scale": 0.63
+            }
+        ]
+    },
+    "2448": {
+        "entries": [
+            {
+                "situationId": 2448,
+                "situationStatus": "after_training",
+                "positionX": -95,
+                "positionY": -21,
+                "scale": 0.39
+            },
+            {
+                "situationId": 2448,
+                "situationStatus": "normal",
+                "positionX": 60,
+                "positionY": -47,
+                "scale": 0.45
+            }
+        ]
+    },
+    "2449": {
+        "entries": [
+            {
+                "situationId": 2449,
+                "situationStatus": "after_training",
+                "positionX": 37,
+                "positionY": -59,
+                "scale": 0.51
+            },
+            {
+                "situationId": 2449,
+                "situationStatus": "normal",
+                "positionX": -17,
+                "positionY": -29,
+                "scale": 0.45
+            }
+        ]
+    },
     "245": {
         "entries": [
             {
@@ -24563,6 +24736,35 @@
                 "positionX": -2,
                 "positionY": -52,
                 "scale": 0.62
+            }
+        ]
+    },
+    "2450": {
+        "entries": [
+            {
+                "situationId": 2450,
+                "situationStatus": "normal",
+                "positionX": -11,
+                "positionY": -49,
+                "scale": 0.58
+            }
+        ]
+    },
+    "2451": {
+        "entries": [
+            {
+                "situationId": 2451,
+                "situationStatus": "after_training",
+                "positionX": 76,
+                "positionY": -25,
+                "scale": 0.42
+            },
+            {
+                "situationId": 2451,
+                "situationStatus": "normal",
+                "positionX": 0,
+                "positionY": 0,
+                "scale": 0.34
             }
         ]
     },

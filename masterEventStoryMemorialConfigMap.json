@@ -4143,6 +4143,23 @@
         "seasonType": "season_3",
         "eventPublicEndAt": 1777442399000
     },
+    "329": {
+        "eventId": 329,
+        "bandId": 18,
+        "imageFileName": "banner_memorial_event329",
+        "publishedAt": 1778392800000,
+        "eventStoryMemorialReleaseConditionId": 9,
+        "characterIdList": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "musicId": 789,
+        "seasonType": "season_3",
+        "eventPublicEndAt": 1778392799000
+    },
     "33": {
         "eventId": 33,
         "imageFileName": "banner_memorial_event033",
@@ -4157,6 +4174,23 @@
         ],
         "seasonType": "season_1",
         "eventPublicEndAt": 1519019999000
+    },
+    "330": {
+        "eventId": 330,
+        "bandId": 4,
+        "imageFileName": "banner_memorial_event330",
+        "publishedAt": 1779343200000,
+        "eventStoryMemorialReleaseConditionId": 4,
+        "characterIdList": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ],
+        "musicId": 799,
+        "seasonType": "season_3",
+        "eventPublicEndAt": 1779343199000
     },
     "34": {
         "eventId": 34,

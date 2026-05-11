@@ -17051,28 +17051,241 @@
         "type": "ex_mission"
     },
     {
-        "missionGroupId": 1062,
+        "missionGroupId": 579,
         "missionResetType": "none",
-        "startAt": 1775800800000,
-        "endAt": 1776513599000,
-        "rewardEndAt": 1776664799000,
-        "eventId": 327,
+        "startAt": 1777442400000,
+        "endAt": 1778392799000,
+        "rewardEndAt": 1778392799000,
+        "tabLabel": "期間限定",
+        "missionList": {
+            "entries": [
+                {
+                    "missionId": 10000744,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777442400000,
+                    "seq": 10,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "RAISE A SUILENのカバー楽曲「絶対零度」を1回クリアしよう",
+                                "description": "RAISE A SUILENのカバー楽曲「絶対零度」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200384,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000745,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777528800000,
+                    "seq": 20,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Poppin'Partyのカバー楽曲「舞台に立って」を1回クリアしよう",
+                                "description": "Poppin'Partyのカバー楽曲「舞台に立って」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200385,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000746,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777615200000,
+                    "seq": 30,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Roseliaのオリジナル楽曲「XV」を1回クリアしよう",
+                                "description": "Roseliaのオリジナル楽曲「XV」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200386,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000747,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777701600000,
+                    "seq": 40,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Pastel＊Palettesのカバー楽曲「超最強」を1回クリアしよう",
+                                "description": "Pastel＊Palettesのカバー楽曲「超最強」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200387,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000748,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777788000000,
+                    "seq": 50,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Afterglowのカバー楽曲「ランデヴー」を1回クリアしよう",
+                                "description": "Afterglowのカバー楽曲「ランデヴー」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200388,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000749,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777874400000,
+                    "seq": 60,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "MyGO!!!!!のオリジナル楽曲「無路矢」を1回クリアしよう",
+                                "description": "MyGO!!!!!のオリジナル楽曲「無路矢」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200389,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000750,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1777960800000,
+                    "seq": 70,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "ハロー、ハッピーワールド！のカバー楽曲「ココロのちず」を1回クリアしよう",
+                                "description": "ハロー、ハッピーワールド！のカバー楽曲「ココロのちず」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200390,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                },
+                {
+                    "missionId": 10000751,
+                    "transitionMethod": "normal_music_select",
+                    "transitionId": 0,
+                    "startAt": 1778047200000,
+                    "seq": 80,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Morfonicaのオリジナル楽曲「胡蝶翔る星月夜」を1回クリアしよう",
+                                "description": "Morfonicaのオリジナル楽曲「胡蝶翔る星月夜」を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200391,
+                                "reward": {
+                                    "resourceType": "coin",
+                                    "resourceId": 0,
+                                    "quantity": 25000
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 28
+                }
+            ]
+        },
+        "type": "limited"
+    },
+    {
+        "missionGroupId": 1063,
+        "missionResetType": "none",
+        "startAt": 1778392800000,
+        "endAt": 1779191999000,
+        "rewardEndAt": 1779343199000,
+        "eventId": 330,
         "tabLabel": "イベント",
         "missionList": {
             "entries": [
                 {
-                    "missionId": 10392,
-                    "transitionMethod": "live",
+                    "missionId": 10397,
+                    "transitionMethod": "normal_music_select",
                     "transitionId": 0,
                     "seq": 10,
                     "detailList": {
                         "entries": [
                             {
                                 "seq": 1,
-                                "title": "Pastel＊Palettesの楽曲を1回クリアしよう",
-                                "description": "Pastel＊Palettesの楽曲を1回クリアしよう",
+                                "title": "楽曲「Come to see YOU!!」を1回クリアしよう",
+                                "description": "楽曲「Come to see YOU!!」を1回クリアしよう",
                                 "maxProgress": 1,
-                                "valueId": 10078,
+                                "valueId": 10110,
                                 "reward": {
                                     "resourceType": "star",
                                     "resourceId": 0,
@@ -17081,10 +17294,10 @@
                             },
                             {
                                 "seq": 2,
-                                "title": "Pastel＊Palettesの楽曲を3回クリアしよう",
-                                "description": "Pastel＊Palettesの楽曲を3回クリアしよう",
+                                "title": "楽曲「Come to see YOU!!」を3回クリアしよう",
+                                "description": "楽曲「Come to see YOU!!」を3回クリアしよう",
                                 "maxProgress": 3,
-                                "valueId": 10078,
+                                "valueId": 10110,
                                 "reward": {
                                     "resourceType": "practice_ticket",
                                     "resourceId": 4,
@@ -17093,10 +17306,10 @@
                             },
                             {
                                 "seq": 3,
-                                "title": "Pastel＊Palettesの楽曲を5回クリアしよう",
-                                "description": "Pastel＊Palettesの楽曲を5回クリアしよう",
+                                "title": "楽曲「Come to see YOU!!」を5回クリアしよう",
+                                "description": "楽曲「Come to see YOU!!」を5回クリアしよう",
                                 "maxProgress": 5,
-                                "valueId": 10078,
+                                "valueId": 10110,
                                 "reward": {
                                     "resourceType": "practice_ticket",
                                     "resourceId": 4,
@@ -17105,10 +17318,10 @@
                             }
                         ]
                     },
-                    "typeIndex": 30
+                    "typeIndex": 28
                 },
                 {
-                    "missionId": 10393,
+                    "missionId": 10398,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 20,
@@ -17152,7 +17365,7 @@
                     "typeIndex": 31
                 },
                 {
-                    "missionId": 10394,
+                    "missionId": 10399,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 30,
@@ -17251,7 +17464,7 @@
                     "typeIndex": 40
                 },
                 {
-                    "missionId": 10395,
+                    "missionId": 10400,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 40,
@@ -17372,7 +17585,7 @@
                     "typeIndex": 32
                 },
                 {
-                    "missionId": 10396,
+                    "missionId": 10401,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 50,

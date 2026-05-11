@@ -449,6 +449,15 @@
         "seq": 54,
         "liveBoostRecoveryItemType": "special"
     },
+    "55": {
+        "liveBoostRecoveryItemId": 55,
+        "liveBoostRecoveryItemName": "HP回復ポーション",
+        "resourceId": 55,
+        "value": 10,
+        "description": "ライブブーストを10回復する。",
+        "seq": 55,
+        "liveBoostRecoveryItemType": "special"
+    },
     "6": {
         "liveBoostRecoveryItemId": 6,
         "liveBoostRecoveryItemName": "もふもふラテアート",

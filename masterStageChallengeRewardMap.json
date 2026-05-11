@@ -37011,6 +37011,692 @@
             }
         ]
     },
+    "1800001": {
+        "entries": [
+            {
+                "rewardId": 1800001,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800002": {
+        "entries": [
+            {
+                "rewardId": 1800002,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800003": {
+        "entries": [
+            {
+                "rewardId": 1800003,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800004": {
+        "entries": [
+            {
+                "rewardId": 1800004,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800005": {
+        "entries": [
+            {
+                "rewardId": 1800005,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800006": {
+        "entries": [
+            {
+                "rewardId": 1800006,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800007": {
+        "entries": [
+            {
+                "rewardId": 1800007,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800008": {
+        "entries": [
+            {
+                "rewardId": 1800008,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800009": {
+        "entries": [
+            {
+                "rewardId": 1800009,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800010": {
+        "entries": [
+            {
+                "rewardId": 1800010,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800011": {
+        "entries": [
+            {
+                "rewardId": 1800011,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800012": {
+        "entries": [
+            {
+                "rewardId": 1800012,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800013": {
+        "entries": [
+            {
+                "rewardId": 1800013,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800014": {
+        "entries": [
+            {
+                "rewardId": 1800014,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800015": {
+        "entries": [
+            {
+                "rewardId": 1800015,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800016": {
+        "entries": [
+            {
+                "rewardId": 1800016,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800017": {
+        "entries": [
+            {
+                "rewardId": 1800017,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800018": {
+        "entries": [
+            {
+                "rewardId": 1800018,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800019": {
+        "entries": [
+            {
+                "rewardId": 1800019,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800020": {
+        "entries": [
+            {
+                "rewardId": 1800020,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800021": {
+        "entries": [
+            {
+                "rewardId": 1800021,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800022": {
+        "entries": [
+            {
+                "rewardId": 1800022,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800023": {
+        "entries": [
+            {
+                "rewardId": 1800023,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800024": {
+        "entries": [
+            {
+                "rewardId": 1800024,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800025": {
+        "entries": [
+            {
+                "rewardId": 1800025,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800026": {
+        "entries": [
+            {
+                "rewardId": 1800026,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800027": {
+        "entries": [
+            {
+                "rewardId": 1800027,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800028": {
+        "entries": [
+            {
+                "rewardId": 1800028,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800029": {
+        "entries": [
+            {
+                "rewardId": 1800029,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800030": {
+        "entries": [
+            {
+                "rewardId": 1800030,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800031": {
+        "entries": [
+            {
+                "rewardId": 1800031,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800032": {
+        "entries": [
+            {
+                "rewardId": 1800032,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800033": {
+        "entries": [
+            {
+                "rewardId": 1800033,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800034": {
+        "entries": [
+            {
+                "rewardId": 1800034,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800035": {
+        "entries": [
+            {
+                "rewardId": 1800035,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800036": {
+        "entries": [
+            {
+                "rewardId": 1800036,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800037": {
+        "entries": [
+            {
+                "rewardId": 1800037,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800038": {
+        "entries": [
+            {
+                "rewardId": 1800038,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800039": {
+        "entries": [
+            {
+                "rewardId": 1800039,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800040": {
+        "entries": [
+            {
+                "rewardId": 1800040,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800041": {
+        "entries": [
+            {
+                "rewardId": 1800041,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800042": {
+        "entries": [
+            {
+                "rewardId": 1800042,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800043": {
+        "entries": [
+            {
+                "rewardId": 1800043,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800044": {
+        "entries": [
+            {
+                "rewardId": 1800044,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800045": {
+        "entries": [
+            {
+                "rewardId": 1800045,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800046": {
+        "entries": [
+            {
+                "rewardId": 1800046,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800047": {
+        "entries": [
+            {
+                "rewardId": 1800047,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800048": {
+        "entries": [
+            {
+                "rewardId": 1800048,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800049": {
+        "entries": [
+            {
+                "rewardId": 1800049,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800050": {
+        "entries": [
+            {
+                "rewardId": 1800050,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800051": {
+        "entries": [
+            {
+                "rewardId": 1800051,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800052": {
+        "entries": [
+            {
+                "rewardId": 1800052,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800053": {
+        "entries": [
+            {
+                "rewardId": 1800053,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800054": {
+        "entries": [
+            {
+                "rewardId": 1800054,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800055": {
+        "entries": [
+            {
+                "rewardId": 1800055,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800056": {
+        "entries": [
+            {
+                "rewardId": 1800056,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800057": {
+        "entries": [
+            {
+                "rewardId": 1800057,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800058": {
+        "entries": [
+            {
+                "rewardId": 1800058,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800059": {
+        "entries": [
+            {
+                "rewardId": 1800059,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800060": {
+        "entries": [
+            {
+                "rewardId": 1800060,
+                "seq": 1,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800061": {
+        "entries": [
+            {
+                "rewardId": 1800061,
+                "seq": 1,
+                "resourceType": "coin",
+                "quantity": 5000
+            }
+        ]
+    },
+    "1800062": {
+        "entries": [
+            {
+                "rewardId": 1800062,
+                "seq": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            }
+        ]
+    },
+    "1800063": {
+        "entries": [
+            {
+                "rewardId": 1800063,
+                "seq": 1,
+                "resourceType": "degree",
+                "resourceId": 9717,
+                "quantity": 1
+            },
+            {
+                "rewardId": 1800063,
+                "seq": 2,
+                "resourceType": "practice_ticket",
+                "resourceId": 6,
+                "quantity": 1
+            },
+            {
+                "rewardId": 1800063,
+                "seq": 3,
+                "resourceType": "item",
+                "resourceId": 14,
+                "quantity": 1
+            }
+        ]
+    },
     "20001": {
         "entries": [
             {

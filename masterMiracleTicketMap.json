@@ -1052,5 +1052,41 @@
         "bannerImageUrl": "banner_exchange_miracle3",
         "miracleTicketExchangesName": "初心者限定★4ミラクルチケット交換所",
         "lineupImageBundleName": "five_band"
+    },
+    "90": {
+        "miracleTicketId": 90,
+        "seq": 5,
+        "miracleTicketEndAtType": "fixed_end",
+        "miracleTicketName": "GW記念★5ミラクルチケット",
+        "resourceId": 54,
+        "exchangeStartAt": 1777442400000,
+        "exchangeEndAt": 1779602399000,
+        "bannerImageUrl": "banner_exchange_miracle54",
+        "miracleTicketExchangesName": "GW記念★5ミラクルチケット交換所",
+        "lineupImageBundleName": "eight_band"
+    },
+    "91": {
+        "miracleTicketId": 91,
+        "seq": 7,
+        "miracleTicketEndAtType": "fixed_end",
+        "miracleTicketName": "GW記念★4期間限定ミラクルチケット",
+        "resourceId": 2,
+        "exchangeStartAt": 1777442400000,
+        "exchangeEndAt": 1779602399000,
+        "bannerImageUrl": "banner_exchange_miracle5",
+        "miracleTicketExchangesName": "GW記念★4期間限定ミラクルチケット交換所",
+        "lineupImageBundleName": "seven_band"
+    },
+    "92": {
+        "miracleTicketId": 92,
+        "seq": 8,
+        "miracleTicketEndAtType": "fixed_end",
+        "miracleTicketName": "GW記念★4ミラクルチケット",
+        "resourceId": 2,
+        "exchangeStartAt": 1777442400000,
+        "exchangeEndAt": 1779602399000,
+        "bannerImageUrl": "banner_exchange_miracle2",
+        "miracleTicketExchangesName": "GW記念★4ミラクルチケット交換所",
+        "lineupImageBundleName": "eight_band"
     }
 }

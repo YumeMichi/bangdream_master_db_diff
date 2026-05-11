@@ -531,6 +531,13 @@
         "startAt": 946652400000,
         "endAt": 4102412400000
     },
+    "175": {
+        "commonConfigId": 175,
+        "commonConfigType": "is_nfo_event_key",
+        "value": "TRUE",
+        "startAt": 1777442400000,
+        "endAt": 4102412400000
+    },
     "18": {
         "commonConfigId": 18,
         "commonConfigType": "cleanup_info_obsolete_days",

@@ -1,1 +1,2333 @@
-{}
+{
+    "329": {
+        "eventId": 329,
+        "attributes": [
+            {
+                "eventId": 329,
+                "attribute": "powerful",
+                "percent": 10
+            }
+        ],
+        "characters": [
+            {
+                "eventId": 329,
+                "characterId": 31,
+                "percent": 20,
+                "seq": 3
+            },
+            {
+                "eventId": 329,
+                "characterId": 32,
+                "percent": 20,
+                "seq": 1
+            },
+            {
+                "eventId": 329,
+                "characterId": 33,
+                "percent": 20,
+                "seq": 4
+            },
+            {
+                "eventId": 329,
+                "characterId": 34,
+                "percent": 20,
+                "seq": 5
+            },
+            {
+                "eventId": 329,
+                "characterId": 35,
+                "percent": 20,
+                "seq": 2
+            }
+        ],
+        "stories": [
+            {
+                "eventId": 329,
+                "seq": 0,
+                "caption": "オープニング",
+                "title": "輝く星、強く",
+                "synopsis": "練習後、モニターを見つめるチュチュ。\n再生されているのは――",
+                "scenarioId": "event329-01",
+                "coverImage": "329_0",
+                "backgroundImage": "0",
+                "releasePt": 0,
+                "releaseConditions": "オープニングシナリオ",
+                "backgroundImageId": 504,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4960,
+                        "eventId": 329,
+                        "seq": 0,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4961,
+                        "eventId": 329,
+                        "seq": 0,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "seq": 1,
+                "caption": "第１話",
+                "title": "遠征準備！",
+                "synopsis": "遠征前の買い物をするロックとパレオ。\nショッピングを楽しむ２人だが――",
+                "scenarioId": "event329-02",
+                "coverImage": "329_1",
+                "backgroundImage": "0",
+                "releasePt": 2000,
+                "releaseConditions": "2000イベントP達成",
+                "backgroundImageId": 76,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4962,
+                        "eventId": 329,
+                        "seq": 1,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4963,
+                        "eventId": 329,
+                        "seq": 1,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "seq": 2,
+                "caption": "第２話",
+                "title": "プロデューサー",
+                "synopsis": "どちらに舵を切るか悩むチュチュ。\nそこに現れた人物は……",
+                "scenarioId": "event329-03",
+                "coverImage": "329_2",
+                "backgroundImage": "0",
+                "releasePt": 6000,
+                "releaseConditions": "6000イベントP達成",
+                "backgroundImageId": 476,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4964,
+                        "eventId": 329,
+                        "seq": 2,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4965,
+                        "eventId": 329,
+                        "seq": 2,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "seq": 3,
+                "caption": "第３話",
+                "title": "RASの最善",
+                "synopsis": "いつにも増してテンションが高いロック。\n心に合わせて音も跳ねる。",
+                "scenarioId": "event329-04",
+                "coverImage": "329_3",
+                "backgroundImage": "0",
+                "releasePt": 12000,
+                "releaseConditions": "12000イベントP達成",
+                "backgroundImageId": 499,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4966,
+                        "eventId": 329,
+                        "seq": 3,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4967,
+                        "eventId": 329,
+                        "seq": 3,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "seq": 4,
+                "caption": "第４話",
+                "title": "見つけた奇跡",
+                "synopsis": "結局作曲が進まないチュチュは、\n気まぐれに楽器を手に取り……",
+                "scenarioId": "event329-05",
+                "coverImage": "329_4",
+                "backgroundImage": "0",
+                "releasePt": 22000,
+                "releaseConditions": "22000イベントP達成",
+                "backgroundImageId": 499,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4968,
+                        "eventId": 329,
+                        "seq": 4,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4969,
+                        "eventId": 329,
+                        "seq": 4,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "seq": 5,
+                "caption": "第５話",
+                "title": "ワタシがやりたい音楽",
+                "synopsis": "スタジオにやってきたパレオたち。\n５人揃えばやることはひとつで――",
+                "scenarioId": "event329-06",
+                "coverImage": "329_5",
+                "backgroundImage": "0",
+                "releasePt": 30000,
+                "releaseConditions": "30000イベントP達成",
+                "backgroundImageId": 499,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4970,
+                        "eventId": 329,
+                        "seq": 5,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4971,
+                        "eventId": 329,
+                        "seq": 5,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "seq": 6,
+                "caption": "エンディング",
+                "title": "心を決めて",
+                "synopsis": "メンバーの、自身の熱を浴び、\n心を決めたチュチュが示す道は……",
+                "scenarioId": "event329-07",
+                "coverImage": "329_6",
+                "backgroundImage": "0",
+                "releasePt": 50000,
+                "releaseConditions": "50000イベントP達成",
+                "backgroundImageId": 499,
+                "mainStoryId": 0,
+                "rewards": [
+                    {
+                        "id": 4972,
+                        "eventId": 329,
+                        "seq": 6,
+                        "rewardType": "item",
+                        "rewardId": 13,
+                        "rewardQuantity": 1
+                    },
+                    {
+                        "id": 4973,
+                        "eventId": 329,
+                        "seq": 6,
+                        "rewardType": "star",
+                        "rewardQuantity": 50
+                    }
+                ]
+            }
+        ],
+        "musics": [
+            {
+                "eventId": 329,
+                "musicId": 789,
+                "seq": 1,
+                "musicAchievements": [
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "full_combo_easy",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 10000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "full_combo_expert",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 50000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "full_combo_hard",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 30000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "full_combo_normal",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 20000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "score_rank_a",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "score_rank_b",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "score_rank_c",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "score_rank_s",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 789,
+                        "achievementType": "score_rank_ss",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "quantity": 1
+                    }
+                ],
+                "musicRankingRewards": [
+                    {
+                        "id": 7081,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "degree",
+                        "resourceId": 9491,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7082,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7083,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7084,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "degree",
+                        "resourceId": 9492,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7085,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7086,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7087,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "degree",
+                        "resourceId": 9493,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7088,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7089,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7090,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "degree",
+                        "resourceId": 9494,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7091,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7092,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7093,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "degree",
+                        "resourceId": 9495,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7094,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7095,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7096,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "degree",
+                        "resourceId": 9496,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7097,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7098,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7099,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "degree",
+                        "resourceId": 9497,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7100,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7101,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7102,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "degree",
+                        "resourceId": 9498,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7103,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7104,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7105,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "degree",
+                        "resourceId": 9499,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7106,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7107,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7108,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "degree",
+                        "resourceId": 9500,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7109,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7110,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7111,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "degree",
+                        "resourceId": 9501,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7112,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7113,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7114,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "degree",
+                        "resourceId": 9502,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7115,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7116,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7117,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "degree",
+                        "resourceId": 9503,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7118,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7119,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7120,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 501,
+                        "toRank": 1000,
+                        "resourceType": "degree",
+                        "resourceId": 9504,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7121,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 501,
+                        "toRank": 1000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7122,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 1001,
+                        "toRank": 2000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7123,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 2001,
+                        "toRank": 5000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7124,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 5001,
+                        "toRank": 10000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7125,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 10001,
+                        "toRank": 20000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 2,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7126,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 20001,
+                        "toRank": 30000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7127,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 30001,
+                        "toRank": 50000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7128,
+                        "eventId": 329,
+                        "musicId": 789,
+                        "fromRank": 50001,
+                        "toRank": 100000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 7,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "musicId": 448,
+                "seq": 2,
+                "musicAchievements": [
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "full_combo_easy",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 10000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "full_combo_expert",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 50000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "full_combo_hard",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 30000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "full_combo_normal",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 20000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "full_combo_special",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 50000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "score_rank_a",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "score_rank_b",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "score_rank_c",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "score_rank_s",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 448,
+                        "achievementType": "score_rank_ss",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "quantity": 1
+                    }
+                ],
+                "musicRankingRewards": [
+                    {
+                        "id": 7129,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "degree",
+                        "resourceId": 9505,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7130,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7131,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7132,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "degree",
+                        "resourceId": 9506,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7133,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7134,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7135,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "degree",
+                        "resourceId": 9507,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7136,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7137,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7138,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "degree",
+                        "resourceId": 9508,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7139,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7140,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7141,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "degree",
+                        "resourceId": 9509,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7142,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7143,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7144,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "degree",
+                        "resourceId": 9510,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7145,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7146,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7147,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "degree",
+                        "resourceId": 9511,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7148,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7149,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7150,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "degree",
+                        "resourceId": 9512,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7151,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7152,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7153,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "degree",
+                        "resourceId": 9513,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7154,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7155,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7156,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "degree",
+                        "resourceId": 9514,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7157,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7158,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7159,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "degree",
+                        "resourceId": 9515,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7160,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7161,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7162,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "degree",
+                        "resourceId": 9516,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7163,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7164,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7165,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "degree",
+                        "resourceId": 9517,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7166,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7167,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7168,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 501,
+                        "toRank": 1000,
+                        "resourceType": "degree",
+                        "resourceId": 9518,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7169,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 501,
+                        "toRank": 1000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7170,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 1001,
+                        "toRank": 2000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7171,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 2001,
+                        "toRank": 5000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7172,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 5001,
+                        "toRank": 10000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7173,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 10001,
+                        "toRank": 20000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 2,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7174,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 20001,
+                        "toRank": 30000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7175,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 30001,
+                        "toRank": 50000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7176,
+                        "eventId": 329,
+                        "musicId": 448,
+                        "fromRank": 50001,
+                        "toRank": 100000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 7,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    }
+                ]
+            },
+            {
+                "eventId": 329,
+                "musicId": 570,
+                "seq": 3,
+                "musicAchievements": [
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "full_combo_easy",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 10000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "full_combo_expert",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 50000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "full_combo_hard",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 30000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "full_combo_normal",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 20000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "full_combo_special",
+                        "resourceType": "coin",
+                        "resourceId": 0,
+                        "quantity": 50000
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "score_rank_a",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "score_rank_b",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "score_rank_c",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 2,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "score_rank_s",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "quantity": 1
+                    },
+                    {
+                        "eventId": 329,
+                        "musicId": 570,
+                        "achievementType": "score_rank_ss",
+                        "resourceType": "practice_ticket",
+                        "resourceId": 6,
+                        "quantity": 1
+                    }
+                ],
+                "musicRankingRewards": [
+                    {
+                        "id": 7177,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "degree",
+                        "resourceId": 9519,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7178,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7179,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 1,
+                        "toRank": 1,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7180,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "degree",
+                        "resourceId": 9520,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7181,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7182,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 2,
+                        "toRank": 2,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7183,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "degree",
+                        "resourceId": 9521,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7184,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7185,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 3,
+                        "toRank": 3,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7186,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "degree",
+                        "resourceId": 9522,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7187,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7188,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 4,
+                        "toRank": 10,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7189,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "degree",
+                        "resourceId": 9523,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7190,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7191,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 11,
+                        "toRank": 20,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7192,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "degree",
+                        "resourceId": 9524,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7193,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7194,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 21,
+                        "toRank": 30,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7195,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "degree",
+                        "resourceId": 9525,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7196,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7197,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 31,
+                        "toRank": 40,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7198,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "degree",
+                        "resourceId": 9526,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7199,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7200,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 41,
+                        "toRank": 50,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7201,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "degree",
+                        "resourceId": 9527,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7202,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7203,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 51,
+                        "toRank": 100,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7204,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "degree",
+                        "resourceId": 9528,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7205,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7206,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 101,
+                        "toRank": 200,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7207,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "degree",
+                        "resourceId": 9529,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7208,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7209,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 201,
+                        "toRank": 300,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7210,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "degree",
+                        "resourceId": 9530,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7211,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7212,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 301,
+                        "toRank": 400,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7213,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "degree",
+                        "resourceId": 9531,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7214,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "voice_stamp",
+                        "resourceId": 574,
+                        "quantity": 1,
+                        "recommendFlg": true
+                    },
+                    {
+                        "id": 7215,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 401,
+                        "toRank": 500,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7216,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 501,
+                        "toRank": 1000,
+                        "resourceType": "degree",
+                        "resourceId": 9532,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7217,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 501,
+                        "toRank": 1000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 4,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7218,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 1001,
+                        "toRank": 2000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7219,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 2001,
+                        "toRank": 5000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7220,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 5001,
+                        "toRank": 10000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 3,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7221,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 10001,
+                        "toRank": 20000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 2,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7222,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 20001,
+                        "toRank": 30000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7223,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 30001,
+                        "toRank": 50000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 8,
+                        "quantity": 1,
+                        "recommendFlg": false
+                    },
+                    {
+                        "id": 7224,
+                        "eventId": 329,
+                        "musicId": 570,
+                        "fromRank": 50001,
+                        "toRank": 100000,
+                        "resourceType": "practice_ticket",
+                        "resourceId": 7,
+                        "quantity": 5,
+                        "recommendFlg": false
+                    }
+                ]
+            }
+        ],
+        "challengeCosts": [
+            {
+                "eventId": 329,
+                "seq": 1,
+                "cost": 200,
+                "ratio": 1
+            },
+            {
+                "eventId": 329,
+                "seq": 2,
+                "cost": 400,
+                "ratio": 2
+            },
+            {
+                "eventId": 329,
+                "seq": 3,
+                "cost": 800,
+                "ratio": 4
+            },
+            {
+                "eventId": 329,
+                "seq": 4,
+                "cost": 1600,
+                "ratio": 8
+            }
+        ],
+        "eventCharacterParameterBonus": {
+            "eventId": 329,
+            "performance": 50,
+            "technique": 0,
+            "visual": 0
+        },
+        "eventAttributeAndCharacterBonus": {
+            "eventId": 329,
+            "pointPercent": 20,
+            "parameterPercent": 20
+        },
+        "members": {
+            "entries": {
+                "2440": {
+                    "eventId": 329,
+                    "situationId": 2440,
+                    "percent": 20,
+                    "seq": 1
+                },
+                "2441": {
+                    "eventId": 329,
+                    "situationId": 2441,
+                    "percent": 20,
+                    "seq": 2
+                },
+                "2444": {
+                    "eventId": 329,
+                    "situationId": 2444,
+                    "percent": 20,
+                    "seq": 3
+                },
+                "2445": {
+                    "eventId": 329,
+                    "situationId": 2445,
+                    "percent": 20,
+                    "seq": 4
+                },
+                "2446": {
+                    "eventId": 329,
+                    "situationId": 2446,
+                    "percent": 20,
+                    "seq": 5
+                }
+            }
+        },
+        "limitBreaks": {
+            "entries": {
+                "1": {
+                    "entries": [
+                        {
+                            "rarity": 1,
+                            "rank": 0,
+                            "percent": 0
+                        },
+                        {
+                            "rarity": 1,
+                            "rank": 1,
+                            "percent": 0.2
+                        },
+                        {
+                            "rarity": 1,
+                            "rank": 2,
+                            "percent": 0.3
+                        },
+                        {
+                            "rarity": 1,
+                            "rank": 3,
+                            "percent": 0.4
+                        },
+                        {
+                            "rarity": 1,
+                            "rank": 4,
+                            "percent": 0.5
+                        }
+                    ]
+                },
+                "2": {
+                    "entries": [
+                        {
+                            "rarity": 2,
+                            "rank": 0,
+                            "percent": 0
+                        },
+                        {
+                            "rarity": 2,
+                            "rank": 1,
+                            "percent": 0.4
+                        },
+                        {
+                            "rarity": 2,
+                            "rank": 2,
+                            "percent": 0.6
+                        },
+                        {
+                            "rarity": 2,
+                            "rank": 3,
+                            "percent": 0.8
+                        },
+                        {
+                            "rarity": 2,
+                            "rank": 4,
+                            "percent": 1
+                        }
+                    ]
+                },
+                "3": {
+                    "entries": [
+                        {
+                            "rarity": 3,
+                            "rank": 0,
+                            "percent": 0
+                        },
+                        {
+                            "rarity": 3,
+                            "rank": 1,
+                            "percent": 1
+                        },
+                        {
+                            "rarity": 3,
+                            "rank": 2,
+                            "percent": 2
+                        },
+                        {
+                            "rarity": 3,
+                            "rank": 3,
+                            "percent": 3
+                        },
+                        {
+                            "rarity": 3,
+                            "rank": 4,
+                            "percent": 4
+                        }
+                    ]
+                },
+                "4": {
+                    "entries": [
+                        {
+                            "rarity": 4,
+                            "rank": 0,
+                            "percent": 0
+                        },
+                        {
+                            "rarity": 4,
+                            "rank": 1,
+                            "percent": 3
+                        },
+                        {
+                            "rarity": 4,
+                            "rank": 2,
+                            "percent": 4
+                        },
+                        {
+                            "rarity": 4,
+                            "rank": 3,
+                            "percent": 5
+                        },
+                        {
+                            "rarity": 4,
+                            "rank": 4,
+                            "percent": 6
+                        }
+                    ]
+                },
+                "5": {
+                    "entries": [
+                        {
+                            "rarity": 5,
+                            "rank": 0,
+                            "percent": 0
+                        },
+                        {
+                            "rarity": 5,
+                            "rank": 1,
+                            "percent": 12
+                        },
+                        {
+                            "rarity": 5,
+                            "rank": 2,
+                            "percent": 13
+                        },
+                        {
+                            "rarity": 5,
+                            "rank": 3,
+                            "percent": 14
+                        },
+                        {
+                            "rarity": 5,
+                            "rank": 4,
+                            "percent": 15
+                        }
+                    ]
+                }
+            }
+        },
+        "threshold": {
+            "eventType": "challenge",
+            "threshold1": 50,
+            "threshold2": 70
+        }
+    }
+}

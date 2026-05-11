@@ -1754,6 +1754,20 @@
         "resourceName": "icon_eventbadge_blue",
         "description": "芽生えた想い、夕陽に交わして"
     },
+    "322": {
+        "eventItemId": 322,
+        "eventId": 329,
+        "itemName": "チャレンジP",
+        "resourceName": "icon_event_cp",
+        "description": "Beyond my Imagination"
+    },
+    "323": {
+        "eventItemId": 323,
+        "eventId": 330,
+        "itemName": "グリーンバッジ",
+        "resourceName": "icon_eventbadge_green",
+        "description": "君と一緒に！パスパレ全国ツアー！"
+    },
     "33": {
         "eventItemId": 33,
         "eventId": 40,

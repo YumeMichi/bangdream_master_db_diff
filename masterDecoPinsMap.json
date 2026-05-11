@@ -1919,6 +1919,36 @@
         "assetBundleName": "deco_pins000045",
         "description": "洋食チームのピンズ"
     },
+    "2770": {
+        "decoPinsId": 2770,
+        "decoPinsName": "戸山香澄NFO記念ピンズ（星のギフト）",
+        "decoPinsType": "member",
+        "decoPinsRarityType": "normal",
+        "decoPinsSize": 1,
+        "assetBundleName": "deco_pins001010",
+        "description": "戸山香澄NFO記念ピンズ（星のギフト）のピンズ",
+        "decoPinsTypeId": 1
+    },
+    "2780": {
+        "decoPinsId": 2780,
+        "decoPinsName": "湊友希那NFO記念ピンズ（ジョブチェンジ前）",
+        "decoPinsType": "member",
+        "decoPinsRarityType": "normal",
+        "decoPinsSize": 1,
+        "assetBundleName": "deco_pins021009",
+        "description": "湊友希那NFO記念ピンズ（ジョブチェンジ前）のピンズ",
+        "decoPinsTypeId": 21
+    },
+    "2790": {
+        "decoPinsId": 2790,
+        "decoPinsName": "氷川紗夜NFO記念ピンズ（ジョブチェンジ前）",
+        "decoPinsType": "member",
+        "decoPinsRarityType": "normal",
+        "decoPinsSize": 1,
+        "assetBundleName": "deco_pins022008",
+        "description": "氷川紗夜NFO記念ピンズ（ジョブチェンジ前）のピンズ",
+        "decoPinsTypeId": 22
+    },
     "280": {
         "decoPinsId": 280,
         "decoPinsName": "Pastel＊Palettes",
@@ -1927,6 +1957,36 @@
         "decoPinsSize": 1,
         "assetBundleName": "deco_pins000003",
         "description": "Pastel＊Palettesのピンズ"
+    },
+    "2800": {
+        "decoPinsId": 2800,
+        "decoPinsName": "今井リサNFO記念ピンズ（ジョブチェンジ前）",
+        "decoPinsType": "member",
+        "decoPinsRarityType": "normal",
+        "decoPinsSize": 1,
+        "assetBundleName": "deco_pins023007",
+        "description": "今井リサNFO記念ピンズ（ジョブチェンジ前）のピンズ",
+        "decoPinsTypeId": 23
+    },
+    "2810": {
+        "decoPinsId": 2810,
+        "decoPinsName": "宇田川あこNFO記念ピンズ（ジョブチェンジ前）",
+        "decoPinsType": "member",
+        "decoPinsRarityType": "normal",
+        "decoPinsSize": 1,
+        "assetBundleName": "deco_pins024007",
+        "description": "宇田川あこNFO記念ピンズ（ジョブチェンジ前）のピンズ",
+        "decoPinsTypeId": 24
+    },
+    "2820": {
+        "decoPinsId": 2820,
+        "decoPinsName": "白金燐子NFO記念ピンズ（ジョブチェンジ前）",
+        "decoPinsType": "member",
+        "decoPinsRarityType": "normal",
+        "decoPinsSize": 1,
+        "assetBundleName": "deco_pins025007",
+        "description": "白金燐子NFO記念ピンズ（ジョブチェンジ前）のピンズ",
+        "decoPinsTypeId": 25
     },
     "290": {
         "decoPinsId": 290,

@@ -1,54 +1,26 @@
 [
     {
-        "newSituationIntroductionId": 497,
-        "gachaId": 1828,
+        "newSituationIntroductionId": 501,
+        "gachaId": 1848,
         "logoPosition": "center",
-        "startAt": 1775800800000,
-        "endAt": 1776664799000,
+        "startAt": 1778392800000,
+        "endAt": 1779343199000,
         "details": [
             {
-                "newSituationIntroductionId": 497,
-                "situationId": 2430,
+                "newSituationIntroductionId": 501,
+                "situationId": 2447,
                 "seq": 1,
                 "motion": "gacha01",
-                "situationPositionX": 0.43,
+                "situationPositionX": 0.01,
                 "live2dPresetVoice": "smile",
                 "isExistLive2dSpecialVoice": false
             },
             {
-                "newSituationIntroductionId": 497,
-                "situationId": 2431,
+                "newSituationIntroductionId": 501,
+                "situationId": 2448,
                 "seq": 2,
-                "motion": "gacha01",
-                "situationPositionX": -0.14,
-                "live2dPresetVoice": "smile",
-                "isExistLive2dSpecialVoice": false
-            }
-        ],
-        "newIconFlag": true
-    },
-    {
-        "newSituationIntroductionId": 498,
-        "gachaId": 1837,
-        "logoPosition": "center",
-        "startAt": 1776664800000,
-        "endAt": 1777442399000,
-        "details": [
-            {
-                "newSituationIntroductionId": 498,
-                "situationId": 2435,
-                "seq": 1,
                 "motion": "gacha01",
                 "situationPositionX": 0,
-                "live2dPresetVoice": "smile",
-                "isExistLive2dSpecialVoice": false
-            },
-            {
-                "newSituationIntroductionId": 498,
-                "situationId": 2436,
-                "seq": 2,
-                "motion": "gacha01",
-                "situationPositionX": -0.05,
                 "live2dPresetVoice": "smile",
                 "isExistLive2dSpecialVoice": false
             }

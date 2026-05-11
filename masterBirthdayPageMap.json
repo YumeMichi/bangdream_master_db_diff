@@ -1881,6 +1881,24 @@
         "endAt": 1776265199000,
         "openingAnimationLoginBonusId": 1393
     },
+    "278": {
+        "birthdayPageId": 278,
+        "characterId": 14,
+        "assetBundleName": "kanon_2026",
+        "birthdayStoryId": 278,
+        "startAt": 1778425200000,
+        "endAt": 1778511599000,
+        "openingAnimationLoginBonusId": 1416
+    },
+    "279": {
+        "birthdayPageId": 279,
+        "characterId": 33,
+        "assetBundleName": "masking_2026",
+        "birthdayStoryId": 279,
+        "startAt": 1778511600000,
+        "endAt": 1778597999000,
+        "openingAnimationLoginBonusId": 1417
+    },
     "28": {
         "birthdayPageId": 28,
         "characterId": 22,
@@ -1890,6 +1908,15 @@
         "openingAnimationLoginBonusId": 124,
         "birthdayCardAssetBundleName": "sayo_2019",
         "characterProfileLive2dId": 900001
+    },
+    "280": {
+        "birthdayPageId": 280,
+        "characterId": 4,
+        "assetBundleName": "saya_2026",
+        "birthdayStoryId": 280,
+        "startAt": 1779116400000,
+        "endAt": 1779202799000,
+        "openingAnimationLoginBonusId": 1418
     },
     "29": {
         "birthdayPageId": 29,
