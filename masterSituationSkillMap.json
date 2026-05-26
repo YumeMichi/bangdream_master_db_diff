@@ -7729,6 +7729,31 @@
         "skillName": "郷土愛に触れて",
         "skillId": 61
     },
+    "2452": {
+        "situationSkillId": 2452,
+        "skillName": "感謝の猫ちゃん",
+        "skillId": 73
+    },
+    "2453": {
+        "situationSkillId": 2453,
+        "skillName": "緊急避難！",
+        "skillId": 86
+    },
+    "2454": {
+        "situationSkillId": 2454,
+        "skillName": "困った子猫ちゃんを探して",
+        "skillId": 9
+    },
+    "2455": {
+        "situationSkillId": 2455,
+        "skillName": "お手当てします♪",
+        "skillId": 23
+    },
+    "2456": {
+        "situationSkillId": 2456,
+        "skillName": "笑顔でゴール！",
+        "skillId": 61
+    },
     "25": {
         "situationSkillId": 25,
         "skillName": "秘めたる想い",

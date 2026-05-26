@@ -90896,6 +90896,26 @@
         "iconImageName": "event_point_icon",
         "description": "「君と一緒に！パスパレ全国ツアー！」イベントで100000位以内に入賞"
     },
+    "9558": {
+        "degreeId": 9558,
+        "seq": 9658,
+        "baseImageName": "degree_event331_point",
+        "rank": "1",
+        "degreeName": "称号 1位",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで1位に入賞"
+    },
+    "9559": {
+        "degreeId": 9559,
+        "seq": 9659,
+        "baseImageName": "degree_event331_point",
+        "rank": "2",
+        "degreeName": "称号 2位",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで2位に入賞"
+    },
     "956": {
         "degreeId": 956,
         "seq": 1056,
@@ -90905,6 +90925,106 @@
         "degreeType": "event_point",
         "iconImageName": "event_point_icon",
         "description": "「キミがいなくちゃっ！」イベントで10位以内に入賞"
+    },
+    "9560": {
+        "degreeId": 9560,
+        "seq": 9660,
+        "baseImageName": "degree_event331_point",
+        "rank": "3",
+        "degreeName": "称号 3位",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで3位に入賞"
+    },
+    "9561": {
+        "degreeId": 9561,
+        "seq": 9661,
+        "baseImageName": "degree_event331_point",
+        "rank": "10",
+        "degreeName": "称号 TOP10",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで10位以内に入賞"
+    },
+    "9562": {
+        "degreeId": 9562,
+        "seq": 9662,
+        "baseImageName": "degree_event331_point",
+        "rank": "20",
+        "degreeName": "称号 TOP20",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで20位以内に入賞"
+    },
+    "9563": {
+        "degreeId": 9563,
+        "seq": 9663,
+        "baseImageName": "degree_event331_point",
+        "rank": "30",
+        "degreeName": "称号 TOP30",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで30位以内に入賞"
+    },
+    "9564": {
+        "degreeId": 9564,
+        "seq": 9664,
+        "baseImageName": "degree_event331_point",
+        "rank": "40",
+        "degreeName": "称号 TOP40",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで40位以内に入賞"
+    },
+    "9565": {
+        "degreeId": 9565,
+        "seq": 9665,
+        "baseImageName": "degree_event331_point",
+        "rank": "50",
+        "degreeName": "称号 TOP50",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで50位以内に入賞"
+    },
+    "9566": {
+        "degreeId": 9566,
+        "seq": 9666,
+        "baseImageName": "degree_event331_point",
+        "rank": "100",
+        "degreeName": "称号 TOP100",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで100位以内に入賞"
+    },
+    "9567": {
+        "degreeId": 9567,
+        "seq": 9667,
+        "baseImageName": "degree_event331_point",
+        "rank": "200",
+        "degreeName": "称号 TOP200",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで200位以内に入賞"
+    },
+    "9568": {
+        "degreeId": 9568,
+        "seq": 9668,
+        "baseImageName": "degree_event331_point",
+        "rank": "300",
+        "degreeName": "称号 TOP300",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで300位以内に入賞"
+    },
+    "9569": {
+        "degreeId": 9569,
+        "seq": 9669,
+        "baseImageName": "degree_event331_point",
+        "rank": "400",
+        "degreeName": "称号 TOP400",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで400位以内に入賞"
     },
     "957": {
         "degreeId": 957,
@@ -90916,6 +91036,106 @@
         "iconImageName": "event_point_icon",
         "description": "「キミがいなくちゃっ！」イベントで100位以内に入賞"
     },
+    "9570": {
+        "degreeId": 9570,
+        "seq": 9670,
+        "baseImageName": "degree_event331_point",
+        "rank": "500",
+        "degreeName": "称号 TOP500",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで500位以内に入賞"
+    },
+    "9571": {
+        "degreeId": 9571,
+        "seq": 9671,
+        "baseImageName": "degree_event331_point",
+        "rank": "1000",
+        "degreeName": "称号 TOP1000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで1000位以内に入賞"
+    },
+    "9572": {
+        "degreeId": 9572,
+        "seq": 9672,
+        "baseImageName": "degree_event331_point",
+        "rank": "2000",
+        "degreeName": "称号 TOP2000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで2000位以内に入賞"
+    },
+    "9573": {
+        "degreeId": 9573,
+        "seq": 9673,
+        "baseImageName": "degree_event331_point",
+        "rank": "3000",
+        "degreeName": "称号 TOP3000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで3000位以内に入賞"
+    },
+    "9574": {
+        "degreeId": 9574,
+        "seq": 9674,
+        "baseImageName": "degree_event331_point",
+        "rank": "4000",
+        "degreeName": "称号 TOP4000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで4000位以内に入賞"
+    },
+    "9575": {
+        "degreeId": 9575,
+        "seq": 9675,
+        "baseImageName": "degree_event331_point",
+        "rank": "5000",
+        "degreeName": "称号 TOP5000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで5000位以内に入賞"
+    },
+    "9576": {
+        "degreeId": 9576,
+        "seq": 9676,
+        "baseImageName": "degree_event331_point",
+        "rank": "10000",
+        "degreeName": "称号 TOP10000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで10000位以内に入賞"
+    },
+    "9577": {
+        "degreeId": 9577,
+        "seq": 9677,
+        "baseImageName": "degree_event331_point",
+        "rank": "20000",
+        "degreeName": "称号 TOP20000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで20000位以内に入賞"
+    },
+    "9578": {
+        "degreeId": 9578,
+        "seq": 9678,
+        "baseImageName": "degree_event331_point",
+        "rank": "30000",
+        "degreeName": "称号 TOP30000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで30000位以内に入賞"
+    },
+    "9579": {
+        "degreeId": 9579,
+        "seq": 9679,
+        "baseImageName": "degree_event331_point",
+        "rank": "40000",
+        "degreeName": "称号 TOP40000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで40000位以内に入賞"
+    },
     "958": {
         "degreeId": 958,
         "seq": 1058,
@@ -90925,6 +91145,56 @@
         "degreeType": "event_point",
         "iconImageName": "event_point_icon",
         "description": "「キミがいなくちゃっ！」イベントで1000位以内に入賞"
+    },
+    "9580": {
+        "degreeId": 9580,
+        "seq": 9680,
+        "baseImageName": "degree_event331_point",
+        "rank": "50000",
+        "degreeName": "称号 TOP50000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで50000位以内に入賞"
+    },
+    "9581": {
+        "degreeId": 9581,
+        "seq": 9681,
+        "baseImageName": "degree_event331_point",
+        "rank": "70000",
+        "degreeName": "称号 TOP70000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで70000位以内に入賞"
+    },
+    "9582": {
+        "degreeId": 9582,
+        "seq": 9682,
+        "baseImageName": "degree_event331_point",
+        "rank": "100000",
+        "degreeName": "称号 TOP100000",
+        "degreeType": "event_point",
+        "iconImageName": "event_point_icon",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントで100000位以内に入賞"
+    },
+    "9583": {
+        "degreeId": 9583,
+        "seq": 9683,
+        "baseImageName": "degree_event331_try",
+        "rank": "normal",
+        "degreeName": "称号 トライマスター",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントですべてのトライレベル10をクリア"
+    },
+    "9584": {
+        "degreeId": 9584,
+        "seq": 9684,
+        "baseImageName": "degree_event331_try",
+        "rank": "extra",
+        "degreeName": "称号 EXトライマスター",
+        "degreeType": "try_clear",
+        "iconImageName": "none",
+        "description": "「ハロー・スマイル♡なんでも屋さん★」イベントですべてのEXトライレベル5をクリア"
     },
     "9585": {
         "degreeId": 9585,
@@ -91688,6 +91958,17 @@
         "degreeType": "normal",
         "iconImageName": "none",
         "description": "「DREAMS GO ON」ステージチャレンジで★を63個獲得"
+    },
+    "9718": {
+        "degreeId": 9718,
+        "seq": 63901,
+        "baseImageName": "ani_degree_birthday_soyo_2026",
+        "rank": "none",
+        "degreeName": "そよ誕生日記念",
+        "degreeType": "normal",
+        "iconImageName": "none",
+        "description": "そよ誕生日記念ピース交換所で獲得",
+        "characterId": 39
     },
     "972": {
         "degreeId": 972,

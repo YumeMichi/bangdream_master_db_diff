@@ -60828,6 +60828,64 @@
             "lbBonus": 1
         }
     },
+    "2028": {
+        "costume3dSetId": 2028,
+        "setName": "なんでも屋さんに！（北沢 はぐみ）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76572,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1953,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76572,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2029": {
+        "costume3dSetId": 2029,
+        "setName": "なんでも屋さんに！（北沢 はぐみ）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76612,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1954,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76612,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
     "203": {
         "costume3dSetId": 203,
         "setName": "選ぶべきは（湊 友希那）",
@@ -60852,6 +60910,298 @@
         "dialogUnshowResources": {},
         "thumbnailResource": {
             "resourceId": 5534,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2030": {
+        "costume3dSetId": 2030,
+        "setName": "なんでも屋さんに！（北沢 はぐみ）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76652,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1955,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76652,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2031": {
+        "costume3dSetId": 2031,
+        "setName": "なんでも屋さんに！（北沢 はぐみ）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76692,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1956,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76692,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2032": {
+        "costume3dSetId": 2032,
+        "setName": "なんでも屋さんに！（北沢 はぐみ）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76732,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1957,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76732,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2033": {
+        "costume3dSetId": 2033,
+        "setName": "泣き顔、２人分（奥沢 美咲）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76799,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 76965,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1958,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1963,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76799,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2034": {
+        "costume3dSetId": 2034,
+        "setName": "泣き顔、２人分（奥沢 美咲）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76839,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 76966,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1959,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1964,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76839,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2035": {
+        "costume3dSetId": 2035,
+        "setName": "泣き顔、２人分（奥沢 美咲）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76879,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 76967,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1960,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1965,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76879,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2036": {
+        "costume3dSetId": 2036,
+        "setName": "泣き顔、２人分（奥沢 美咲）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76919,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 76968,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1961,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1966,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76919,
+            "resourceType": "costume_3d_dress",
+            "quantity": 1,
+            "lbBonus": 1
+        }
+    },
+    "2037": {
+        "costume3dSetId": 2037,
+        "setName": "泣き顔、２人分（奥沢 美咲）",
+        "publishedAt": 1779343200000,
+        "attentionMessage": "すべてのキャラクターが着用できます。",
+        "dialogShowResources": {
+            "entries": [
+                {
+                    "resourceId": 76959,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 76969,
+                    "resourceType": "costume_3d_dress",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1962,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                },
+                {
+                    "resourceId": 1967,
+                    "resourceType": "costume_3d_hairstyle",
+                    "quantity": 1,
+                    "lbBonus": 1
+                }
+            ]
+        },
+        "dialogUnshowResources": {},
+        "thumbnailResource": {
+            "resourceId": 76959,
             "resourceType": "costume_3d_dress",
             "quantity": 1,
             "lbBonus": 1

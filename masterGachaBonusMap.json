@@ -1019,6 +1019,23 @@
         },
         "displayNameGachaId": 1848
     },
+    "64": {
+        "gachaBonusId": 64,
+        "loopRound": 1,
+        "gachaBonusBehaviorListMap": {
+            "1": {
+                "entries": [
+                    {
+                        "gachaBonusId": 64,
+                        "round": 1,
+                        "threshold": 50,
+                        "gachaBonusType": "fixed_the_5_star_bonus"
+                    }
+                ]
+            }
+        },
+        "displayNameGachaId": 1850
+    },
     "7": {
         "gachaBonusId": 7,
         "loopRound": 1,

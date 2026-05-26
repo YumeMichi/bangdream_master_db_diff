@@ -4378,6 +4378,15 @@
         "publishedAt": 1778133600000,
         "withVoice": false
     },
+    "583": {
+        "stampId": 583,
+        "seq": 583,
+        "imageName": "stamp_013017",
+        "stampType": "rare",
+        "publishedAt": 1779343200000,
+        "withVoice": true,
+        "voiceName": "stamp_013017"
+    },
     "6": {
         "stampId": 6,
         "seq": 6,

@@ -13899,6 +13899,56 @@
             }
         ]
     },
+    "2371": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[なんでも屋さんに！]北沢 はぐみを獲得！"
+            }
+        ]
+    },
+    "2372": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            }
+        ]
+    },
+    "2373": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 331,
+                "description": "イベントでメンバー[瀬田薫にお任せあれ！]瀬田 薫を獲得！"
+            }
+        ]
+    },
+    "2374": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 331,
+                "description": "イベントでメンバー[フューチャーナース]松原 花音を獲得！"
+            }
+        ]
+    },
+    "2375": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[試合に向けて！]弦巻 こころを獲得！"
+            }
+        ]
+    },
     "238": {
         "entries": [
             {

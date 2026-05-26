@@ -8854,6 +8854,17 @@
             }
         ]
     },
+    "800": {
+        "entries": [
+            {
+                "musicJacketId": 856,
+                "musicId": 800,
+                "seq": 10,
+                "jacketImage": "800_horebore_smile",
+                "startAt": 1779343200000
+            }
+        ]
+    },
     "81": {
         "entries": [
             {

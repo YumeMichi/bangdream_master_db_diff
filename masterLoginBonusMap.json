@@ -10007,7 +10007,7 @@
         "caption": "沙綾誕生日記念",
         "assetBundleName": "saya_2026",
         "publishedAt": 1779116400000,
-        "closedAt": 1779202799000,
+        "closedAt": 1779289199000,
         "details": [
             {
                 "loginBonusId": 1418,
@@ -10024,6 +10024,25 @@
                 "resourceId": 12,
                 "quantity": 1,
                 "seq": 2,
+                "grantType": "present"
+            }
+        ],
+        "assetMap": {}
+    },
+    "1419": {
+        "loginBonusId": 1419,
+        "loginBonusType": "event",
+        "caption": "「元祖！バンドリちゃん」最新話配信記念",
+        "assetBundleName": "bandori_chan_anime",
+        "publishedAt": 1779343200000,
+        "closedAt": 1779429599000,
+        "details": [
+            {
+                "loginBonusId": 1419,
+                "days": 1,
+                "resourceType": "star",
+                "quantity": 50,
+                "seq": 1,
                 "grantType": "present"
             }
         ],
@@ -10053,6 +10072,53 @@
                 "quantity": 1,
                 "seq": 2,
                 "grantType": "direct"
+            }
+        ],
+        "assetMap": {}
+    },
+    "1420": {
+        "loginBonusId": 1420,
+        "loginBonusType": "birthday",
+        "caption": "そよ誕生日記念",
+        "assetBundleName": "soyo_2026",
+        "publishedAt": 1779807600000,
+        "closedAt": 1779893999000,
+        "details": [
+            {
+                "loginBonusId": 1420,
+                "days": 1,
+                "resourceType": "star",
+                "quantity": 50,
+                "seq": 1,
+                "grantType": "present"
+            },
+            {
+                "loginBonusId": 1420,
+                "days": 1,
+                "resourceType": "practice_ticket",
+                "resourceId": 54,
+                "quantity": 1,
+                "seq": 2,
+                "grantType": "present"
+            }
+        ],
+        "assetMap": {}
+    },
+    "1421": {
+        "loginBonusId": 1421,
+        "loginBonusType": "event",
+        "caption": "「元祖！バンドリちゃん」最新話配信記念",
+        "assetBundleName": "bandori_chan_anime",
+        "publishedAt": 1779948000000,
+        "closedAt": 1780034399000,
+        "details": [
+            {
+                "loginBonusId": 1421,
+                "days": 1,
+                "resourceType": "star",
+                "quantity": 50,
+                "seq": 1,
+                "grantType": "present"
             }
         ],
         "assetMap": {}

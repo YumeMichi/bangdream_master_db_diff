@@ -1002,7 +1002,7 @@
         "seq": 25,
         "name": "沙綾誕生日記念ピース交換所",
         "publishedAt": 1779116400000,
-        "closedAt": 1779980399000,
+        "closedAt": 1780066799000,
         "limitedExchangesCategory": "common"
     },
     {
@@ -1019,6 +1019,14 @@
         "name": "ライブ打ち上げRoseliaピース交換所",
         "publishedAt": 1777809600000,
         "closedAt": 1778565599000,
+        "limitedExchangesCategory": "common"
+    },
+    {
+        "limitedExchangesId": 134,
+        "seq": 24,
+        "name": "そよ誕生日記念ピース交換所",
+        "publishedAt": 1779807600000,
+        "closedAt": 1780671599000,
         "limitedExchangesCategory": "common"
     }
 ]

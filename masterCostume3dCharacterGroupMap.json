@@ -5605,6 +5605,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 1,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76600,
+                        "another2": 76640,
+                        "another3": 76680,
+                        "another4": 76720,
+                        "original": 76560
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 1,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76805,
+                        "another2": 76845,
+                        "another3": 76885,
+                        "another4": 76925,
+                        "original": 76765
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "73": {
                 "characterId": 1,
                 "costume3dGroupId": 73,
@@ -11203,6 +11231,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 10,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76609,
+                        "another2": 76649,
+                        "another3": 76689,
+                        "another4": 76729,
+                        "original": 76569
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 10,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76814,
+                        "another2": 76854,
+                        "another3": 76894,
+                        "another4": 76934,
+                        "original": 76774
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "82": {
                 "characterId": 10,
                 "costume3dGroupId": 82,
@@ -16789,6 +16845,34 @@
                         "another3": 76490,
                         "another4": 76530,
                         "original": 76370
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 11,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76610,
+                        "another2": 76650,
+                        "another3": 76690,
+                        "another4": 76730,
+                        "original": 76570
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 11,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76815,
+                        "another2": 76855,
+                        "another3": 76895,
+                        "another4": 76935,
+                        "original": 76775
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -22387,6 +22471,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 12,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76611,
+                        "another2": 76651,
+                        "another3": 76691,
+                        "another4": 76731,
+                        "original": 76571
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 12,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76816,
+                        "another2": 76856,
+                        "another3": 76896,
+                        "another4": 76936,
+                        "original": 76776
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "84": {
                 "characterId": 12,
                 "costume3dGroupId": 84,
@@ -27965,6 +28077,42 @@
                         "another3": 76492,
                         "another4": 76532,
                         "original": 76372
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 13,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76612,
+                        "another2": 76652,
+                        "another3": 76692,
+                        "another4": 76732,
+                        "original": 76572
+                    }
+                },
+                "hairstyleCharacterColorMap": {
+                    "entries": {
+                        "another1": 1954,
+                        "another2": 1955,
+                        "another3": 1956,
+                        "another4": 1957,
+                        "original": 1953
+                    }
+                }
+            },
+            "661": {
+                "characterId": 13,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76817,
+                        "another2": 76857,
+                        "another3": 76897,
+                        "another4": 76937,
+                        "original": 76777
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -33567,6 +33715,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 14,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76613,
+                        "another2": 76653,
+                        "another3": 76693,
+                        "another4": 76733,
+                        "original": 76573
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 14,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76818,
+                        "another2": 76858,
+                        "another3": 76898,
+                        "another4": 76938,
+                        "original": 76778
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "86": {
                 "characterId": 14,
                 "costume3dGroupId": 86,
@@ -34604,6 +34780,42 @@
                     }
                 },
                 "hairstyleCharacterColorMap": {}
+            },
+            "660": {
+                "characterId": 15,
+                "costume3dGroupId": 660,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76761,
+                        "another2": 76762,
+                        "another3": 76763,
+                        "another4": 76764,
+                        "original": 76760
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "662": {
+                "characterId": 15,
+                "costume3dGroupId": 662,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76966,
+                        "another2": 76967,
+                        "another3": 76968,
+                        "another4": 76969,
+                        "original": 76965
+                    }
+                },
+                "hairstyleCharacterColorMap": {
+                    "entries": {
+                        "another1": 1964,
+                        "another2": 1965,
+                        "another3": 1966,
+                        "another4": 1967,
+                        "original": 1963
+                    }
+                }
             },
             "87": {
                 "characterId": 15,
@@ -40231,6 +40443,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 16,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76614,
+                        "another2": 76654,
+                        "another3": 76694,
+                        "another4": 76734,
+                        "original": 76574
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 16,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76819,
+                        "another2": 76859,
+                        "another3": 76899,
+                        "another4": 76939,
+                        "original": 76779
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "88": {
                 "characterId": 16,
                 "costume3dGroupId": 88,
@@ -45825,6 +46065,34 @@
                         "another3": 76495,
                         "another4": 76535,
                         "original": 76375
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 17,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76615,
+                        "another2": 76655,
+                        "another3": 76695,
+                        "another4": 76735,
+                        "original": 76575
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 17,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76820,
+                        "another2": 76860,
+                        "another3": 76900,
+                        "another4": 76940,
+                        "original": 76780
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -51431,6 +51699,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 18,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76616,
+                        "another2": 76656,
+                        "another3": 76696,
+                        "another4": 76736,
+                        "original": 76576
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 18,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76821,
+                        "another2": 76861,
+                        "another3": 76901,
+                        "another4": 76941,
+                        "original": 76781
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "90": {
                 "characterId": 18,
                 "costume3dGroupId": 90,
@@ -57012,6 +57308,34 @@
                         "original": 1948
                     }
                 }
+            },
+            "659": {
+                "characterId": 19,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76617,
+                        "another2": 76657,
+                        "another3": 76697,
+                        "another4": 76737,
+                        "original": 76577
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 19,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76822,
+                        "another2": 76862,
+                        "another3": 76902,
+                        "another4": 76942,
+                        "original": 76782
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
             },
             "91": {
                 "characterId": 19,
@@ -62615,6 +62939,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 2,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76601,
+                        "another2": 76641,
+                        "another3": 76681,
+                        "another4": 76721,
+                        "original": 76561
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 2,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76806,
+                        "another2": 76846,
+                        "another3": 76886,
+                        "another4": 76926,
+                        "original": 76766
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "74": {
                 "characterId": 2,
                 "costume3dGroupId": 74,
@@ -68193,6 +68545,34 @@
                         "another3": 76498,
                         "another4": 76538,
                         "original": 76378
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 20,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76618,
+                        "another2": 76658,
+                        "another3": 76698,
+                        "another4": 76738,
+                        "original": 76578
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 20,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76823,
+                        "another2": 76863,
+                        "another3": 76903,
+                        "another4": 76943,
+                        "original": 76783
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -73791,6 +74171,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 21,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76619,
+                        "another2": 76659,
+                        "another3": 76699,
+                        "another4": 76739,
+                        "original": 76579
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 21,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76824,
+                        "another2": 76864,
+                        "another3": 76904,
+                        "another4": 76944,
+                        "original": 76784
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "93": {
                 "characterId": 21,
                 "costume3dGroupId": 93,
@@ -79377,6 +79785,34 @@
                         "another3": 76500,
                         "another4": 76540,
                         "original": 76380
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 22,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76620,
+                        "another2": 76660,
+                        "another3": 76700,
+                        "another4": 76740,
+                        "original": 76580
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 22,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76825,
+                        "another2": 76865,
+                        "another3": 76905,
+                        "another4": 76945,
+                        "original": 76785
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -84975,6 +85411,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 23,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76621,
+                        "another2": 76661,
+                        "another3": 76701,
+                        "another4": 76741,
+                        "original": 76581
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 23,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76826,
+                        "another2": 76866,
+                        "another3": 76906,
+                        "another4": 76946,
+                        "original": 76786
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "95": {
                 "characterId": 23,
                 "costume3dGroupId": 95,
@@ -90545,6 +91009,34 @@
                         "another3": 76502,
                         "another4": 76542,
                         "original": 76382
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 24,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76622,
+                        "another2": 76662,
+                        "another3": 76702,
+                        "another4": 76742,
+                        "original": 76582
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 24,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76827,
+                        "another2": 76867,
+                        "another3": 76907,
+                        "another4": 76947,
+                        "original": 76787
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -96139,6 +96631,34 @@
                         "another3": 76503,
                         "another4": 76543,
                         "original": 76383
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 25,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76623,
+                        "another2": 76663,
+                        "another3": 76703,
+                        "another4": 76743,
+                        "original": 76583
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 25,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76828,
+                        "another2": 76868,
+                        "another3": 76908,
+                        "another4": 76948,
+                        "original": 76788
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -101757,6 +102277,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 26,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76624,
+                        "another2": 76664,
+                        "another3": 76704,
+                        "another4": 76744,
+                        "original": 76584
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 26,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76829,
+                        "another2": 76869,
+                        "another3": 76909,
+                        "another4": 76949,
+                        "original": 76789
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "98": {
                 "characterId": 26,
                 "costume3dGroupId": 98,
@@ -107335,6 +107883,34 @@
                         "another3": 76505,
                         "another4": 76545,
                         "original": 76385
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 27,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76625,
+                        "another2": 76665,
+                        "another3": 76705,
+                        "another4": 76745,
+                        "original": 76585
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 27,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76830,
+                        "another2": 76870,
+                        "another3": 76910,
+                        "another4": 76950,
+                        "original": 76790
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -112930,6 +113506,34 @@
                     }
                 },
                 "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 28,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76626,
+                        "another2": 76666,
+                        "another3": 76706,
+                        "another4": 76746,
+                        "original": 76586
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 28,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76831,
+                        "another2": 76871,
+                        "another3": 76911,
+                        "another4": 76951,
+                        "original": 76791
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
             }
         }
     },
@@ -118520,6 +119124,34 @@
                     }
                 },
                 "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 29,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76627,
+                        "another2": 76667,
+                        "another3": 76707,
+                        "another4": 76747,
+                        "original": 76587
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 29,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76832,
+                        "another2": 76872,
+                        "another3": 76912,
+                        "another4": 76952,
+                        "original": 76792
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
             }
         }
     },
@@ -124073,6 +124705,34 @@
                         "another3": 76482,
                         "another4": 76522,
                         "original": 76362
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 3,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76602,
+                        "another2": 76642,
+                        "another3": 76682,
+                        "another4": 76722,
+                        "original": 76562
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 3,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76807,
+                        "another2": 76847,
+                        "another3": 76887,
+                        "another4": 76927,
+                        "original": 76767
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -129647,6 +130307,20 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 30,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76628,
+                        "another2": 76668,
+                        "another3": 76708,
+                        "another4": 76748,
+                        "original": 76588
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "66": {
                 "characterId": 30,
                 "costume3dGroupId": 66,
@@ -129660,6 +130334,20 @@
                         "original": 66
                     }
                 }
+            },
+            "661": {
+                "characterId": 30,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76833,
+                        "another2": 76873,
+                        "another3": 76913,
+                        "another4": 76953,
+                        "original": 76793
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
             }
         }
     },
@@ -135233,6 +135921,34 @@
                         "another3": 76509,
                         "another4": 76549,
                         "original": 76389
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 31,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76629,
+                        "another2": 76669,
+                        "another3": 76709,
+                        "another4": 76749,
+                        "original": 76589
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 31,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76834,
+                        "another2": 76874,
+                        "another3": 76914,
+                        "another4": 76954,
+                        "original": 76794
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -140811,6 +141527,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 32,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76630,
+                        "another2": 76670,
+                        "another3": 76710,
+                        "another4": 76750,
+                        "original": 76590
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 32,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76835,
+                        "another2": 76875,
+                        "another3": 76915,
+                        "another4": 76955,
+                        "original": 76795
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "68": {
                 "characterId": 32,
                 "costume3dGroupId": 68,
@@ -146381,6 +147125,34 @@
                         "another3": 76511,
                         "another4": 76551,
                         "original": 76391
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 33,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76631,
+                        "another2": 76671,
+                        "another3": 76711,
+                        "another4": 76751,
+                        "original": 76591
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 33,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76836,
+                        "another2": 76876,
+                        "another3": 76916,
+                        "another4": 76956,
+                        "original": 76796
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -151971,6 +152743,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 34,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76632,
+                        "another2": 76672,
+                        "another3": 76712,
+                        "another4": 76752,
+                        "original": 76592
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 34,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76837,
+                        "another2": 76877,
+                        "another3": 76917,
+                        "another4": 76957,
+                        "original": 76797
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "70": {
                 "characterId": 34,
                 "costume3dGroupId": 70,
@@ -157553,6 +158353,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 35,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76633,
+                        "another2": 76673,
+                        "another3": 76713,
+                        "another4": 76753,
+                        "original": 76593
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 35,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76838,
+                        "another2": 76878,
+                        "another3": 76918,
+                        "another4": 76958,
+                        "original": 76798
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "71": {
                 "characterId": 35,
                 "costume3dGroupId": 71,
@@ -163130,6 +163958,34 @@
                     }
                 },
                 "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 36,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76635,
+                        "another2": 76675,
+                        "another3": 76715,
+                        "another4": 76755,
+                        "original": 76595
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 36,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76840,
+                        "another2": 76880,
+                        "another3": 76920,
+                        "another4": 76960,
+                        "original": 76800
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
             }
         }
     },
@@ -168678,6 +169534,34 @@
                     }
                 },
                 "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 37,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76636,
+                        "another2": 76676,
+                        "another3": 76716,
+                        "another4": 76756,
+                        "original": 76596
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 37,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76841,
+                        "another2": 76881,
+                        "another3": 76921,
+                        "another4": 76961,
+                        "original": 76801
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
             }
         }
     },
@@ -174215,6 +175099,34 @@
                         "another3": 76517,
                         "another4": 76557,
                         "original": 76397
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 38,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76637,
+                        "another2": 76677,
+                        "another3": 76717,
+                        "another4": 76757,
+                        "original": 76597
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 38,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76842,
+                        "another2": 76882,
+                        "another3": 76922,
+                        "another4": 76962,
+                        "original": 76802
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -179763,6 +180675,34 @@
                         "another3": 76518,
                         "another4": 76558,
                         "original": 76398
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 39,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76638,
+                        "another2": 76678,
+                        "another3": 76718,
+                        "another4": 76758,
+                        "original": 76598
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 39,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76843,
+                        "another2": 76883,
+                        "another3": 76923,
+                        "another4": 76963,
+                        "original": 76803
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -185331,6 +186271,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 4,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76603,
+                        "another2": 76643,
+                        "another3": 76683,
+                        "another4": 76723,
+                        "original": 76563
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 4,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76808,
+                        "another2": 76848,
+                        "another3": 76888,
+                        "another4": 76928,
+                        "original": 76768
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "76": {
                 "characterId": 4,
                 "costume3dGroupId": 76,
@@ -190877,6 +191845,34 @@
                         "another3": 76519,
                         "another4": 76559,
                         "original": 76399
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 40,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76639,
+                        "another2": 76679,
+                        "another3": 76719,
+                        "another4": 76759,
+                        "original": 76599
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 40,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76844,
+                        "another2": 76884,
+                        "another3": 76924,
+                        "another4": 76964,
+                        "original": 76804
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -196457,6 +197453,34 @@
                         "another3": 76484,
                         "another4": 76524,
                         "original": 76364
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 5,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76604,
+                        "another2": 76644,
+                        "another3": 76684,
+                        "another4": 76724,
+                        "original": 76564
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 5,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76809,
+                        "another2": 76849,
+                        "another3": 76889,
+                        "another4": 76929,
+                        "original": 76769
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -202071,6 +203095,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 6,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76605,
+                        "another2": 76645,
+                        "another3": 76685,
+                        "another4": 76725,
+                        "original": 76565
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 6,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76810,
+                        "another2": 76850,
+                        "another3": 76890,
+                        "another4": 76930,
+                        "original": 76770
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "78": {
                 "characterId": 6,
                 "costume3dGroupId": 78,
@@ -207657,6 +208709,42 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 601,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76634,
+                        "another2": 76674,
+                        "another3": 76714,
+                        "another4": 76754,
+                        "original": 76594
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 601,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76839,
+                        "another2": 76879,
+                        "another3": 76919,
+                        "another4": 76959,
+                        "original": 76799
+                    }
+                },
+                "hairstyleCharacterColorMap": {
+                    "entries": {
+                        "another1": 1959,
+                        "another2": 1960,
+                        "another3": 1961,
+                        "another4": 1962,
+                        "original": 1958
+                    }
+                }
+            },
             "72": {
                 "characterId": 601,
                 "costume3dGroupId": 72,
@@ -213241,6 +214329,34 @@
                         "another3": 76486,
                         "another4": 76526,
                         "original": 76366
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 7,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76606,
+                        "another2": 76646,
+                        "another3": 76686,
+                        "another4": 76726,
+                        "original": 76566
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 7,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76811,
+                        "another2": 76851,
+                        "another3": 76891,
+                        "another4": 76931,
+                        "original": 76771
                     }
                 },
                 "hairstyleCharacterColorMap": {}
@@ -218839,6 +219955,34 @@
                 },
                 "hairstyleCharacterColorMap": {}
             },
+            "659": {
+                "characterId": 8,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76607,
+                        "another2": 76647,
+                        "another3": 76687,
+                        "another4": 76727,
+                        "original": 76567
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 8,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76812,
+                        "another2": 76852,
+                        "another3": 76892,
+                        "another4": 76932,
+                        "original": 76772
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
             "8": {
                 "characterId": 8,
                 "costume3dGroupId": 8,
@@ -224425,6 +225569,34 @@
                         "another3": 76488,
                         "another4": 76528,
                         "original": 76368
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "659": {
+                "characterId": 9,
+                "costume3dGroupId": 659,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76608,
+                        "another2": 76648,
+                        "another3": 76688,
+                        "another4": 76728,
+                        "original": 76568
+                    }
+                },
+                "hairstyleCharacterColorMap": {}
+            },
+            "661": {
+                "characterId": 9,
+                "costume3dGroupId": 661,
+                "dressCharacterColorMap": {
+                    "entries": {
+                        "another1": 76813,
+                        "another2": 76853,
+                        "another3": 76893,
+                        "another4": 76933,
+                        "original": 76773
                     }
                 },
                 "hairstyleCharacterColorMap": {}

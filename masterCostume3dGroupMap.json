@@ -6846,6 +6846,17 @@
         "situationId": 2448,
         "assetBundleName": "019_cos_live_event_330_ur"
     },
+    "659": {
+        "costume3dGroupId": 659,
+        "costumeName": "なんでも屋さんに！（北沢 はぐみ）",
+        "seq": 6590,
+        "costumeTargetType": "character",
+        "ownerCharacterId": 13,
+        "bandId": 0,
+        "publishedAt": 1779343200000,
+        "situationId": 2452,
+        "assetBundleName": "013_cos_live_event_331_ur"
+    },
     "66": {
         "costume3dGroupId": 66,
         "costumeName": "イノセントフラップ（八潮 瑠唯）",
@@ -6856,6 +6867,40 @@
         "publishedAt": 1677639600000,
         "situationId": 0,
         "assetBundleName": "030_cos_live_default"
+    },
+    "660": {
+        "costume3dGroupId": 660,
+        "costumeName": "なんでも屋さんに！（北沢 はぐみ）",
+        "seq": 6600,
+        "costumeTargetType": "character",
+        "ownerCharacterId": 15,
+        "bandId": 0,
+        "publishedAt": 1779343200000,
+        "situationId": 2452,
+        "assetBundleName": "015_cos_live_event_331_013_ur",
+        "parentCostume3dGroup": 659
+    },
+    "661": {
+        "costume3dGroupId": 661,
+        "costumeName": "泣き顔、２人分（奥沢 美咲）",
+        "seq": 6610,
+        "costumeTargetType": "character",
+        "ownerCharacterId": 601,
+        "bandId": 0,
+        "publishedAt": 1779343200000,
+        "situationId": 2453,
+        "assetBundleName": "601_cos_live_event_331_ur"
+    },
+    "662": {
+        "costume3dGroupId": 662,
+        "costumeName": "泣き顔、２人分（ミッシェル）",
+        "seq": 6620,
+        "costumeTargetType": "character",
+        "ownerCharacterId": 15,
+        "bandId": 0,
+        "publishedAt": 1779343200000,
+        "situationId": 2453,
+        "assetBundleName": "015_cos_live_event_331_ur"
     },
     "67": {
         "costume3dGroupId": 67,

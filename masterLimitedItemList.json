@@ -982,5 +982,13 @@
         "description": "説明",
         "unitName": "個",
         "resourceName": "gacha_piece_1369"
+    },
+    {
+        "limitedItemId": 127,
+        "seq": 1,
+        "limitedItemName": "そよ誕生日記念ピース",
+        "description": "説明",
+        "unitName": "個",
+        "resourceName": "gacha_piece_1369"
     }
 ]

@@ -390,7 +390,7 @@
     {
         "specialStoryPageId": 12,
         "publishedAt": 1779116400000,
-        "closedAt": 1779202799000,
+        "closedAt": 1779289199000,
         "assetBundleName": "story_playback",
         "bgmAssetBundleName": "sound/scenario/bgm/20_livelobby",
         "bgmFileName": "20_LiveLobby",
@@ -402,7 +402,27 @@
                     "transitionMethod": "birthday_story",
                     "transitionId": 280,
                     "publishedAt": 1779116400000,
-                    "closedAt": 1779202799000
+                    "closedAt": 1779289199000
+                }
+            ]
+        }
+    },
+    {
+        "specialStoryPageId": 13,
+        "publishedAt": 1779807600000,
+        "closedAt": 1779893999000,
+        "assetBundleName": "story_playback",
+        "bgmAssetBundleName": "sound/scenario/bgm/20_livelobby",
+        "bgmFileName": "20_LiveLobby",
+        "details": {
+            "entries": [
+                {
+                    "specialStoryPageId": 13,
+                    "seq": 11,
+                    "transitionMethod": "birthday_story",
+                    "transitionId": 281,
+                    "publishedAt": 1779807600000,
+                    "closedAt": 1779893999000
                 }
             ]
         }

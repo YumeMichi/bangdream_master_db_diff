@@ -15479,6 +15479,106 @@
             }
         ]
     },
+    "1953": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[なんでも屋さんに！]北沢 はぐみを獲得！"
+            }
+        ]
+    },
+    "1954": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[なんでも屋さんに！]北沢 はぐみを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[なんでも屋さんに！]北沢 はぐみのマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1955": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[なんでも屋さんに！]北沢 はぐみを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[なんでも屋さんに！]北沢 はぐみのマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1956": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[なんでも屋さんに！]北沢 はぐみを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[なんでも屋さんに！]北沢 はぐみのマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1957": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[なんでも屋さんに！]北沢 はぐみを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[なんでも屋さんに！]北沢 はぐみのマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1958": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            }
+        ]
+    },
+    "1959": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
     "196": {
         "entries": [
             {
@@ -15486,6 +15586,128 @@
                 "conditionType": "gacha",
                 "value": 1108,
                 "description": "ガチャでメンバー[もう制服を着ない朝]今井 リサを獲得！"
+            }
+        ]
+    },
+    "1960": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1961": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1962": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1963": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            }
+        ]
+    },
+    "1964": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1965": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1966": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1967": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1850,
+                "description": "ガチャでメンバー[泣き顔、２人分]奥沢 美咲を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[泣き顔、２人分]奥沢 美咲のマスターランクを4にして衣装を獲得！"
             }
         ]
     },

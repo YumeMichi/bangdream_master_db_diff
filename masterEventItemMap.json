@@ -1768,6 +1768,13 @@
         "resourceName": "icon_eventbadge_green",
         "description": "君と一緒に！パスパレ全国ツアー！"
     },
+    "324": {
+        "eventItemId": 324,
+        "eventId": 331,
+        "itemName": "レッドバッジ",
+        "resourceName": "icon_eventbadge_red",
+        "description": "ハロー・スマイル♡なんでも屋さん★"
+    },
     "33": {
         "eventItemId": 33,
         "eventId": 40,
