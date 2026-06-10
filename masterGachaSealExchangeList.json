@@ -57158,5 +57158,1035 @@
         "gachaSealExchangeId": 238,
         "seq": 3,
         "situationId": 2456
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 8,
+        "situationId": 4
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 9,
+        "situationId": 8
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 10,
+        "situationId": 12
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 11,
+        "situationId": 16
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 12,
+        "situationId": 20
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 13,
+        "situationId": 102
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 14,
+        "situationId": 118
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 15,
+        "situationId": 122
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 16,
+        "situationId": 171
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 17,
+        "situationId": 333
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 18,
+        "situationId": 334
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 19,
+        "situationId": 425
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 20,
+        "situationId": 426
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 21,
+        "situationId": 457
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 22,
+        "situationId": 490
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 23,
+        "situationId": 491
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 24,
+        "situationId": 522
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 25,
+        "situationId": 552
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 26,
+        "situationId": 553
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 27,
+        "situationId": 599
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 28,
+        "situationId": 614
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 29,
+        "situationId": 615
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 30,
+        "situationId": 666
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 31,
+        "situationId": 713
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 32,
+        "situationId": 718
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 33,
+        "situationId": 719
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 34,
+        "situationId": 790
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 35,
+        "situationId": 819
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 36,
+        "situationId": 832
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 37,
+        "situationId": 833
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 38,
+        "situationId": 853
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 39,
+        "situationId": 868
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 40,
+        "situationId": 939
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 41,
+        "situationId": 972
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 42,
+        "situationId": 1056
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 43,
+        "situationId": 1057
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 44,
+        "situationId": 1163
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 45,
+        "situationId": 1164
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 46,
+        "situationId": 1317
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 47,
+        "situationId": 1347
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 48,
+        "situationId": 1348
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 49,
+        "situationId": 1488
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 50,
+        "situationId": 1489
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 51,
+        "situationId": 1542
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 52,
+        "situationId": 1543
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 53,
+        "situationId": 1622
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 54,
+        "situationId": 1623
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 55,
+        "situationId": 1673
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 56,
+        "situationId": 1674
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 57,
+        "situationId": 1685
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 58,
+        "situationId": 1729
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 59,
+        "situationId": 1773
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 60,
+        "situationId": 1800
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 61,
+        "situationId": 1844
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 62,
+        "situationId": 1861
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 63,
+        "situationId": 1964
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 64,
+        "situationId": 2004
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 6,
+        "situationId": 2032
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 7,
+        "situationId": 2033
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 65,
+        "situationId": 2055
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 66,
+        "situationId": 2094
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 67,
+        "situationId": 2168
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 68,
+        "situationId": 2223
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 69,
+        "situationId": 2303
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 70,
+        "situationId": 2392
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 3,
+        "situationId": 2457
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 4,
+        "situationId": 2458
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 5,
+        "situationId": 2461
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 1,
+        "situationId": 2462
+    },
+    {
+        "gachaSealExchangeId": 239,
+        "seq": 2,
+        "situationId": 2463
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 4,
+        "situationId": 4
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 5,
+        "situationId": 8
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 6,
+        "situationId": 12
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 7,
+        "situationId": 16
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 8,
+        "situationId": 20
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 9,
+        "situationId": 102
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 10,
+        "situationId": 118
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 11,
+        "situationId": 122
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 12,
+        "situationId": 171
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 13,
+        "situationId": 333
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 14,
+        "situationId": 334
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 15,
+        "situationId": 425
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 16,
+        "situationId": 426
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 17,
+        "situationId": 457
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 18,
+        "situationId": 490
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 19,
+        "situationId": 491
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 20,
+        "situationId": 522
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 21,
+        "situationId": 552
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 22,
+        "situationId": 553
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 23,
+        "situationId": 599
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 24,
+        "situationId": 614
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 25,
+        "situationId": 615
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 26,
+        "situationId": 666
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 27,
+        "situationId": 713
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 28,
+        "situationId": 718
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 29,
+        "situationId": 719
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 30,
+        "situationId": 790
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 31,
+        "situationId": 819
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 32,
+        "situationId": 832
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 33,
+        "situationId": 833
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 34,
+        "situationId": 853
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 35,
+        "situationId": 868
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 36,
+        "situationId": 939
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 37,
+        "situationId": 972
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 38,
+        "situationId": 1056
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 39,
+        "situationId": 1057
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 40,
+        "situationId": 1163
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 41,
+        "situationId": 1164
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 42,
+        "situationId": 1317
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 43,
+        "situationId": 1347
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 44,
+        "situationId": 1348
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 45,
+        "situationId": 1488
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 46,
+        "situationId": 1489
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 47,
+        "situationId": 1542
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 48,
+        "situationId": 1543
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 49,
+        "situationId": 1622
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 50,
+        "situationId": 1623
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 51,
+        "situationId": 1673
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 52,
+        "situationId": 1674
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 53,
+        "situationId": 1685
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 54,
+        "situationId": 1729
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 55,
+        "situationId": 1773
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 56,
+        "situationId": 1800
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 57,
+        "situationId": 1844
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 58,
+        "situationId": 1861
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 59,
+        "situationId": 1964
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 60,
+        "situationId": 2004
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 61,
+        "situationId": 2055
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 62,
+        "situationId": 2094
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 63,
+        "situationId": 2168
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 64,
+        "situationId": 2223
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 65,
+        "situationId": 2303
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 66,
+        "situationId": 2392
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 1,
+        "situationId": 2457
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 2,
+        "situationId": 2458
+    },
+    {
+        "gachaSealExchangeId": 240,
+        "seq": 3,
+        "situationId": 2461
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 4,
+        "situationId": 106
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 5,
+        "situationId": 146
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 6,
+        "situationId": 152
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 7,
+        "situationId": 157
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 8,
+        "situationId": 256
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 9,
+        "situationId": 281
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 10,
+        "situationId": 363
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 11,
+        "situationId": 364
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 12,
+        "situationId": 410
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 13,
+        "situationId": 411
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 14,
+        "situationId": 437
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 15,
+        "situationId": 438
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 16,
+        "situationId": 481
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 17,
+        "situationId": 523
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 18,
+        "situationId": 528
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 19,
+        "situationId": 547
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 20,
+        "situationId": 548
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 21,
+        "situationId": 573
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 22,
+        "situationId": 604
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 23,
+        "situationId": 605
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 24,
+        "situationId": 667
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 25,
+        "situationId": 676
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 26,
+        "situationId": 708
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 27,
+        "situationId": 709
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 28,
+        "situationId": 724
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 29,
+        "situationId": 753
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 30,
+        "situationId": 754
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 31,
+        "situationId": 766
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 32,
+        "situationId": 780
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 33,
+        "situationId": 838
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 34,
+        "situationId": 847
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 35,
+        "situationId": 848
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 36,
+        "situationId": 940
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 37,
+        "situationId": 1014
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 38,
+        "situationId": 1039
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 39,
+        "situationId": 1040
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 40,
+        "situationId": 1104
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 41,
+        "situationId": 1105
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 42,
+        "situationId": 1174
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 43,
+        "situationId": 1175
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 44,
+        "situationId": 1181
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 45,
+        "situationId": 1217
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 46,
+        "situationId": 1218
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 47,
+        "situationId": 1297
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 48,
+        "situationId": 1367
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 49,
+        "situationId": 1494
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 50,
+        "situationId": 1495
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 51,
+        "situationId": 1499
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 52,
+        "situationId": 1531
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 53,
+        "situationId": 1582
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 54,
+        "situationId": 1583
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 55,
+        "situationId": 1626
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 56,
+        "situationId": 1640
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 57,
+        "situationId": 1641
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 58,
+        "situationId": 1689
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 59,
+        "situationId": 1690
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 60,
+        "situationId": 1734
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 61,
+        "situationId": 1876
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 62,
+        "situationId": 1950
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 63,
+        "situationId": 2009
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 64,
+        "situationId": 2021
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 65,
+        "situationId": 2076
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 66,
+        "situationId": 2196
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 67,
+        "situationId": 2257
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 68,
+        "situationId": 2313
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 69,
+        "situationId": 2330
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 70,
+        "situationId": 2402
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 1,
+        "situationId": 2464
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 2,
+        "situationId": 2465
+    },
+    {
+        "gachaSealExchangeId": 241,
+        "seq": 3,
+        "situationId": 2468
     }
 ]

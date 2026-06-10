@@ -17051,17 +17051,629 @@
         "type": "ex_mission"
     },
     {
-        "missionGroupId": 1063,
+        "missionGroupId": 580,
         "missionResetType": "none",
-        "startAt": 1778392800000,
-        "endAt": 1779191999000,
-        "rewardEndAt": 1779343199000,
-        "eventId": 330,
+        "startAt": 1780207200000,
+        "endAt": 1781935199000,
+        "rewardEndAt": 1781935199000,
+        "tabLabel": "期間限定",
+        "missionList": {
+            "entries": [
+                {
+                    "missionId": 10000752,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 10,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Poppin'Partyの楽曲を1回クリアしよう",
+                                "description": "Poppin'Partyの楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200005,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000753,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 20,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Poppin'Partyの楽曲を2回クリアしよう",
+                                "description": "Poppin'Partyの楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200005,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000754,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 30,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Poppin'Partyの楽曲を3回クリアしよう",
+                                "description": "Poppin'Partyの楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200005,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 39,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000755,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 40,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Afterglowの楽曲を1回クリアしよう",
+                                "description": "Afterglowの楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200006,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000756,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 50,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Afterglowの楽曲を2回クリアしよう",
+                                "description": "Afterglowの楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200006,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000757,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 60,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Afterglowの楽曲を3回クリアしよう",
+                                "description": "Afterglowの楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200006,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 40,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000758,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 70,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Pastel＊Palettesの楽曲を1回クリアしよう",
+                                "description": "Pastel＊Palettesの楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200007,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000759,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 80,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Pastel＊Palettesの楽曲を2回クリアしよう",
+                                "description": "Pastel＊Palettesの楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200007,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000760,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 90,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Pastel＊Palettesの楽曲を3回クリアしよう",
+                                "description": "Pastel＊Palettesの楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200007,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 42,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000761,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 100,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Roseliaの楽曲を1回クリアしよう",
+                                "description": "Roseliaの楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200008,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000762,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 110,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Roseliaの楽曲を2回クリアしよう",
+                                "description": "Roseliaの楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200008,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000763,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 120,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Roseliaの楽曲を3回クリアしよう",
+                                "description": "Roseliaの楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200008,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 43,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000764,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 130,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "ハロー、ハッピーワールド！の楽曲を1回クリアしよう",
+                                "description": "ハロー、ハッピーワールド！の楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200009,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000765,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 140,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "ハロー、ハッピーワールド！の楽曲を2回クリアしよう",
+                                "description": "ハロー、ハッピーワールド！の楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200009,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000766,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 150,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "ハロー、ハッピーワールド！の楽曲を3回クリアしよう",
+                                "description": "ハロー、ハッピーワールド！の楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200009,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 41,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000767,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 160,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Morfonicaの楽曲を1回クリアしよう",
+                                "description": "Morfonicaの楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200001,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000768,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 170,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Morfonicaの楽曲を2回クリアしよう",
+                                "description": "Morfonicaの楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200001,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000769,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 180,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "Morfonicaの楽曲を3回クリアしよう",
+                                "description": "Morfonicaの楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200001,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 44,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000770,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 190,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "RAISE A SUILENの楽曲を1回クリアしよう",
+                                "description": "RAISE A SUILENの楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200021,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000771,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 200,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "RAISE A SUILENの楽曲を2回クリアしよう",
+                                "description": "RAISE A SUILENの楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200021,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000772,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 210,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "RAISE A SUILENの楽曲を3回クリアしよう",
+                                "description": "RAISE A SUILENの楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200021,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 50,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000773,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 220,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "MyGO!!!!!の楽曲を1回クリアしよう",
+                                "description": "MyGO!!!!!の楽曲を1回クリアしよう",
+                                "maxProgress": 1,
+                                "valueId": 200241,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 7,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000774,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 230,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "MyGO!!!!!の楽曲を2回クリアしよう",
+                                "description": "MyGO!!!!!の楽曲を2回クリアしよう",
+                                "maxProgress": 2,
+                                "valueId": 200241,
+                                "reward": {
+                                    "resourceType": "costume_3d_making_item",
+                                    "resourceId": 1,
+                                    "quantity": 30
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000775,
+                    "transitionMethod": "live",
+                    "transitionId": 0,
+                    "seq": 240,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "MyGO!!!!!の楽曲を3回クリアしよう",
+                                "description": "MyGO!!!!!の楽曲を3回クリアしよう",
+                                "maxProgress": 3,
+                                "valueId": 200241,
+                                "reward": {
+                                    "resourceType": "practice_ticket",
+                                    "resourceId": 56,
+                                    "quantity": 1
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 30
+                },
+                {
+                    "missionId": 10000776,
+                    "transitionMethod": "none",
+                    "transitionId": 0,
+                    "seq": 250,
+                    "detailList": {
+                        "entries": [
+                            {
+                                "seq": 1,
+                                "title": "雨の日はおうちでガルパ♪楽曲ミッションをすべてクリアしよう",
+                                "description": "雨の日はおうちでガルパ♪楽曲ミッションをすべてクリアしよう",
+                                "maxProgress": 24,
+                                "reward": {
+                                    "resourceType": "item",
+                                    "resourceId": 14,
+                                    "quantity": 50
+                                }
+                            }
+                        ]
+                    },
+                    "labelText": "期間限定",
+                    "typeIndex": 44
+                }
+            ]
+        },
+        "type": "limited"
+    },
+    {
+        "missionGroupId": 1064,
+        "missionResetType": "none",
+        "startAt": 1781071200000,
+        "endAt": 1781870399000,
+        "rewardEndAt": 1782021599000,
+        "eventId": 333,
         "tabLabel": "イベント",
         "missionList": {
             "entries": [
                 {
-                    "missionId": 10397,
+                    "missionId": 10402,
                     "transitionMethod": "normal_music_select",
                     "transitionId": 0,
                     "seq": 10,
@@ -17069,10 +17681,10 @@
                         "entries": [
                             {
                                 "seq": 1,
-                                "title": "楽曲「Come to see YOU!!」を1回クリアしよう",
-                                "description": "楽曲「Come to see YOU!!」を1回クリアしよう",
+                                "title": "楽曲「who we aRe」を1回クリアしよう",
+                                "description": "楽曲「who we aRe」を1回クリアしよう",
                                 "maxProgress": 1,
-                                "valueId": 10110,
+                                "valueId": 10111,
                                 "reward": {
                                     "resourceType": "star",
                                     "resourceId": 0,
@@ -17081,10 +17693,10 @@
                             },
                             {
                                 "seq": 2,
-                                "title": "楽曲「Come to see YOU!!」を3回クリアしよう",
-                                "description": "楽曲「Come to see YOU!!」を3回クリアしよう",
+                                "title": "楽曲「who we aRe」を3回クリアしよう",
+                                "description": "楽曲「who we aRe」を3回クリアしよう",
                                 "maxProgress": 3,
-                                "valueId": 10110,
+                                "valueId": 10111,
                                 "reward": {
                                     "resourceType": "practice_ticket",
                                     "resourceId": 4,
@@ -17093,10 +17705,10 @@
                             },
                             {
                                 "seq": 3,
-                                "title": "楽曲「Come to see YOU!!」を5回クリアしよう",
-                                "description": "楽曲「Come to see YOU!!」を5回クリアしよう",
+                                "title": "楽曲「who we aRe」を5回クリアしよう",
+                                "description": "楽曲「who we aRe」を5回クリアしよう",
                                 "maxProgress": 5,
-                                "valueId": 10110,
+                                "valueId": 10111,
                                 "reward": {
                                     "resourceType": "practice_ticket",
                                     "resourceId": 4,
@@ -17108,7 +17720,7 @@
                     "typeIndex": 28
                 },
                 {
-                    "missionId": 10398,
+                    "missionId": 10403,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 20,
@@ -17152,7 +17764,7 @@
                     "typeIndex": 31
                 },
                 {
-                    "missionId": 10399,
+                    "missionId": 10404,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 30,
@@ -17251,7 +17863,7 @@
                     "typeIndex": 40
                 },
                 {
-                    "missionId": 10400,
+                    "missionId": 10405,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 40,
@@ -17372,7 +17984,7 @@
                     "typeIndex": 32
                 },
                 {
-                    "missionId": 10401,
+                    "missionId": 10406,
                     "transitionMethod": "live",
                     "transitionId": 0,
                     "seq": 50,

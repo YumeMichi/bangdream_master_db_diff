@@ -10749,6 +10749,26 @@
         "shortAttentionMessage": "3Dヘア・アクセ（ミッシェル）",
         "costume3dColorId": 2442
     },
+    "1968": {
+        "costume3dHairstyleId": 1968,
+        "characterId": 4,
+        "costume3dGroupId": 663,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "山吹 沙綾専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（山吹 沙綾）",
+        "costume3dColorId": 2443
+    },
+    "1969": {
+        "costume3dHairstyleId": 1969,
+        "characterId": 4,
+        "costume3dGroupId": 663,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "山吹 沙綾専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（山吹 沙綾）",
+        "costume3dColorId": 2444
+    },
     "197": {
         "costume3dHairstyleId": 197,
         "characterId": 23,
@@ -10758,6 +10778,106 @@
         "attentionMessage": "今井 リサ専用の3Dヘア・アクセです。",
         "shortAttentionMessage": "3Dヘア・アクセ（今井 リサ）",
         "costume3dColorId": 207
+    },
+    "1970": {
+        "costume3dHairstyleId": 1970,
+        "characterId": 4,
+        "costume3dGroupId": 663,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "山吹 沙綾専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（山吹 沙綾）",
+        "costume3dColorId": 2445
+    },
+    "1971": {
+        "costume3dHairstyleId": 1971,
+        "characterId": 4,
+        "costume3dGroupId": 663,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "山吹 沙綾専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（山吹 沙綾）",
+        "costume3dColorId": 2446
+    },
+    "1972": {
+        "costume3dHairstyleId": 1972,
+        "characterId": 4,
+        "costume3dGroupId": 663,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "山吹 沙綾専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（山吹 沙綾）",
+        "costume3dColorId": 2447
+    },
+    "1973": {
+        "costume3dHairstyleId": 1973,
+        "characterId": 2,
+        "costume3dGroupId": 664,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "花園 たえ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（花園 たえ）",
+        "costume3dColorId": 2448
+    },
+    "1974": {
+        "costume3dHairstyleId": 1974,
+        "characterId": 2,
+        "costume3dGroupId": 664,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "花園 たえ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（花園 たえ）",
+        "costume3dColorId": 2449
+    },
+    "1975": {
+        "costume3dHairstyleId": 1975,
+        "characterId": 2,
+        "costume3dGroupId": 664,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "花園 たえ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（花園 たえ）",
+        "costume3dColorId": 2450
+    },
+    "1976": {
+        "costume3dHairstyleId": 1976,
+        "characterId": 2,
+        "costume3dGroupId": 664,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "花園 たえ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（花園 たえ）",
+        "costume3dColorId": 2451
+    },
+    "1977": {
+        "costume3dHairstyleId": 1977,
+        "characterId": 2,
+        "costume3dGroupId": 664,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "花園 たえ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（花園 たえ）",
+        "costume3dColorId": 2452
+    },
+    "1978": {
+        "costume3dHairstyleId": 1978,
+        "characterId": 24,
+        "costume3dGroupId": 665,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "宇田川 あこ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（宇田川 あこ）",
+        "costume3dColorId": 2453
+    },
+    "1979": {
+        "costume3dHairstyleId": 1979,
+        "characterId": 24,
+        "costume3dGroupId": 665,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "宇田川 あこ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（宇田川 あこ）",
+        "costume3dColorId": 2454
     },
     "198": {
         "costume3dHairstyleId": 198,
@@ -10769,6 +10889,106 @@
         "shortAttentionMessage": "3Dヘア・アクセ（今井 リサ）",
         "costume3dColorId": 208
     },
+    "1980": {
+        "costume3dHairstyleId": 1980,
+        "characterId": 24,
+        "costume3dGroupId": 665,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "宇田川 あこ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（宇田川 あこ）",
+        "costume3dColorId": 2455
+    },
+    "1981": {
+        "costume3dHairstyleId": 1981,
+        "characterId": 24,
+        "costume3dGroupId": 665,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "宇田川 あこ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（宇田川 あこ）",
+        "costume3dColorId": 2456
+    },
+    "1982": {
+        "costume3dHairstyleId": 1982,
+        "characterId": 24,
+        "costume3dGroupId": 665,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "宇田川 あこ専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（宇田川 あこ）",
+        "costume3dColorId": 2457
+    },
+    "1983": {
+        "costume3dHairstyleId": 1983,
+        "characterId": 28,
+        "costume3dGroupId": 666,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "広町 七深専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（広町 七深）",
+        "costume3dColorId": 2458
+    },
+    "1984": {
+        "costume3dHairstyleId": 1984,
+        "characterId": 28,
+        "costume3dGroupId": 666,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "広町 七深専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（広町 七深）",
+        "costume3dColorId": 2459
+    },
+    "1985": {
+        "costume3dHairstyleId": 1985,
+        "characterId": 28,
+        "costume3dGroupId": 666,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "広町 七深専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（広町 七深）",
+        "costume3dColorId": 2460
+    },
+    "1986": {
+        "costume3dHairstyleId": 1986,
+        "characterId": 28,
+        "costume3dGroupId": 666,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "広町 七深専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（広町 七深）",
+        "costume3dColorId": 2461
+    },
+    "1987": {
+        "costume3dHairstyleId": 1987,
+        "characterId": 28,
+        "costume3dGroupId": 666,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "広町 七深専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（広町 七深）",
+        "costume3dColorId": 2462
+    },
+    "1988": {
+        "costume3dHairstyleId": 1988,
+        "characterId": 21,
+        "costume3dGroupId": 669,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "湊 友希那専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（湊 友希那）",
+        "costume3dColorId": 2473
+    },
+    "1989": {
+        "costume3dHairstyleId": 1989,
+        "characterId": 21,
+        "costume3dGroupId": 669,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "湊 友希那専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（湊 友希那）",
+        "costume3dColorId": 2474
+    },
     "199": {
         "costume3dHairstyleId": 199,
         "characterId": 23,
@@ -10778,6 +10998,86 @@
         "attentionMessage": "今井 リサ専用の3Dヘア・アクセです。",
         "shortAttentionMessage": "3Dヘア・アクセ（今井 リサ）",
         "costume3dColorId": 209
+    },
+    "1990": {
+        "costume3dHairstyleId": 1990,
+        "characterId": 21,
+        "costume3dGroupId": 669,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "湊 友希那専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（湊 友希那）",
+        "costume3dColorId": 2475
+    },
+    "1991": {
+        "costume3dHairstyleId": 1991,
+        "characterId": 21,
+        "costume3dGroupId": 669,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "湊 友希那専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（湊 友希那）",
+        "costume3dColorId": 2476
+    },
+    "1992": {
+        "costume3dHairstyleId": 1992,
+        "characterId": 21,
+        "costume3dGroupId": 669,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "湊 友希那専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（湊 友希那）",
+        "costume3dColorId": 2477
+    },
+    "1993": {
+        "costume3dHairstyleId": 1993,
+        "characterId": 22,
+        "costume3dGroupId": 670,
+        "colorType": "original",
+        "colorName": "オリジナル",
+        "attentionMessage": "氷川 紗夜専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（氷川 紗夜）",
+        "costume3dColorId": 2478
+    },
+    "1994": {
+        "costume3dHairstyleId": 1994,
+        "characterId": 22,
+        "costume3dGroupId": 670,
+        "colorType": "another1",
+        "colorName": "アナザー1",
+        "attentionMessage": "氷川 紗夜専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（氷川 紗夜）",
+        "costume3dColorId": 2479
+    },
+    "1995": {
+        "costume3dHairstyleId": 1995,
+        "characterId": 22,
+        "costume3dGroupId": 670,
+        "colorType": "another2",
+        "colorName": "アナザー2",
+        "attentionMessage": "氷川 紗夜専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（氷川 紗夜）",
+        "costume3dColorId": 2480
+    },
+    "1996": {
+        "costume3dHairstyleId": 1996,
+        "characterId": 22,
+        "costume3dGroupId": 670,
+        "colorType": "another3",
+        "colorName": "アナザー3",
+        "attentionMessage": "氷川 紗夜専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（氷川 紗夜）",
+        "costume3dColorId": 2481
+    },
+    "1997": {
+        "costume3dHairstyleId": 1997,
+        "characterId": 22,
+        "costume3dGroupId": 670,
+        "colorType": "another4",
+        "colorName": "アナザー4",
+        "attentionMessage": "氷川 紗夜専用の3Dヘア・アクセです。",
+        "shortAttentionMessage": "3Dヘア・アクセ（氷川 紗夜）",
+        "costume3dColorId": 2482
     },
     "2": {
         "costume3dHairstyleId": 2,

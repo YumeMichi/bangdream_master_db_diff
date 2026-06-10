@@ -4387,6 +4387,56 @@
         "withVoice": true,
         "voiceName": "stamp_013017"
     },
+    "584": {
+        "stampId": 584,
+        "seq": 584,
+        "imageName": "stamp_002013",
+        "stampType": "rare",
+        "publishedAt": 1780207200000,
+        "withVoice": true,
+        "voiceName": "stamp_002013"
+    },
+    "585": {
+        "stampId": 585,
+        "seq": 585,
+        "imageName": "stamp_009015",
+        "stampType": "rare",
+        "publishedAt": 1780552800000,
+        "withVoice": false
+    },
+    "586": {
+        "stampId": 586,
+        "seq": 586,
+        "imageName": "stamp_015016",
+        "stampType": "rare",
+        "publishedAt": 1780552800000,
+        "withVoice": false
+    },
+    "587": {
+        "stampId": 587,
+        "seq": 587,
+        "imageName": "stamp_021019",
+        "stampType": "rare",
+        "publishedAt": 1780552800000,
+        "withVoice": false
+    },
+    "588": {
+        "stampId": 588,
+        "seq": 588,
+        "imageName": "stamp_025015",
+        "stampType": "rare",
+        "publishedAt": 1780552800000,
+        "withVoice": false
+    },
+    "589": {
+        "stampId": 589,
+        "seq": 589,
+        "imageName": "stamp_022014",
+        "stampType": "rare",
+        "publishedAt": 1781071200000,
+        "withVoice": true,
+        "voiceName": "stamp_022014"
+    },
     "6": {
         "stampId": 6,
         "seq": 6,

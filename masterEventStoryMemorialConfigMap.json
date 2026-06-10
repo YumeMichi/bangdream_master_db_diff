@@ -4209,6 +4209,40 @@
         "seasonType": "season_3",
         "eventPublicEndAt": 1780207199000
     },
+    "332": {
+        "eventId": 332,
+        "bandId": 1,
+        "imageFileName": "banner_memorial_event332",
+        "publishedAt": 1781071200000,
+        "eventStoryMemorialReleaseConditionId": 1,
+        "characterIdList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "musicId": 801,
+        "seasonType": "season_3",
+        "eventPublicEndAt": 1781071199000
+    },
+    "333": {
+        "eventId": 333,
+        "bandId": 5,
+        "imageFileName": "banner_memorial_event333",
+        "publishedAt": 1782021600000,
+        "eventStoryMemorialReleaseConditionId": 5,
+        "characterIdList": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "musicId": 802,
+        "seasonType": "season_3",
+        "eventPublicEndAt": 1782021599000
+    },
     "34": {
         "eventId": 34,
         "bandId": 4,

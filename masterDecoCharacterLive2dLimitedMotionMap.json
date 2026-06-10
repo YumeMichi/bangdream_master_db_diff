@@ -1484,6 +1484,28 @@
             }
         ]
     },
+    "2376": {
+        "entries": [
+            {
+                "costumeId": 2376,
+                "motionId": 19,
+                "motion": "smile02",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
+    "2377": {
+        "entries": [
+            {
+                "costumeId": 2377,
+                "motionId": 6,
+                "motion": "smile01",
+                "voice": "voice",
+                "description": "特別モーション"
+            }
+        ]
+    },
     "421": {
         "entries": [
             {

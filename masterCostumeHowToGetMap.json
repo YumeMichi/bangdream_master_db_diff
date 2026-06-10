@@ -13949,6 +13949,46 @@
             }
         ]
     },
+    "2376": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[あの頃のぬくもり]山吹 沙綾を獲得！"
+            }
+        ]
+    },
+    "2377": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[熱血リハーサル]花園 たえを獲得！"
+            }
+        ]
+    },
+    "2378": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 332,
+                "description": "イベントでメンバー[歩みに触れて]牛込 りみを獲得！"
+            }
+        ]
+    },
+    "2379": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 332,
+                "description": "イベントでメンバー[ホワイトブライダル]戸山 香澄を獲得！"
+            }
+        ]
+    },
     "238": {
         "entries": [
             {
@@ -13956,6 +13996,86 @@
                 "conditionType": "gacha",
                 "value": 182,
                 "description": "ガチャでメンバー[最高のステージに！]戸山 香澄を獲得！"
+            }
+        ]
+    },
+    "2380": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[１００％を目指して]市ヶ谷 有咲を獲得！"
+            }
+        ]
+    },
+    "2381": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[NEAR FUTURE]宇田川 あこを獲得！"
+            }
+        ]
+    },
+    "2382": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[泡沫の夢]広町 七深を獲得！"
+            }
+        ]
+    },
+    "2383": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの音楽]湊 友希那を獲得！"
+            }
+        ]
+    },
+    "2384": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの距離]氷川 紗夜を獲得！"
+            }
+        ]
+    },
+    "2385": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 333,
+                "description": "イベントでメンバー[最高のセトリを！]宇田川 あこを獲得！"
+            }
+        ]
+    },
+    "2386": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "event_reward",
+                "value": 333,
+                "description": "イベントでメンバー[ピュア・ノーブル]白金 燐子を獲得！"
+            }
+        ]
+    },
+    "2387": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[約束の場所]今井 リサを獲得！"
             }
         ]
     },

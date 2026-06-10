@@ -15711,6 +15711,32 @@
             }
         ]
     },
+    "1968": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[あの頃のぬくもり]山吹 沙綾を獲得！"
+            }
+        ]
+    },
+    "1969": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[あの頃のぬくもり]山吹 沙綾を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[あの頃のぬくもり]山吹 沙綾のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
     "197": {
         "entries": [
             {
@@ -15724,6 +15750,154 @@
                 "conditionType": "limit_break",
                 "value": 1,
                 "description": "[もう制服を着ない朝]今井 リサのマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1970": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[あの頃のぬくもり]山吹 沙綾を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[あの頃のぬくもり]山吹 沙綾のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1971": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[あの頃のぬくもり]山吹 沙綾を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[あの頃のぬくもり]山吹 沙綾のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1972": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[あの頃のぬくもり]山吹 沙綾を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[あの頃のぬくもり]山吹 沙綾のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1973": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[熱血リハーサル]花園 たえを獲得！"
+            }
+        ]
+    },
+    "1974": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[熱血リハーサル]花園 たえを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[熱血リハーサル]花園 たえのマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1975": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[熱血リハーサル]花園 たえを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[熱血リハーサル]花園 たえのマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1976": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[熱血リハーサル]花園 たえを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[熱血リハーサル]花園 たえのマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1977": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1861,
+                "description": "ガチャでメンバー[熱血リハーサル]花園 たえを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[熱血リハーサル]花園 たえのマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1978": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[NEAR FUTURE]宇田川 あこを獲得！"
+            }
+        ]
+    },
+    "1979": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[NEAR FUTURE]宇田川 あこを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[NEAR FUTURE]宇田川 あこのマスターランクを1にして衣装を獲得！"
             }
         ]
     },
@@ -15743,6 +15917,154 @@
             }
         ]
     },
+    "1980": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[NEAR FUTURE]宇田川 あこを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[NEAR FUTURE]宇田川 あこのマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1981": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[NEAR FUTURE]宇田川 あこを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[NEAR FUTURE]宇田川 あこのマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1982": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[NEAR FUTURE]宇田川 あこを獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[NEAR FUTURE]宇田川 あこのマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1983": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[泡沫の夢]広町 七深を獲得！"
+            }
+        ]
+    },
+    "1984": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[泡沫の夢]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[泡沫の夢]広町 七深のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1985": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[泡沫の夢]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[泡沫の夢]広町 七深のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1986": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[泡沫の夢]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[泡沫の夢]広町 七深のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1987": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1860,
+                "description": "ガチャでメンバー[泡沫の夢]広町 七深を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[泡沫の夢]広町 七深のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1988": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの音楽]湊 友希那を獲得！"
+            }
+        ]
+    },
+    "1989": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの音楽]湊 友希那を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[今の私たちの音楽]湊 友希那のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
     "199": {
         "entries": [
             {
@@ -15756,6 +16078,128 @@
                 "conditionType": "limit_break",
                 "value": 3,
                 "description": "[もう制服を着ない朝]今井 リサのマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1990": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの音楽]湊 友希那を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[今の私たちの音楽]湊 友希那のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1991": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの音楽]湊 友希那を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[今の私たちの音楽]湊 友希那のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1992": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの音楽]湊 友希那を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[今の私たちの音楽]湊 友希那のマスターランクを4にして衣装を獲得！"
+            }
+        ]
+    },
+    "1993": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの距離]氷川 紗夜を獲得！"
+            }
+        ]
+    },
+    "1994": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの距離]氷川 紗夜を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 1,
+                "description": "[今の私たちの距離]氷川 紗夜のマスターランクを1にして衣装を獲得！"
+            }
+        ]
+    },
+    "1995": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの距離]氷川 紗夜を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 2,
+                "description": "[今の私たちの距離]氷川 紗夜のマスターランクを2にして衣装を獲得！"
+            }
+        ]
+    },
+    "1996": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの距離]氷川 紗夜を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 3,
+                "description": "[今の私たちの距離]氷川 紗夜のマスターランクを3にして衣装を獲得！"
+            }
+        ]
+    },
+    "1997": {
+        "entries": [
+            {
+                "conditionSeq": 1,
+                "conditionType": "gacha",
+                "value": 1869,
+                "description": "ガチャでメンバー[今の私たちの距離]氷川 紗夜を獲得！"
+            },
+            {
+                "conditionSeq": 2,
+                "conditionType": "limit_break",
+                "value": 4,
+                "description": "[今の私たちの距離]氷川 紗夜のマスターランクを4にして衣装を獲得！"
             }
         ]
     },

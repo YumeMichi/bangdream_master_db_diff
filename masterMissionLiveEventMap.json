@@ -1,71 +1,71 @@
 {
-    "330": {
-        "eventId": 330,
+    "333": {
+        "eventId": 333,
         "attributes": [
             {
-                "eventId": 330,
+                "eventId": 333,
                 "attribute": "pure",
                 "percent": 10
             }
         ],
         "characters": [
             {
-                "eventId": 330,
-                "characterId": 16,
+                "eventId": 333,
+                "characterId": 21,
                 "percent": 20,
-                "seq": 5
+                "seq": 1
             },
             {
-                "eventId": 330,
-                "characterId": 17,
-                "percent": 20,
-                "seq": 4
-            },
-            {
-                "eventId": 330,
-                "characterId": 18,
-                "percent": 20,
-                "seq": 3
-            },
-            {
-                "eventId": 330,
-                "characterId": 19,
+                "eventId": 333,
+                "characterId": 22,
                 "percent": 20,
                 "seq": 2
             },
             {
-                "eventId": 330,
-                "characterId": 20,
+                "eventId": 333,
+                "characterId": 23,
                 "percent": 20,
-                "seq": 1
+                "seq": 5
+            },
+            {
+                "eventId": 333,
+                "characterId": 24,
+                "percent": 20,
+                "seq": 3
+            },
+            {
+                "eventId": 333,
+                "characterId": 25,
+                "percent": 20,
+                "seq": 4
             }
         ],
         "stories": [
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 0,
                 "caption": "オープニング",
-                "title": "ジブンたちができること",
-                "synopsis": "ある日の晩、麻弥はファンレターを\n読みながら、遠方のファンに思いを馳せる。",
-                "scenarioId": "event330-01",
-                "coverImage": "330_0",
+                "title": "音のないリビング",
+                "synopsis": "All Music Fes.選考通過の報せが届く。\nRoseliaは、再びあの輝かしい舞台に。",
+                "scenarioId": "event333-01",
+                "coverImage": "333_0",
                 "backgroundImage": "0",
                 "releasePt": 0,
                 "releaseConditions": "オープニングシナリオ",
-                "backgroundImageId": 340,
+                "backgroundImageId": 84,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4974,
-                        "eventId": 330,
+                        "id": 5016,
+                        "eventId": 333,
                         "seq": 0,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4975,
-                        "eventId": 330,
+                        "id": 5017,
+                        "eventId": 333,
                         "seq": 0,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -73,30 +73,30 @@
                 ]
             },
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 1,
                 "caption": "第１話",
-                "title": "４７都道府県ツアースタート！",
-                "synopsis": "パスパレによる４７都道府県ツアーが、\nいよいよ開幕！　最初のステージは――",
-                "scenarioId": "event330-02",
-                "coverImage": "330_1",
+                "title": "私たちが届けたいもの",
+                "synopsis": "オルフェスに向け、セトリ会議が行われる。\n今、観客に届けるRoseliaの音楽は――",
+                "scenarioId": "event333-02",
+                "coverImage": "333_1",
                 "backgroundImage": "0",
                 "releasePt": 3000,
                 "releaseConditions": "3000イベントP達成",
-                "backgroundImageId": 26,
+                "backgroundImageId": 335,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4976,
-                        "eventId": 330,
+                        "id": 5018,
+                        "eventId": 333,
                         "seq": 1,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4977,
-                        "eventId": 330,
+                        "id": 5019,
+                        "eventId": 333,
                         "seq": 1,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -104,30 +104,30 @@
                 ]
             },
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 2,
                 "caption": "第２話",
-                "title": "会いに行けるからこそ",
-                "synopsis": "全国ツアーが順調に進む中、麻弥とイヴは\nツアーをより充実させるべく思案する。",
-                "scenarioId": "event330-03",
-                "coverImage": "330_2",
+                "title": "Roseliaとは",
+                "synopsis": "本番のための練習を重ねる一同。\n掴む手ごたえは、けれどまだ足りず……",
+                "scenarioId": "event333-03",
+                "coverImage": "333_2",
                 "backgroundImage": "0",
                 "releasePt": 6000,
                 "releaseConditions": "6000イベントP達成",
-                "backgroundImageId": 56,
+                "backgroundImageId": 553,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4978,
-                        "eventId": 330,
+                        "id": 5020,
+                        "eventId": 333,
                         "seq": 2,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4979,
-                        "eventId": 330,
+                        "id": 5021,
+                        "eventId": 333,
                         "seq": 2,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -135,30 +135,30 @@
                 ]
             },
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 3,
                 "caption": "第３話",
-                "title": "ツアーならではの熱量",
-                "synopsis": "ツアーはさらに進んで３週目、パスパレと\nファンの熱量はさらに高まっていく。",
-                "scenarioId": "event330-04",
-                "coverImage": "330_3",
+                "title": "試行、錯誤、果てに",
+                "synopsis": "やはりまだ、何かが足りない。\nその何かを埋めるため、一同が向かうは……",
+                "scenarioId": "event333-04",
+                "coverImage": "333_3",
                 "backgroundImage": "0",
                 "releasePt": 15000,
                 "releaseConditions": "15000イベントP達成",
-                "backgroundImageId": 26,
+                "backgroundImageId": 951,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4980,
-                        "eventId": 330,
+                        "id": 5022,
+                        "eventId": 333,
                         "seq": 3,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4981,
-                        "eventId": 330,
+                        "id": 5023,
+                        "eventId": 333,
                         "seq": 3,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -166,30 +166,30 @@
                 ]
             },
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 4,
                 "caption": "第４話",
-                "title": "パスパレ流バンドワゴン！",
-                "synopsis": "ツアーの合間、時間に余裕ができた一同は\n束の間の旅情を満喫していく。",
-                "scenarioId": "event330-05",
-                "coverImage": "330_4",
+                "title": "薔薇の蔦の伸びる先",
+                "synopsis": "Roseliaは考える。\n――Roseliaらしさ、とは。",
+                "scenarioId": "event333-05",
+                "coverImage": "333_4",
                 "backgroundImage": "0",
                 "releasePt": 28000,
                 "releaseConditions": "28000イベントP達成",
-                "backgroundImageId": 1095,
+                "backgroundImageId": 17,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4982,
-                        "eventId": 330,
+                        "id": 5024,
+                        "eventId": 333,
                         "seq": 4,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4983,
-                        "eventId": 330,
+                        "id": 5025,
+                        "eventId": 333,
                         "seq": 4,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -197,30 +197,30 @@
                 ]
             },
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 5,
                 "caption": "第５話",
-                "title": "進化していくツアー",
-                "synopsis": "福井の街を巡る一同。そこで出会う全てが、\nステージの力になるのを感じて……",
-                "scenarioId": "event330-06",
-                "coverImage": "330_5",
+                "title": "we aRe",
+                "synopsis": "これが、Roselia。\n",
+                "scenarioId": "event333-06",
+                "coverImage": "333_5",
                 "backgroundImage": "0",
                 "releasePt": 40000,
                 "releaseConditions": "40000イベントP達成",
-                "backgroundImageId": 1255,
+                "backgroundImageId": 1056,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4984,
-                        "eventId": 330,
+                        "id": 5026,
+                        "eventId": 333,
                         "seq": 5,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4985,
-                        "eventId": 330,
+                        "id": 5027,
+                        "eventId": 333,
                         "seq": 5,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -228,30 +228,30 @@
                 ]
             },
             {
-                "eventId": 330,
+                "eventId": 333,
                 "seq": 6,
                 "caption": "エンディング",
-                "title": "みんなに届くように！",
-                "synopsis": "ツアー４週目も無事終了。ホテルで\n軽く打ち上げを楽しむ一同は……",
-                "scenarioId": "event330-07",
-                "coverImage": "330_6",
+                "title": "音の咲くリビング",
+                "synopsis": "オルフェスを終え、日常が戻る。\nけれど彼女たちは、変わり続ける。",
+                "scenarioId": "event333-07",
+                "coverImage": "333_6",
                 "backgroundImage": "0",
                 "releasePt": 55000,
                 "releaseConditions": "55000イベントP達成",
-                "backgroundImageId": 885,
+                "backgroundImageId": 84,
                 "mainStoryId": 0,
                 "rewards": [
                     {
-                        "id": 4986,
-                        "eventId": 330,
+                        "id": 5028,
+                        "eventId": 333,
                         "seq": 6,
                         "rewardType": "item",
                         "rewardId": 13,
                         "rewardQuantity": 1
                     },
                     {
-                        "id": 4987,
-                        "eventId": 330,
+                        "id": 5029,
+                        "eventId": 333,
                         "seq": 6,
                         "rewardType": "star",
                         "rewardQuantity": 50
@@ -260,27 +260,27 @@
             }
         ],
         "eventAttributeAndCharacterBonus": {
-            "eventId": 330,
+            "eventId": 333,
             "pointPercent": 20,
             "parameterPercent": 0
         },
         "members": {
             "entries": {
-                "2447": {
-                    "eventId": 330,
-                    "situationId": 2447,
+                "2464": {
+                    "eventId": 333,
+                    "situationId": 2464,
                     "percent": 20,
                     "seq": 1
                 },
-                "2448": {
-                    "eventId": 330,
-                    "situationId": 2448,
+                "2465": {
+                    "eventId": 333,
+                    "situationId": 2465,
                     "percent": 20,
                     "seq": 2
                 },
-                "2451": {
-                    "eventId": 330,
-                    "situationId": 2451,
+                "2468": {
+                    "eventId": 333,
+                    "situationId": 2468,
                     "percent": 20,
                     "seq": 3
                 }

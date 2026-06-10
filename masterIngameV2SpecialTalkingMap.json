@@ -49,6 +49,11 @@
         "formerMotion": "smile01",
         "motion": "smile01_ingameV2"
     },
+    "002_live_event_332_ur_smile01": {
+        "costumeName": "002_live_event_332_ur",
+        "formerMotion": "smile01",
+        "motion": "smile01_ingameV2"
+    },
     "002_live_event_71_ssr_kime01": {
         "costumeName": "002_live_event_71_ssr",
         "formerMotion": "kime01",
@@ -86,6 +91,11 @@
     },
     "004_live_event_325_ur_smile02": {
         "costumeName": "004_live_event_325_ur",
+        "formerMotion": "smile02",
+        "motion": "smile02_ingameV2"
+    },
+    "004_live_event_332_ur_smile02": {
+        "costumeName": "004_live_event_332_ur",
         "formerMotion": "smile02",
         "motion": "smile02_ingameV2"
     },

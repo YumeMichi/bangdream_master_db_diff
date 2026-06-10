@@ -1775,6 +1775,20 @@
         "resourceName": "icon_eventbadge_red",
         "description": "ハロー・スマイル♡なんでも屋さん★"
     },
+    "325": {
+        "eventItemId": 325,
+        "eventId": 332,
+        "itemName": "ブルーメダル",
+        "resourceName": "icon_eventmedal_blue",
+        "description": "これからも迎える朝は"
+    },
+    "326": {
+        "eventItemId": 326,
+        "eventId": 333,
+        "itemName": "グリーンバッジ",
+        "resourceName": "icon_eventbadge_green",
+        "description": "ディープ・ローズ・ホライズン"
+    },
     "33": {
         "eventItemId": 33,
         "eventId": 40,

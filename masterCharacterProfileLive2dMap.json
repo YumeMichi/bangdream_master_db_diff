@@ -5475,6 +5475,15 @@
         "motion": "smile01",
         "live2dSpecialTermId": 13
     },
+    "11404": {
+        "characterProfileLive2dId": 11404,
+        "scenarioType": "standard",
+        "characterId": 17,
+        "serif": "七深ちゃんハピバ！　とっておきの食玩コレクションあげる！",
+        "voice": "sys-2026-PA-046",
+        "motion": "gattsu01",
+        "live2dSpecialTermId": 28
+    },
     "11405": {
         "characterProfileLive2dId": 11405,
         "scenarioType": "standard",
@@ -9342,9 +9351,9 @@
         "characterProfileLive2dId": 11861,
         "scenarioType": "standard",
         "characterId": 30,
-        "serif": "広町さんの誕生日は、今年はホラー映画鑑賞会をするそうよ",
+        "serif": "広町さんの誕生日ね。色々な場所を回って満足そうにしていたわ",
         "voice": "sys-2026-MO-149",
-        "motion": "nf03",
+        "motion": "nf04",
         "live2dSpecialTermId": 28
     },
     "11862": {
